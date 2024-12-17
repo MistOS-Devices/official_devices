@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zabuka_Zuzu",
+                        "oem": "Xiaomi",
+                        "device": "Poco X3 NFC",
+                        "filename": "MistOS-3.0-BETA-OFFICIAL-20241217-GAPPS-surya.zip",
+                        "download": "https://sourceforge.net/projects/zabuka/files/surya/MistOS-3.0-BETA-OFFICIAL-20241217-GAPPS-surya.zip/download",
+                        "timestamp": 1734423500,
+                        "md5": "80be70df4814498de154d9c00a38a359",
+                        "sha256": "8458f29655cd7b0bc688522500489d92bc8562626f144a3720ab602b8301e510",
+                        "size": 2768903414,
+                        "version": "3.0-Nebula",
+                        "buildtype": "BETA",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
