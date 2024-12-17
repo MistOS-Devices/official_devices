@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "GamerBoy1234294",
+			"oem": "Google",
+			"device": "Pixel 8 Pro",
+			"filename": "MistOS-3.0-BETA-OFFICIAL-20241210-GAPPS-husky.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/husky/MistOS-3.0-BETA-OFFICIAL-20241210-GAPPS-husky.zip/download",
+			"timestamp": 1733873317,
+			"md5": "b5815959a9bd3b0a0517da94415c79f9",
+			"sha256": "f9be45f8027734d965d7d62cffa9f05110349db783da8a6875ee289c4f463a25",
+			"size": 2566445634,
+			"version": "3.0-Nebula",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "Full",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/gamerboy1234294",
+			"telegram": "https://t.me/GamerBoy1234294",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
