@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "GamerBoy1234294",
+			"oem": "Google",
+			"device": "Pixel 8",
+			"filename": "MistOS-3.0-BETA-OFFICIAL-20241210-GAPPS-shiba.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/shiba/MistOS-3.0-BETA-OFFICIAL-20241210-GAPPS-shiba.zip/download",
+			"timestamp": 1733873941,
+			"md5": "bfac8e89c07d413900f7b05259f63d87",
+			"sha256": "06dc784accad0885ff258a177bedc891b78c42964f56705aa8e6d02b80434b46",
+			"size": 2558413701,
+			"version": "3.0-Nebula",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "Full",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/gamerboy1234294",
+			"telegram": "https://t.me/GamerBoy1234294",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
