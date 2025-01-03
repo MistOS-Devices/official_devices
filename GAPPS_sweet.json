@@ -1,0 +1,29 @@
+{
+        "response": [
+                {
+                        "maintainer": "Musafir02",
+
+                        "oem": "Xiaomi",
+                        "device": "Redmi note 10 pro",
+                        "filename": "MistOS-3.0.1-BETA-OFFICIAL-20250102-GAPPS-sweet.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/sweet/MistOS-3.0.1-BETA-OFFICIAL-20250102-GAPPS-sweet.zip/download",
+                        "timestamp": 1735816399,
+                        "md5": "481f85880c07e9f8a8094600ae46db38",
+                        "sha256": "c0b3d4a220857a3367638fdb6c8d5af2f61ba3b1efd1cfff332b6ef46d86a940",
+                        "size": 2720325820,
+                        "version": "3.0.1-Haze",
+                        "buildtype": "Beta",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "musafir060",
+                        "telegram": "https://t.me/RoyalOSsweet",
+                        "dt": "https://github.com/Musafir02/device_xiaomi_sweet.git",
+                        "common-dt": "https://github.com/Musafir02/device_xiaomi_sm6150-common.git",
+                        "kernel": "https://github.com/GokuSan2/kernel_xiaomi_sm6150.git"
+                }
+        ]
+}
