@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 9 Pro",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-caiman-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/caiman/MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-caiman-ota-signed.zip/download",
+			"timestamp": 1735360956,
+			"md5": "a3203f8448a641aa1ef25f4312f6c03e",
+			"sha256": "6289785b5fd89381a17333793470c987d4d83c18eaafbc87f101795896f0d864",
+			"size": 2821175924,
+			"version": "3.0.1-Haze",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https:paypal.me/osmjr1019",
+			"telegram": "https://t.me/caimito_roms",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
