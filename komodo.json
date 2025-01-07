@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 9 Pro XL",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-komodo-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/komodo/MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-komodo-ota-signed.zip/download",
+			"timestamp": 1735350162,
+			"md5": "31e8d21b84b31a94a00c517fa32412ad",
+			"sha256": "0174231aeb1b33f16d6b885779b0861a2efce4271353d1b3132210462493b7a9",
+			"size": 2821192795,
+			"version": "3.0.1-Haze",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https:paypal.me/osmjr1019",
+			"telegram": "https://t.me/caimito_roms",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
