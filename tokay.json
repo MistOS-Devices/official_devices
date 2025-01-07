@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 9",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-tokay-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/tokay/MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-tokay-ota-signed.zip/download",
+			"timestamp": 1735357661,
+			"md5": "88b6607fa1d56f1949317f30946083dc",
+			"sha256": "230d745b3993265074d1466ce17fc441de01b4c46738607dd429b02d15bc3d05",
+			"size": 2811362466,
+			"version": "3.0.1-Haze",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https:paypal.me/osmjr1019",
+			"telegram": "https://t.me/caimito_roms",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
