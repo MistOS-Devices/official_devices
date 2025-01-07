@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Asim_Bhoi",
+                        "oem": "Xiaomi",
+                        "device": "Mi 11X Pro",
+                        "filename": "MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-haydn.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/haydn/MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-haydn.zip/download",
+                        "timestamp": 1735392767,
+                        "md5": "09d40812e669ce98be9f276367186759",
+                        "sha256": "19c3e3dc44dfad286f4f259d41ff011808a759504db6536d68c11bd4ea1aef0c",
+                        "size": 2863500744,
+                        "version": "3.0.1-Haze",
+                        "buildtype": "Beta",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/AsimBhoi",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
