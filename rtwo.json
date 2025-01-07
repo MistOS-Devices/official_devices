@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Motorola",
+			"device": "Edge + 2023",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-rtwo-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/rtwo/MistOS-3.0.1-BETA-OFFICIAL-20241228-GAPPS-rtwo-ota-signed.zip/download",
+			"timestamp": 1735353980,
+			"md5": "b2d75d9708de9f77f909f613fdb624b4",
+			"sha256": "0c53a5b8e049a3802fca277062cc82d2231b4e05ada334d6def6a599398a0029",
+			"size": 2884949173,
+			"version": "3.0.1-Haze",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https:paypal.me/osmjr1019",
+			"telegram": "https://t.me/rtwocommunty",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
