@@ -1,0 +1,30 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Komodo
+Device maintainer: OscarM
+
+=====================
+01-16-24
+=====================
+Device:
+- Updated to January Firmware
+- Integrity passing by default
+- Added Google Face Unlock
+- Added PixelParts
+
+Sources Changelog:
+- January QPR1 Security Patch
+- Revamped Settings UI for a cleaner and more intuitive experience
+- Reverted to PIH certification for improved stability
+- Added PIH GameProps for enhanced performance and customization
+- Split Notification feature for better multitasking management
+- New System Animation Styles for a more fluid and responsive experience
+- Added Now Bar (Credit: Rising)
+- Various bug fixes and performance improvements
+- Fixed the System Crashing 
+- Fixed the Launcher HotSeat Background Crashing
+- Fixed the Bootloop Issue 
+- Fixed the System Animation & Jitters
+- Removed the Unused Spoofing settings
+- System Improvement 
+- All the features & customisation same from previous update

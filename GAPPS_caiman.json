@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OscarM",
+			"oem": "Google",
+			"device": "Pixel 9 Pro",
+			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250117-GAPPS-caiman-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/caiman/MistOS-3.2.1-Stable-OFFICIAL-20250117-GAPPS-caiman-ota-signed.zip/download",
+			"timestamp": 1737078963,
+			"md5": "5c15faab3f8f133896479cf27c7277ea",
+			"sha256": "ef5c3dcdad90bea311c958c3442708092a8da9c551ee27ef8f55401d573aecdc",
+			"size": 2598749973,
+			"version": "3.2.1-Nimbus",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https:paypal.me/osmjr1019",
+			"telegram": "https://t.me/caimito_roms",
+			"dt": "https://github.com/MistOS-Devices/device_google_caimito",
+			"common-dt": "https://github.com/MistOS-Devices/device_google_zumapro",
+			"kernel": "https://android.googlesource.com/device/google/caimito-kernels/6.1/+/refs/tags/android-15.0.0_r12"
+		}
+	]
+}
