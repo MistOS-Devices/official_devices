@@ -1,0 +1,11 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: beryllium
+Device maintainer: NotDheeraj06
+
+=====================
+17-01-25
+=====================
+Device: 
+• Initial A15 Build
+• GAPPS Build
