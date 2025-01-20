@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "IczYn",
-			"oem": "Google",
-			"device": "Pixel 6",
+			"maintainer": "",
+			"oem": "",
+			"device": "",
 			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250120-GAPPS-oriole.zip",
 			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/oriole/MistOS-3.2.1-Stable-OFFICIAL-20250120-GAPPS-oriole.zip/download",
-			"timestamp": 1737355636,
-			"md5": "2a1e711203a8059319f8735de1bfce0f",
-			"sha256": "07b0c85cafd6863392555da1a994c5f879277f7a22ab758d6353948542d4c7ac",
-			"size": 2536959975,
+			"timestamp": 1737403171,
+			"md5": "2cdfa36a09410388a6fd1270a9aae50a",
+			"sha256": "58ad227c14f43bc5aa111acb07cb771d4a241ec0b4a1122c5a496de0ee6fc005",
+			"size": 2536959694,
 			"version": "3.2.1-Nimbus",
 			"buildtype": "Stable",
 			"forum": "",
@@ -18,8 +18,8 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.me/iczyn",
-			"telegram": "https://t.me/iczynbuilds",
+			"paypal": "",
+			"telegram": "",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
