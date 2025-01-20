@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "IczYn",
-			"oem": "Google",
-			"device": "Pixel 6a",
+			"maintainer": "",
+			"oem": "",
+			"device": "",
 			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250120-GAPPS-bluejay.zip",
 			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/bluejay/MistOS-3.2.1-Stable-OFFICIAL-20250120-GAPPS-bluejay.zip/download",
-			"timestamp": 1737357276,
-			"md5": "56612d9e647f236546e8300dc7ebb460",
-			"sha256": "b7665e332080b978128602ee8830d287845cceb702d05055ca833672740b1277",
-			"size": 2537753167,
+			"timestamp": 1737403789,
+			"md5": "1482fc3049d7200011734bccec3688a8",
+			"sha256": "a6263bf27caf7cfb1b8ce4f29489b2ad0362ef75b307b5e0a29e5046d56db924",
+			"size": 2537753225,
 			"version": "3.2.1-Nimbus",
 			"buildtype": "Stable",
 			"forum": "",
@@ -18,8 +18,8 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.me/iczyn",
-			"telegram": "https://t.me/iczynbuilds",
+			"paypal": "",
+			"telegram": "",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
