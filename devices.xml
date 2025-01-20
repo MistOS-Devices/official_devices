@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="device_google_bluejay" />
+  <project name="device_google_caiman" />
+  <project name="device_google_caimito" />
+  <project name="device_google_komodo" />
+  <project name="device_google_lynx" />
+  <project name="device_google_pantah" />
+  <project name="device_google_raviole" />
+  <project name="device_google_shusky" />
+  <project name="device_google_sunfish" />
+  <project name="device_google_tokay" />
+  <project name="device_motorola_dubai" />
+  <project name="device_motorola_rtwo" />
+  <project name="device_nothing_Pong" />
+  <project name="device_oneplus_lemonades" />
+  <project name="device_xiaomi_beryllium" />
+  <project name="device_xiaomi_garnet" />
+  <project name="device_xiaomi_raphael" />
+  <project name="device_xiaomi_sky" />
+  <project name="device_xiaomi_surya" />
+  <project name="device_xiaomi_gauguin" />
+  <project name="device_xiaomi_sweet" />
+  <project name="device_xiaomi_hydn" />
