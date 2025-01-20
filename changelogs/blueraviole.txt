@@ -1,0 +1,11 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Pixel 6 Series
+Device maintainer: IczYn
+
+=====================
+20-01-25
+=====================
+Device: 
+• Initial A15 Build
+• GAPPS Build
