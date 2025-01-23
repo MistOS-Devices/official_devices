@@ -1,0 +1,19 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Haydn
+Device maintainer: Asim Bhoi
+
+=====================
+23-01-25
+=====================
+Device: 
+• Initial Android 15 build
+• GAPPS and VANILLA Build
+• Changed Kernel to Kernelicious Kernel with KernelSU-Next Support
+• Merged Source Changes
+• Integrity Passes by default
+• Removed OMX
+• Updated blobs from haydn V816.0.11.0.UKKMIXM
+• Switched to AIDL Thermal HAL
+• Switched to QTI Memtrack AIDL HAL
+• Enabled battery cycle count
