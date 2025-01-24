@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Butterfingers",
+                        "oem": "Xiaomi",
+                        "device": "raphael",
+                        "filename": "MistOS-3.2.1-Stable-OFFICIAL-20250124-GAPPS-raphael.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/raphael/MistOS-3.2.1-Stable-OFFICIAL-20250124-GAPPS-raphael.zip/download",
+                        "timestamp": 1737708419,
+                        "md5": "f05dcbe7b9c70d4c17d702bb7abfa0e4",
+                        "sha256": "8e84c12646c8d9703234f37b93e9cd904da3e95e114e26c51dee23eba54a49f1",
+                        "size": 2804256241,
+                        "version": "3.2.1-Nimbus",
+                        "buildtype": "Stable",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/Genhodee",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+ }
