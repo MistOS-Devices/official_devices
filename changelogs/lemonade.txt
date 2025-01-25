@@ -1,0 +1,14 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Lemonade
+Device maintainer: Addy
+
+=====================
+26-01-25
+=====================
+Device: 
+•Initial Official Build
+•Gapps Build
+•KSU Build
+•Merged Latest Source
+•Integrity Passes By Default
