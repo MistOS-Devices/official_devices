@@ -4,6 +4,43 @@ Device: Garnet
 Device maintainer: JYR_RC
 
 =====================
+25th January,2025
+=====================
+Device:
+- January patch security
+- Bump version 3.2.1 Nimbus
+- Import OnePlus Dolby
+- Fixed dolby vision HDR
+- Fixed magic editor google photos
+- Added update netflix props
+- Set dex2oat thread count and cpuset
+- Label more property camera
+- Disable slow blur effect to avoid laggish blur effect
+- Add a property to enable prefetching video
+- Remove omx libraries
+- Disable OMX service
+- Defer refresh rate changes when screen is off
+- Import media codecs parrot
+- Import audio configurations from stock vendor
+- Disable Smart Pixels on UDFPS
+- Import Codec2 configs
+- Remove direct flag for VOIP RX
+- Disable receiver profile for ultrasound-handset route
+- Remove FM Tuner from audio input devices
+- Declare missing android.hardware.graphics.allocator IAllocator
+- Switch to STRIX kernel (ksu support) thanks unmoved21
+- If you do not pass basic integrity and device update fix settings/mistify/Spoofing/Update pif,restart the device and delete data from the play store and play services
+
+Sources:
+- Fixed the System Crashing 
+- Fixed the Launcher HotSeat Background Crashing
+- Fixed the Bootloop Issue 
+- Fixed the System Animation & Jitters
+- Removed the Unused Spoofing settings
+- System Improvement 
+- All the features & customisation same from previous update
+
+=====================
 02th December,2024
 =====================
 Device:
