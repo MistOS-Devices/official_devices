@@ -4,12 +4,12 @@
 			"maintainer": "OscarM",
 			"oem": "Google",
 			"device": "Pixel 9 Pro XL",
-			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250117-GAPPS-komodo-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/komodo/MistOS-3.2.1-Stable-OFFICIAL-20250117-GAPPS-komodo-ota-signed.zip/download",
-			"timestamp": 1737076615,
-			"md5": "12199cea203208e7c1decb3b89fef40f",
-			"sha256": "d3f10bf666ed783283f335f1c4005bf7967003d1707f1088189e24fbb8bb1e3b",
-			"size": 2602213484,
+			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250126-GAPPS-komodo-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/komodo/MistOS-3.2.1-Stable-OFFICIAL-20250126-GAPPS-komodo-ota-signed.zip/download",
+			"timestamp": 1737925611,
+			"md5": "0b0818082043f593e3496662c1f72ae2",
+			"sha256": "204491f5fb01cbc89748a9181f090ff6e9797661c43939cfe6c0c62c2885c780",
+			"size": 2596085274,
 			"version": "3.2.1-Nimbus",
 			"buildtype": "Stable",
 			"forum": "",
@@ -19,9 +19,10 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "https:paypal.me/osmjr1019",
-			"dt": "https://github.com/MistOS-Devices/device_google_caimito",
-			"common-dt": "https://github.com/MistOS-Devices/device_google_zumapro",
-			"kernel": "https://android.googlesource.com/device/google/caimito-kernels/6.1/+/refs/tags/android-15.0.0_r12"
+			"telegram": "https://t.me/caimito_roms",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
