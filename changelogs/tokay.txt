@@ -2,7 +2,15 @@ Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Tokay
 Device maintainer: OscarM
+=====================
+01-25-24
+=====================
+Device:
+update surfaceflinger to stock values
 
+Sources Changelog:
+-Fix swipe to invoke assistant
+-Other under the hood optimaztions
 =====================
 01-16-24
 =====================
