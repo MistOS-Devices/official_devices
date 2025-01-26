@@ -4,6 +4,16 @@ Device: Rtwo
 Device maintainer: OscarM
 
 =====================
+01-26-24
+=====================
+Device:
+-Switched to AmberKernel V3
+
+Sources Changelog:
+-Fix swipe to invoke assistant
+-Other under the hood optimaztions
+
+=====================
 01-16-24
 =====================
 Device:
