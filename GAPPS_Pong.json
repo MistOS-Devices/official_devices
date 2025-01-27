@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Butterfingers",
+			"oem": "nothing",
+			"device": "Pong",
+			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250125-GAPPS-Pong.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/Pong/MistOS-3.2.1-Stable-OFFICIAL-20250125-GAPPS-Pong.zip/download",
+			"timestamp": 1737841262,
+			"md5": "614745ff7a94c8bdf3a528a61df67fad",
+			"sha256": "9f41f8d00ba1e5f53a0d9b40c30804e14382ea48c5bfafb718194c8fcd88a90d",
+			"size": 2791026501,
+			"version": "3.2.1-Nimbus",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
