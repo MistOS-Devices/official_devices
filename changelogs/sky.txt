@@ -19,3 +19,13 @@ Device:
 Device:
 - Pixel launcher (circle to search)
 - misc improvements
+
+=====================
+29th January,2025
+=====================
+Device:
+- Pixel launcher Dropped
+- misc improvements
+- Gcam Dropped
+- Outer tune added
+- Games max fps supported by default
