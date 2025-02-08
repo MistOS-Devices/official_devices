@@ -13,7 +13,7 @@
   <project name="device_motorola_dubai" />
   <project name="device_motorola_rtwo" />
   <project name="device_nothing_Pong" />
-  <project name="device_oneplus_lemonades" />
+  <project name="device_oneplus_lemonade" />
   <project name="device_xiaomi_beryllium" />
   <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_raphael" />
@@ -21,4 +21,9 @@
   <project name="device_xiaomi_surya" />
   <project name="device_xiaomi_gauguin" />
   <project name="device_xiaomi_sweet" />
-  <project name="device_xiaomi_hydn" />
+  <project name="device_xiaomi_haydn" />
+  <project name="device_xiaomi_begonia" />
+  <project name="device_xiaomi_cupid" />
+  <project name="device_realme_porsche" />
+  <project name="device_realme_spartan" />
+</manifest>
