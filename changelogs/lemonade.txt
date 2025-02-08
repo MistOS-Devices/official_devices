@@ -4,6 +4,15 @@ Device: Lemonade
 Device maintainer: Addy
 
 =====================
+09/02/2025
+=====================
+Device:
+•Switched to oss audio hal 
+•Fix in-game voice chat issue
+•Fix low mic issue on whatsapp
+•Merged Latest Security Patch
+•Debloated some system apps
+=====================
 26-01-25
 =====================
 Device: 
