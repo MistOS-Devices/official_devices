@@ -1,0 +1,28 @@
+{                                                                                                                                                                                                          │
+        "response": [                                                                                                                                                                                      │
+                {                                                                                                                                                                                          │
+                        "maintainer": "ShivaOP",                                                                                                                                                                  │
+                        "oem": "Realme",                                                                                                                                                                         │
+                        "device": "Realme Gt 2",                                                                                                                                                                      │
+                        "filename": "MistOS-3.3-Stable-OFFICIAL-20250208-GAPPS-porsche-ota-signed.zip",                                                                                                    │
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/porsche/MistOS-3.3-Stable-OFFICIAL-20250208-GAPPS-porsche-ota-signed.zip/download",                   │
+                        "timestamp": 1739020199,                                                                                                                                                           │
+                        "md5": "f6ec6f82ee9104312830e73cdec61a2d",                                                                                                                                         │
+                        "sha256": "0ed2f3122fb6a0ec54290add96f973168215e7b8055509370f4b2e3e5b6c9436",                                                                                                      │
+                        "size": 2901205524,                                                                                                                                                                │
+                        "version": "3.3-Anvil",                                                                                                                                                            │
+                        "buildtype": "Stable",                                                                                                                                                             │
+                        "forum": "",                                                                                                                                                                       │
+                        "gapps": "",                                                                                                                                                                       │
+                        "firmware": "",                                                                                                                                                                    │
+                        "modem": "",                                                                                                                                                                       │
+                        "bootloader": "",                                                                                                                                                                  │
+                        "recovery": "",                                                                                                                                                                    │
+                        "paypal": "",                                                                                                                                                                      │
+                        "telegram": "",                                                                                                                                                                    │
+                        "dt": "",                                                                                                                                                                          │
+                        "common-dt": "",                                                                                                                                                                   │
+                        "kernel": ""                                                                                                                                                                       │
+                }                                                                                                                                                                                          │
+        ]                                                                                                                                                                                                  │
+} 
