@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "Google",
+			"device": "Pixel 7 Pro",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250208-GAPPS-cheetah.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/cheetah/MistOS-3.3-Stable-OFFICIAL-20250208-GAPPS-cheetah.zip/download",
+			"timestamp": 1739029765,
+			"md5": "162c8bf19a791e089fbb38014e71acfc",
+			"sha256": "7812b4f9e4a38ed6a6e5a58f1c0dadf4e8bcf17fb3e7178eaae496f8dfa2fba1",
+			"size": 2707017800,
+			"version": "3.3-Anvil",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

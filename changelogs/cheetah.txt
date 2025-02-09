@@ -1,0 +1,25 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Cheetah
+Device maintainer: JYR_RC
+
+=====================
+09th February,2025
+=====================
+Device:
+- Initial A15 stable build for cheetah
+
+Sources:
+- Feb Security Patch 
+- Double Press Power Action Button 
+- Custom brightness slider
+- Added More Custom Widgets
+- Added Lockscreen Bottom Shortcut 
+- Fix the chroma & luminance factor
+- Customizing volume stream steps
+- various bug fixes & performance improvements
+
+Credits:
+Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.
+
+
