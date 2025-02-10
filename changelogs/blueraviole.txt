@@ -4,8 +4,16 @@ Device: Pixel 6 Series
 Device maintainer: IczYn
 
 =====================
+10-02-25
+=====================
+Device:
+• Removing unnecessary stuff ( PixelParts, V4a)
+• Updated to February Firmware
+
+=====================
 20-01-25
 =====================
 Device: 
 • Initial A15 Build
 • GAPPS Build
+
