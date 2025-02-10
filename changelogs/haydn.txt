@@ -1,7 +1,7 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Haydn
-Device maintainer: Asim Bhoi
+Device maintainer: Hexdare
 
 =====================
 23-01-25
