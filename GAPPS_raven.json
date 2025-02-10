@@ -1,9 +1,9 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "IczYn",
+			"oem": "Google",
+			"device": "Pixel 6 Pro",
 			"filename": "MistOS-3.3-Stable-OFFICIAL-20250209-GAPPS-raven.zip",
 			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/raven/MistOS-3.3-Stable-OFFICIAL-20250209-GAPPS-raven.zip/download",
 			"timestamp": 1739122433,
@@ -18,8 +18,8 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "",
-			"telegram": "",
+			"paypal": "https://www.paypal.me/iczyn",
+			"telegram": "https://t.me/iczynbuilds",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
