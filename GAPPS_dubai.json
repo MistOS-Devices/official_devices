@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "NotDheeraj06",
+			"oem": "Motorola",
+			"device": "dubai",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250213-GAPPS-dubai.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/dubai/MistOS-3.3-Stable-OFFICIAL-20250213-GAPPS-dubai.zip/download",
+			"timestamp": 1739276800,
+			"md5": "114e15021408b16f5a92637617086c09",
+			"sha256": "1938632a5a5323d5457d422c9c48efc28076226e583b7ec42a0bb1e0818d7cbd",
+			"size": 2489018085,
+			"version": "3.3-Avnil",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.com/paypalme/dheerajshrivatsa",
+			"telegram": "https://t.me/NotDheeraj06",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
