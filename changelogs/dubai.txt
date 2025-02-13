@@ -1,0 +1,13 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: dubai
+Device maintainer: NotDheeraj06
+
+=====================
+13-02-25
+=====================
+Device: 
+• Initial A15 Build
+• GAPPS Build
+• Dolby and ViperFX included
+• KSU included
