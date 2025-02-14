@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Kidz_𝙀𝙒™",
+			"oem": "Xiaomi",
+			"device": "Redmi 10C",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250214-VANILLA-fog-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/fog/MistOS-3.3-Stable-OFFICIAL-20250214-VANILLA-fog-ota-signed.zip/download",
+			"timestamp": 1739498285,
+			"md5": "33a6159784e4024805e9ea538b6d419e",
+			"sha256": "ae5cbf055e9b1e44a108eeee64b203f9679505855d86bee1079f74ef06b34838",
+			"size": 1291412121,
+			"version": "3.3-Avnil",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/txknightt",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

@@ -1,0 +1,22 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: fog, wind, rain
+Device maintainer: Kidz_𝙀𝙒™
+
+=====================
+14-02-25
+=====================
+Device: 
+• Initial A15 Build
+• GAPPS & Vanilla Build
+• KernelSU included
+• fog: power: Enable interaction boost
+• fog: overlay: Nuke max cached processes override
+• fog: props: Disable QCRIL power saving
+• fog: props: Add props to improve battery backup
+• fog: wifi: Enable QPower and Deep sleep at the same time
+• fog: wifi: Smarter decisions on whether to use a 2 or 5Ghz AP
+• fog: wifi: Enable Optimized Power Management
+• fog: overlay: Disable HEVC toggle for screenrecording
+• fog: Increase swappiness upto 200 for 4GB RAM.
+• fog: overlay: disable find my device
