@@ -4,6 +4,19 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+15-02-25
+=====================
+Device:
+Fixed all Leica Cam issues
+Included Latest Firmware Update from HAYDNGlobal_OS1.0.14.0.UKKMIXM
+sepolicy: Remove duplicate snxxx AIDL rules
+Switch audio HAL to V7
+Sync with Spatial Audio
+Add dolby volume listener
+Import OOS modified volumes
+add IHighTouchPollingRate
+
+=====================
 23-01-25
 =====================
 Device: 
