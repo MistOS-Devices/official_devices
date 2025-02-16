@@ -4,6 +4,12 @@ Device: Lemonade
 Device maintainer: Addy
 
 =====================
+17/02/2025
+=====================
+Updated KernelSU to v1.0.3-4-legacy
+Fixed speaker crackling
+Fixed oplus display permssion
+=====================
 09/02/2025
 =====================
 Device:
