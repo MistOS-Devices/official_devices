@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "Poco",
+			"device": "Pocophone F6",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250216-GAPPS-peridot.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/peridot/MistOS-3.3-Stable-OFFICIAL-20250216-GAPPS-peridot.zip/download",
+			"timestamp": 1739710652,
+			"md5": "c7c9192fb39784eaaceb4956c04ac264",
+			"sha256": "e675d28898609af6c4dd4628efb38ddaaae2e8b6f1181db69c73d83b5ba93416",
+			"size": 3494953710,
+			"version": "3.3-Avnil",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/MistOSDiscussion",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
