@@ -1,16 +1,16 @@
 {
 	"response": [
 		{
-			"maintainer": "JYR_RC",
+			"maintainer": "franlop77",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 13 Pro 5G",
-			"filename": "MistOS-3.2.1-Stable-OFFICIAL-20250125-GAPPS-garnet.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/garnet/MistOS-3.2.1-Stable-OFFICIAL-20250125-GAPPS-garnet.zip/download",
-			"timestamp": 1737801844,
-			"md5": "ab055fab335782ea3cd98d35e7de7e6b",
-			"sha256": "be8e3b47eb6879e444553d5199f55137e2feaf419e3ffdd31f69a52a77479071",
-			"size": 2775474261,
-			"version": "3.2.1-Nimbus",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250219-GAPPS-garnet.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/garnet/MistOS-3.3-Stable-OFFICIAL-20250219-GAPPS-garnet.zip/download",
+			"timestamp": 1739988595,
+			"md5": "82ed853a1c0fe8a051ae5b5e030430d9",
+			"sha256": "27d484e7cba49cb026a8c4f502176ede83e4d900bb2b14cea996523943e5942a",
+			"size": 2800148062,
+			"version": "3.3-Avnil",
 			"buildtype": "Stable",
 			"forum": "",
 			"gapps": "",
@@ -18,10 +18,10 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
-			"telegram": "https://t.me/dark_zone_garnet",
-			"dt": "https://github.com/MistOS-Devices/device_xiaomi_garnet",
-			"vt": "https://github.com/MistOS-Devices/vendor_xiaomi_garnet",
+			"paypal": "https:paypal.me/franlop77",
+			"telegram": "https://t.me/MistOSDiscussion",
+			"dt": "",
+			"vt": "",
 			"kernel": ""
 		}
 	]
