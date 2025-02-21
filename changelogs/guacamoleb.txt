@@ -1,0 +1,21 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: guacamoleb
+Device maintainer: HARISH
+
+=====================
+19th February,2025
+=====================
+Device:
+- Feb Security Patch
+- Initial build
+
+Sources:
+- Feb Security Patch 
+- Double Press Power Action Button 
+- Custom brightness slider
+- Added More Custom Widgets
+- Added Lockscreen Bottom Shortcut 
+- Fix the chroma & luminance factor
+- Customizing volume stream steps
+- various bug fixes & performance improvements

@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "",
+            "oem": "Oneplus",
+            "device": "Oneplus 7",
+            "filename": "MistOS-3.3-Stable-OFFICIAL-20250221-GAPPS-guacamoleb-ota-signed.zip",
+            "download": "https://sourceforge.net/projects/project-mistos/files/Android15/guacamoleb/MistOS-3.3-Stable-OFFICIAL-20250221-GAPPS-guacamoleb-ota-signed.zip/download",
+            "timestamp": 1740104097,
+            "md5": "2fcd694348fcdcc2fe885710785bc95a",
+            "sha256": "f1c7c3b4b4e199465fb5d0068fa3485631a73902f48d198c7d6b2ae8c6b3542a",
+            "size": 2408799718,
+            "version": "3.3-Avnil",
+            "buildtype": "Stable",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/OnePlus7Development",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
