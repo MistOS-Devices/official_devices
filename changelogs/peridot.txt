@@ -4,6 +4,30 @@ Device: Peridot
 Device maintainer: JYR_RC
 
 =====================
+27th February,2025
+=====================
+Device:
+- Switch to AIDL Fingerprint OSS
+- Switch to AIDL thermal HAL
+- Added support spatial audio
+- Build DSPVolumeSynchronizer
+
+Sources:
+- Feb Security Patch 
+- Double Press Power Action Button 
+- Custom brightness slider
+- Added More Custom Widgets
+- Added Lockscreen Bottom Shortcut 
+- Fix the chroma & luminance factor
+- Customizing volume stream steps
+- various bug fixes & performance improvements
+
+Credits:
+Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.
+
+As always, we appreciate your support and feedback, we hope you enjoy this update!
+
+=====================
 18th February,2025
 =====================
 Device:
