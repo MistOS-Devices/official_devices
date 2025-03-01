@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Xenogenesys",
+			"oem": "xiaomi",
+			"device": "Redmi K60/POCO F5 Pro",
+			"filename": "MistOS-3.3-Stable-OFFICIAL-20250301-GAPPS-mondrian.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/mondrian/MistOS-3.3-Stable-OFFICIAL-20250301-GAPPS-mondrian.zip/download",
+			"timestamp": 1740834715,
+			"md5": "0de0ba3da22f06dee6dc91770831c8f5",
+			"sha256": "8e7a6a54227b228ea8c043c1930ba532bd131c12a7bdc08a86f3df885d0aca83",
+			"size": 3104432392,
+			"version": "3.3-Avnil",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/xenogenesys?country.x=ES&locale.x=en_US",
+			"telegram": "https://t.me/xenotests",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

@@ -1,0 +1,15 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Mondrian
+Device maintainer: Xenogenesys
+
+=====================
+01-03-25
+=====================
+Device:
+•Initial Official Build
+•Gapps Build
+•KSU-next Build
+•MIUI Camera Included
+•Merged Latest Source
+•Settings > Mistify > Spoofing > Update PIF to pass integrity
