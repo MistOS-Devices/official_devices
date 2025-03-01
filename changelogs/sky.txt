@@ -29,3 +29,10 @@ Device:
 - Gcam Dropped
 - Outer tune added
 - Games max fps supported by default
+
+=====================
+1st March,2025
+=====================
+- EROFS TO EXT4
+- Swappiness set 60
+- Disable slow blur effect
