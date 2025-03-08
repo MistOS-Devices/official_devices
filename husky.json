@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "GamerBoy1234294",
+			"maintainer": "JYR_RC",
 			"oem": "Google",
 			"device": "Pixel 8 Pro",
 			"filename": "MistOS-3.0-BETA-OFFICIAL-20241210-GAPPS-husky.zip",
@@ -18,8 +18,8 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://ko-fi.com/gamerboy1234294",
-			"telegram": "https://t.me/GamerBoy1234294",
+            "paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/MistOSDiscussion",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
