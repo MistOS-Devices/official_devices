@@ -1,0 +1,12 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Marble
+Device maintainer: AndroidME77_x_Dhanush
+
+=====================
+22-07-2025
+=====================
+Device:
+- Move background cpuset to CPU0-1
+- For smoother scrolling and better responsiveness
+- Fixed lag while music player dragging
