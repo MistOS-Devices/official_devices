@@ -1,0 +1,27 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Devonf
+Device maintainer: user@linux
+
+=====================
+23rd July,2025
+=====================
+Device:
+- Initial A16 official build
+- New security patch update
+- Fixed GMS crash issues
+
+Sources:
+- Feb Security Patch 
+- Double Press Power Action Button 
+- Custom brightness slider
+- Added More Custom Widgets
+- Added Lockscreen Bottom Shortcut 
+- Fix the chroma & luminance factor
+- Customizing volume stream steps
+- various bug fixes & performance improvements
+
+Credits:
+Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.
+
+As always, we appreciate your support and feedback, we hope you enjoy this update!

@@ -26,4 +26,5 @@
   <project name="device_xiaomi_cupid" />
   <project name="device_realme_porsche" />
   <project name="device_realme_spartan" />
+  <project name="device_motorola_devonf" />
 </manifest>
