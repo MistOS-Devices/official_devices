@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "user@linux",
+			"oem": "Motorola",
+			"device": "devonf",
+			"filename": "MistOS-4.0-SunShine-16.0-VANILLA-20250718-devonf-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/devonf/MistOS-4.0-SunShine-16.0-VANILLA-20250718-devonf-OFFICIAL.zip/download",
+			"timestamp": 1752845244,
+			"md5": "c6849ae3e734b1d7946965f8bbd8b9a5",
+			"sha256": "c2655e212504dec4ce9adf3a9acca81408044b720581be1615b45bcc61b16c94",
+			"size": 1648535217,
+			"version": "4.0-SunShine",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/genzimplore",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
