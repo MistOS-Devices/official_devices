@@ -1,0 +1,10 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: redwood
+Device maintainer: Mayur_U
+
+=====================
+23-07-2025
+=====================
+Device:
+- Initial Official build for redwood
