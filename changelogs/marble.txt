@@ -3,7 +3,7 @@ Build type: OFFICIAL (Monthly)
 Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
 =====================
-22-07-2025
+25-07-2025
 =====================
 Device :
 - fix volume step
