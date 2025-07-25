@@ -1,15 +1,15 @@
 {
-	"response": [
-		{
+        "response": [
+                {
 			"maintainer": "AndroidME77_x_Dhanush",
 			"oem": "xiaomi",
 			"device": "Poco F5/Redmi Note 12",
-                        "filename": "MistOS-4.0-SunShine-16.0-PICO-20250724-marble-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/marble/MistOS-4.0-SunShine-16.0-PICO-20250724-marble-OFFICIAL.zip/download",
-                        "timestamp": 1753375524,
-                        "md5": "8328aa3478393f4721c66cdb3c0c23cb",
-                        "sha256": "35692b0642852d17144887ede95f2fa395fb6da05143358f4a2b25d071b85a75",
-                        "size": 2433161630,
+                        "filename": "MistOS-4.0-SunShine-16.0-PICO-20250725-marble-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/marble/MistOS-4.0-SunShine-16.0-PICO-20250725-marble-OFFICIAL.zip/download",
+                        "timestamp": 1753418717,
+                        "md5": "63367dbfbcabdfa54ec7a87a91fbcea5",
+                        "sha256": "4595b1d34dcfcf492e70e4ae83ea95ea9cac65985c9bd35a62bb9ed76c52cef5",
+                        "size": 2433121769,
                         "version": "4.0-SunShine",
                         "buildtype": "Stable",
                         "forum": "",
@@ -18,12 +18,11 @@
                         "modem": "",
                         "bootloader": "",
                         "recovery": "",
-                        "paypal": "",
-                        "telegram": "",
-                        "dt": "",
+                        "paypal": "https://www.paypal.com/paypalme/Bancol1922",
+                        "telegram": "https://t.me/ModDiscussionn",
+                        "dt": "https://github.com/shezan-tech/mistOS_device_xiaomi_marble.git",
                         "common-dt": "",
                         "kernel": ""
-
-		}
-	]
+                }
+        ]
 }
