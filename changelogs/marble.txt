@@ -2,6 +2,13 @@ Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
+=====================
+22-07-2025
+=====================
+Device :
+- fix volume step
+- fix youtube crash
+- set default kernel to lytherion
 
 =====================
 22-07-2025
