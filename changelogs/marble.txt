@@ -2,6 +2,7 @@ Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
+
 =====================
 25-07-2025
 =====================
