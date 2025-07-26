@@ -8,3 +8,11 @@ Device maintainer: Mayur_U
 =====================
 Device:
 - Initial Official build for redwood
+
+=====================
+26-07-2025
+=====================
+Device:
+-Non Ksu
+-Mi cam included
+-Dolby updated
