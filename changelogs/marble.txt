@@ -4,6 +4,19 @@ Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
 
 =====================
+25-07-2025
+=====================
+Device :
+- fix google photo
+- fix volume step
+- fix youtube crash
+- set default kernel to lytherion
+- Enable adpf cpu hint session for SurfaceFlinger and HWUI
+- powerhint: Set efficient freq for FIXED_PERFORMANCE hint
+- etc
+
+
+=====================
 22-07-2025
 =====================
 Device:
