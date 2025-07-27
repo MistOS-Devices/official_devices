@@ -3,13 +3,13 @@
                 {
                         "maintainer": "AndroidME77_x_Dhanush",
                         "oem": "xiaomi",
-                        "device": "Poco F5/Redmi Note 12",
-                        "filename": "MistOS-4.0-SunShine-16.0-PICO-20250725-marble-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/marble/MistOS-4.0-SunShine-16.0-PICO-20250725-marble-OFFICIAL.zip/download",
-                        "timestamp": 1753460322,
-                        "md5": "0ab0bc901aa0dcfdb85b44c54650b6e0",
-                        "sha256": "3467b59bb19270526015420443a1810e8184e4126862c9dcfac5ed55944d97a6",
-                        "size": 2433269392,
+                        "device": "Poco F5/Redmi Note 12 turbo",
+                        "filename": "MistOS-4.0-SunShine-16.0-VANILLA-20250727-marble-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android15/marble/MistOS-4.0-SunShine-16.0-VANILLA-20250727-marble-OFFICIAL.zip/download",
+                        "timestamp": 1753645893,
+                        "md5": "1d93a02554937c8e64713ce6a30d74ee",
+                        "sha256": "3f173c6879999f76c48afc1c40b3abed6075cbb828351097955e60d67526e7b0",
+                        "size": 2087895224,
                         "version": "4.0-SunShine",
                         "buildtype": "Stable",
                         "forum": "",
@@ -26,3 +26,4 @@
                 }
         ]
 }
+
