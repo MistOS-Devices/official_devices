@@ -11,14 +11,14 @@ In order for a device to be OTA compliant, there are a few things to know.
 			"maintainer": "Maintainer Name",
 			"oem": "#OEM Name",
 			"device": "#Device Name",
-			"filename": "MistOS-3.0-BETA-OFFICIAL-20241207-GAPPS-surya.zip", #(This already generated don't change)
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/surya/MistOS-3.0-BETA-OFFICIAL-20241207-GAPPS-surya.zip/download", #(This already generated don't change)
+			"filename": "MistOS-4.0-SunShine-OFFICIAL-20241207-GAPPS-surya.zip", #(This already generated don't change)
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/surya/MistOS-4.0-SunShine-OFFICIAL-20241207-GAPPS-surya.zip/download", #(This already generated don't change)
 			"timestamp": 1733597875, #(This already generated don't change)
 			"md5": "90dbea6065c8553f32fee36c8a845374", #(This already generated don't change)
 			"sha256": "efdc4df1863e9e817d559f5d7c61e96dbb04a0e19e9b44c67a29ae84edca4167", # (This is already generated don't change)
 			"size": 2745037707, #(Don't change this)
-			"version": "3.0-Nebula", #( don't change this)
-			"buildtype": "Beta", #(don't change this)
+			"version": "4.0-SunShine", #( don't change this)
+			"buildtype": "Stable", #(don't change this)
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
