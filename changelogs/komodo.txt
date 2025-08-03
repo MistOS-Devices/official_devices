@@ -1,9 +1,0 @@
-Device Specific Changelogs:
-Build type: OFFICIAL (Monthly)
-Device: Komodo
-Device maintainer: OscarM
-=====================
-07-23-25
-=====================
-Device:
-Initial a16 release
