@@ -1,0 +1,13 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: pipa
+Device maintainer: Mufasa (@SCARFACEE_01)
+
+=====================
+05-08-2025
+=====================
+Device :
+- Initial Official Build
+- Switched to XiaomiDolby 
+- Fixed speakers issue
+- Added parts (some things like touch improvement/mi sound enhancer etc.)
