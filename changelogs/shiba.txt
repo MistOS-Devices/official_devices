@@ -1,28 +1,17 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Shiba
-Device maintainer: JYR_RC
+Device maintainer: Libra420T
 
 =====================
-08th March,2025
+4th August,2025
 =====================
 Device:
-- Feb security patch update
-- Bump version 3.3
-- Fixed battery drain issues
-- Fixed the high temperature
+- Initial A16 Release
+- July security patch update
 
 Sources:
-- Feb Security Patch 
-- Double Press Power Action Button 
-- Custom brightness slider
-- Added More Custom Widgets
-- Added Lockscreen Bottom Shortcut 
-- Fix the chroma & luminance factor
-- Customizing volume stream steps
-- various bug fixes & performance improvements
-
-Credits:
-Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.
-
-As always, we appreciate your support and feedback, we hope you enjoy this update!
+- Initial A16 Release
+- Bump version 4.0
+- July security patch update
+- Synced with latest changes
