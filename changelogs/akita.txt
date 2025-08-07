@@ -4,6 +4,15 @@ Device: Akita
 Device maintainer: Libra420T
 
 =====================
+6th August,2025
+=====================
+Device:
+- Fingerprint Unlock Fix
+
+Sources:
+- Synced with latest changes
+
+=====================
 4th August,2025
 =====================
 Device:
