@@ -1,0 +1,12 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Fogos
+Device maintainer: JNWSG (JINWOO)
+
+=====================
+10-08-2025
+=====================
+Device:
+- Initial A16 official build
+- July security patch
+- Added AOSPA Dolby + VIPER4AndroidFX
