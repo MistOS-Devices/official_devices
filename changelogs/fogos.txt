@@ -6,6 +6,12 @@ Device maintainer: JNWSG (JINWOO)
 =====================
 10-08-2025
 =====================
+Device :
+- fix Canera Video Recoding crash
+
+=====================
+10-08-2025
+=====================
 Device:
 - Initial A16 official build
 - July security patch
