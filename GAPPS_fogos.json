@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JNWSG",
+			"oem": "Motorola",
+			"device": "fogos",
+			"filename": "MistOS-4.0-SunShine-16.0-GAPPS-20250810-fogos-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/fogos/MistOS-4.0-SunShine-16.0-GAPPS-20250810-fogos-OFFICIAL.zip/download",
+			"timestamp": 1754784940,
+			"md5": "963f88f9eb48d4cabfe09e99a916f09a",
+			"sha256": "4940018c8b85b1c7001756739c142c5ef8d96773abeea12703f6b311ad81ac39",
+			"size": 2355819045,
+			"version": "4.0-SunShine",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/JNW_SG",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
