@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "maintainer": "",
+            "maintainer": "HARISH",
             "oem": "Oneplus",
             "device": "Oneplus 7",
-            "filename": "MistOS-3.3-Stable-OFFICIAL-20250221-GAPPS-guacamoleb-ota-signed.zip",
-            "download": "https://sourceforge.net/projects/project-mistos/files/Android15/guacamoleb/MistOS-3.3-Stable-OFFICIAL-20250221-GAPPS-guacamoleb-ota-signed.zip/download",
-            "timestamp": 1740104097,
-            "md5": "2fcd694348fcdcc2fe885710785bc95a",
-            "sha256": "f1c7c3b4b4e199465fb5d0068fa3485631a73902f48d198c7d6b2ae8c6b3542a",
-            "size": 2408799718,
-            "version": "3.3-Avnil",
+            "filename": "MistOS-4.0-SunShine-16.0-GAPPS-20250810-guacamoleb-OFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/project-mistos/files/Android16/guacamoleb/MistOS-4.0-SunShine-16.0-GAPPS-20250810-guacamoleb-OFFICIAL.zip/download",
+            "timestamp": 1754857088,
+            "md5": "e4f427878c29d5368c5c317cc2547b17",
+            "sha256": "2c74ea96bfadc1149dda4784c4e18314fcc14ad1555b17639ea39ef6154eb86e",
+            "size": 2410880812,
+            "version": "4.0-SunShine",
             "buildtype": "Stable",
             "forum": "",
-            "gapps": "",
-            "firmware": "",
+            "gapps": "Full_GApps",
+            "firmware": "OOS12.1",
             "modem": "",
             "bootloader": "",
-            "recovery": "",
-            "paypal": "",
+            "recovery": "mist.img",
+            "paypal": "https://paypal.me/Harish263",
             "telegram": "https://t.me/OnePlus7Development",
-            "dt": "",
-            "common-dt": "",
-            "kernel": ""
+            "dt": "https://github.com/Codecity001/device_oneplus_guacamoleb-1",
+            "common-dt": "https://github.com/Codecity001/device_oneplus_sm8150-common-1/tree/mist",
+            "kernel": "https://github.com/Codecity001/android_kernel_oneplus_sm8150"
         }
     ]
 }

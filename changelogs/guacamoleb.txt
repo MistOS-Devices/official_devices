@@ -4,18 +4,31 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-19th February,2025
+11th August,2025
 =====================
 Device:
-- Feb Security Patch
-- Initial build
+- Initial Android16 build
+- Fix alarm & notification sound not playing while using bluetooth earphones
+- Revert NFC changes [WIP fix for NFC crash]
+- Fix device over heating with mundane tasks
+- Improve screen-off-FOD [Wheen turned ON Ambient display stays on for 3-4sec before turning off screen]
 
 Sources:
-- Feb Security Patch 
-- Double Press Power Action Button 
-- Custom brightness slider
-- Added More Custom Widgets
-- Added Lockscreen Bottom Shortcut 
-- Fix the chroma & luminance factor
-- Customizing volume stream steps
-- various bug fixes & performance improvements
+- Updated base to AOSP Android 16
+- Latest security patches and stability improvements
+- Added Notifications - Power & Progress bar Styles
+- Added Custom Lock - Unlock Sound
+- Redesign MistUi
+- Added System Fonts
+- Added System Icons
+- Added Signal Icons
+- Added Wi-Fi Icons
+- Added Custom Boot Animations 
+- Added Monet Settings 
+- Keybox XML Spoof
+- Added Game Space
+- Added Sidebar
+- Added HDR Display
+- Added Battery Styles
+- Added Progress Status Bar
+- Refined UI with a modern, polished look & More
