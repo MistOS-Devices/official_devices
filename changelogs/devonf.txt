@@ -7,19 +7,72 @@ Device maintainer: user@linux
 23rd July,2025
 =====================
 Device:
-- Initial A16 official build
-- New security patch update
-- Fixed GMS crash issues
+• Moto Camera: Video Mode Fixed
+• Update manifest/device compatibility matrix to v8.0 format
+• Revert usage of patchelf 0.17.2 for hwcomposer patching
+• fstab: Remove ext4 entries and use EROFS exclusively for system partitions
+• Enable hide cutout emulations via overlay
+• Move vibrator effects configuration to Soong config
+• overlay: Remove implied SDK version
+• sepolicy: Allow Moto init script to set manufacture date property
+• init: Split ZRAM setup into two stages for better initialization
+• overlay: Remove unused doze overlays
+• Drop RIL related test binary
+• init: Remove verity_update_state operation
+• Use device tree path directly for references
+• Move Turbo Charging string to SettingsOverlay
+• init: Remove cpuset foreground boost
+• Import device_idle overlays from stock ROM
+• Set BOOT_SECURITY_PATCH property
+• powerhint: Drop unused Dex2OatThreads and CPUSets modes
+• powerhint: Boost CPU frequency on EXPENSIVE_RENDERING events
+• Include board-info.txt for build validation
+• Remove init.mmi.chipset.rc as it is unused
+• Disable ZRAM writeback feature
+• Remove unused OEM services
+• Remove runtime ro.carrier setting
+• Disable game default frame rate feature
+• Disable QS media player turbulence effect by default
+• Drop cancunn/devonn WMT configuration files
+• Do not explicitly set as an AB target
+• Include recovery ramdisk inside /vendor_boot image
+• Convert rootdir layout to init format
+• Remove init.mmi.chipset.rc that doesn't seem to be useful
+• Use standardized instance name for USB mass_storage function
+• Enable ELF symbol checks for libimsma
+• Patch mtkfusionrild to load libutils-v32
+• Disable brightness slider gamma conversion
+• Do not latch unsignaled buffers
+• Revert brightness algorithm change for cancunf low gamma
+• Set Google Lens as OEM camera package
+• Silence HWUI logspam
+• Silence TRS logspam
+• Silence hwcomposer spam logs
+• Drop atcid service
+• Drop batt_health service completely
+• Switch to AOSP’s default renderengine
+
 
 Sources:
-- Feb Security Patch 
-- Double Press Power Action Button 
-- Custom brightness slider
-- Added More Custom Widgets
-- Added Lockscreen Bottom Shortcut 
-- Fix the chroma & luminance factor
-- Customizing volume stream steps
-- various bug fixes & performance improvements
+• Updated base to AOSP Android 16
+• Latest security patches and stability improvements
+• Added Notifications - Power & Progress bar Styles
+• Added Custom Lock - Unlock Sound
+• Redesign MistUi
+• Added System Fonts
+• Added System Icons
+• Added Signal Icons
+• Added Wi-Fi Icons
+• Added Custom Boot Animations 
+• Added Monet Settings 
+• Keybox XML Spoof
+• Added Game Space
+• Added Sidebar
+• Added HDR Display
+• Added Battery Styles
+• Added Progress Status Bar
+• Refined UI with a modern, polished look
+• & More
 
 Credits:
 Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.

@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "user@linux",
-			"oem": "Motorola",
-			"device": "devonf",
-			"filename": "MistOS-4.0-SunShine-16.0-PICO-20250719-devonf-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/devonf/MistOS-4.0-SunShine-16.0-PICO-20250719-devonf-OFFICIAL.zip/download",
-			"timestamp": 1752893078,
-			"md5": "0d779621b6d472d37b43d0fcd7faca2a",
-			"sha256": "9c3b6a519f709accbdfff1746968b258b7d78b253dbf28f34388b5458db74daa",
-			"size": 2035747627,
-			"version": "4.0-SunShine",
-			"buildtype": "Stable",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/genzimplore",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+  "response": [
+    {
+      "maintainer": "user@linux",
+      "oem": "Motorola",
+      "device": "Moto G73 5G",
+      "filename": "MistOS-4.0-SunShine-16.0-PICO-20250810-devonf-OFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/project-mistos/files/Android16/devonf/MistOS-4.0-SunShine-16.0-PICO-20250810-devonf-OFFICIAL.zip/download",
+      "timestamp": 1754859167,
+      "md5": "86034d3bdfeecec1b2832c6422eaef2d",
+      "sha256": "d591b919748ea0566e27485c0ad67276a69cf640170fb96fd43ec0f34d71f927",
+      "size": 2034896157,
+      "version": "4.0-SunShine",
+      "buildtype": "Stable",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/genzimplore",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
 }
