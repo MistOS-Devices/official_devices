@@ -4,6 +4,14 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+31-08-2025
+=====================
+Device :
+- Moto Camera Added
+- Switched to XiaomiDolby
+- Dropped VIPER4AndroidFX
+
+=====================
 10-08-2025
 =====================
 Device :
