@@ -4,12 +4,12 @@
 			"maintainer": "JNWSG",
 			"oem": "Motorola",
 			"device": "fogos",
-			"filename": "MistOS-4.1-Mizzle-16.0-VANILLA-20250831-fogos-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/VANILLA/MistOS-4.1-Mizzle-16.0-VANILLA-20250831-fogos-OFFICIAL.zip/download",
-			"timestamp": 1756579082,
-			"md5": "d02db167c7a688fcd836f2dec231cee8",
-			"sha256": "2066f1eee576148b233fccb6c7a9aff73b04787459460d4f9223b7f9e286fe4e",
-			"size": 1559573298,
+			"filename": "MistOS-4.1-Mizzle-16.0-VANILLA-20250902-fogos-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/VANILLA/MistOS-4.1-Mizzle-16.0-VANILLA-20250902-fogos-OFFICIAL.zip/download",
+			"timestamp": 1756824822,
+			"md5": "bda36cf9c2a72aaaee430a6444e14d1b",
+			"sha256": "e81142e89bf9c3e4d498706dfce6c1d58fc96a84eb93ed72ba0cd01564244e6b",
+			"size": 1558014554,
 			"version": "4.1-Mizzle",
 			"buildtype": "",
 			"forum": "",
@@ -19,4 +19,3 @@
 		}
 	]
 }
-
