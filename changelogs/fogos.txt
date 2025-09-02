@@ -4,11 +4,14 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
-31-08-2025
+02-09-2025
 =====================
 Device :
+- Update Firmware V1UGS35H.75-14-13-1
+- Aug Security Patch
 - Moto Camera Added
 - Switched to XiaomiDolby
+- Implementation Qcom Audio
 - Dropped VIPER4AndroidFX
 
 =====================
