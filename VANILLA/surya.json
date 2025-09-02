@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "Zabuka",
-                        "oem": "Xiaomi",
-                        "device": "Poco X3",
-                        "filename": "MistOS-4.1-Mizzle-16.0-PICO-20250825-surya-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/surya/MistOS-4.1-Mizzle-16.0-PICO-20250825-surya-OFFICIAL.zip/download",
-                        "timestamp": 1756145727,
-                        "md5": "3b3f552625d63c758a851973d460f48d",
-                        "sha256": "ed8d15a4274b86b639b325d3d296f45759d09b22114029a446c726a2ecd2b65d",
-                        "size": 2441509424,
-                        "version": "4.1-Mizzle",
-                        "buildtype": "",
-                        "forum": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Zabuka",
+			"oem": "Xiaomi",
+			"device": "Poco X3",
+			"filename": "MistOS-4.1-Mizzle-16.0-VANILLA-20250902-surya-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/surya/MistOS-4.1-Mizzle-16.0-VANILLA-20250902-surya-OFFICIAL.zip/download",
+			"timestamp": 1756808507,
+			"md5": "9b6d3b8fbcec2517a8b2e37446b32798",
+			"sha256": "4ece6b937957ad6f9b182b96eaf08b171dff7bdc0187d1a210f2d4de88d6d9e6",
+			"size": 2032909297,
+			"version": "4.1-Mizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
 }
