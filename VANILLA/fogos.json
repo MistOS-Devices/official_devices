@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "JNWSG",
+			"oem": "Motorola",
+			"device": "fogos",
+			"filename": "MistOS-4.1-Mizzle-16.0-VANILLA-20250902-fogos-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/VANILLA/MistOS-4.1-Mizzle-16.0-VANILLA-20250902-fogos-OFFICIAL.zip/download",
+			"timestamp": 1756824822,
+			"md5": "bda36cf9c2a72aaaee430a6444e14d1b",
+			"sha256": "e81142e89bf9c3e4d498706dfce6c1d58fc96a84eb93ed72ba0cd01564244e6b",
+			"size": 1558014554,
+			"version": "4.1-Mizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/JNW_HUB"
+		}
+	]
+}
