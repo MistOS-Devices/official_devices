@@ -1,0 +1,9 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: sweet
+Device maintainer: sweet_builds
+
+=====================
+07-09-25
+=====================
+- Initial build
