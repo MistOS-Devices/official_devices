@@ -4,6 +4,12 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+08-09-2025
+=====================
+Device:
+- No Device Side Changes
+
+=====================
 02-09-2025
 =====================
 Device :

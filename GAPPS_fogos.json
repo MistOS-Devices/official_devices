@@ -1,32 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "JNWSG",
-			"oem": "Motorola",
-			"device": "fogos",
-			"filename": "MistOS-4.0-SunShine-16.0-GAPPS-20250810-fogos-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/MistOS-4.0-SunShine-16.0-GAPPS-20250810-fogos-OFFICIAL.zip/download",
-			"timestamp": 1754833432,
-			"md5": "c4726a883d652cd735f7b52a90bbf829",
-			"sha256": "9e4ccd327e5832dc867467f9011403baaa0399fe6ffbdba481af093dec9f4985",
-			"size": 2362836338,
-			"timestamp": 1754784940,
-			"md5": "963f88f9eb48d4cabfe09e99a916f09a",
-			"sha256": "4940018c8b85b1c7001756739c142c5ef8d96773abeea12703f6b311ad81ac39",
-			"size": 2355819045,
-			"version": "4.0-SunShine",
-			"buildtype": "Stable",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/JNW_SG",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "JNWSG",
+                        "oem": "Motorola",
+                        "device": "fogos",
+                        "filename": "MistOS-4.1-Mizzle-16.0-GAPPS-20250908-fogos-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/MistOS-4.1-Mizzle-16.0-GAPPS-20250908-fogos-OFFICIAL.zip/download",
+                        "timestamp": 1757301007,
+                        "md5": "c9ca0dbf5a72835976f190656507b772",
+                        "sha256": "643d2e0c1d857cb467b40239419830e817f629aef59b1bce8bac2df69e87c92a",
+                        "size": 2509892468,
+                        "version": "4.1-Mizzle",
+                        "buildtype": "",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/JNW_HUB"
+                }
+        ]
 }
