@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Hexdare",
+			"oem": "Xiaomi",
+			"device": "Mi 11X Pro / Mi 11i / Redmi K40 Pro +",
+			"filename": "MistOS-4.1-Mizzle-16.0-PICO-20250911-haydn-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/haydn/MistOS-4.1-Mizzle-16.0-PICO-20250911-haydn-OFFICIAL.zip/download",
+			"timestamp": 1757614373,
+			"md5": "8d4e3bc463cbb01398b52579f575c6ec",
+			"sha256": "e1229bbeca37385401882970cb25c7a65d0c0029e410a9bd8c05366793df93ef",
+			"size": 2588241154,
+			"version": "4.1-Mizzle",
+			"buildtype": "userdebug",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://linktr.ee/Hexdare",
+			"telegram": "t.me/Hexdare"
+		}
+	]
+}

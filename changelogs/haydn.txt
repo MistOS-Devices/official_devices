@@ -4,29 +4,8 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
-15-02-25
+12-09-25
 =====================
 Device:
-Fixed all Leica Cam issues
-Included Latest Firmware Update from HAYDNGlobal_OS1.0.14.0.UKKMIXM
-sepolicy: Remove duplicate snxxx AIDL rules
-Switch audio HAL to V7
-Sync with Spatial Audio
-Add dolby volume listener
-Import OOS modified volumes
-add IHighTouchPollingRate
-
-=====================
-23-01-25
-=====================
-Device: 
-• Initial Android 15 build
-• GAPPS and VANILLA Build
-• Changed Kernel to Kernelicious Kernel with KernelSU-Next Support
-• Merged Source Changes
-• Integrity Passes by default
-• Removed OMX
-• Updated blobs from haydn V816.0.11.0.UKKMIXM
-• Switched to AIDL Thermal HAL
-• Switched to QTI Memtrack AIDL HAL
-• Enabled battery cycle count
+Initial A16 Build
+With Los Kernel and KSU-Next Support by default
