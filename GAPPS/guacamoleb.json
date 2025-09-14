@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "HARISH",
+            "oem": "Oneplus",
+            "device": "Oneplus 7",
+            "filename": "MistOS-4.1-Mizzle-16.0-GAPPS-20250913-guacamoleb-OFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/project-mistos/files/Android16/guacamoleb/MistOS-4.1-Mizzle-16.0-GAPPS-20250913-guacamoleb-OFFICIAL.zip/download",
+            "timestamp": 1757788234,
+            "md5": "15fce6d5e8f5bacfee8ad305e6c6d006",
+            "sha256": "e9525c15ef4b44d3eb756a838bf26630f086299fd8666a1d9986765813f06c25",
+            "size": 2592457562,
+            "version": "4.1-Mizzle",
+            "buildtype": "stable",
+            "forum": "",
+            "recovery": "mist.img",
+            "paypal": "https://paypal.me/Harish263",
+            "telegram": "https://t.me/OnePlus7Development"
+        }
+    ]
+}

@@ -4,31 +4,39 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-11th August,2025
+13th September,2025
 =====================
 Device:
-- Initial Android16 build
-- Fix alarm & notification sound not playing while using bluetooth earphones
-- Revert NFC changes [WIP fix for NFC crash]
-- Fix device over heating with mundane tasks
-- Improve screen-off-FOD [Wheen turned ON Ambient display stays on for 3-4sec before turning off screen]
+- [HOT FIX]Add back Dolby
+- [VOIP]Fix call audio not working in apps like whatsapp and telegram
+- Update Oplus charger AIDL
+- Fix Alertslider default values being inverted
+- Improve Alertslider handling code and major cleanup from YAAP
+- Improved frame update responsiveness and display performance by adjusting frame timing, reducing stuttering in games
+- Enabled composition caching for better UI performance and lower power consumption [Tested on 8gb and above Ram devices, feedback needed from 6gb Ram devices]
+- Improved Bluetooth connectivity for multiple simultaneous BLE devices
+- Misc. Improvements and fixes.....
 
 Sources:
-- Updated base to AOSP Android 16
-- Latest security patches and stability improvements
-- Added Notifications - Power & Progress bar Styles
-- Added Custom Lock - Unlock Sound
-- Redesign MistUi
-- Added System Fonts
-- Added System Icons
-- Added Signal Icons
-- Added Wi-Fi Icons
-- Added Custom Boot Animations 
-- Added Monet Settings 
-- Keybox XML Spoof
-- Added Game Space
-- Added Sidebar
-- Added HDR Display
-- Added Battery Styles
-- Added Progress Status Bar
-- Refined UI with a modern, polished look & More
+- August Patch
+- Nav Bar Icons
+- AOD wallpapers
+- Media Cover Art
+- Pulse
+- Keyguard Afforedance Single Tap
+- Battery Bar
+- Custom Background Chip
+- Custom Colour option In Logo
+- Coloured Icons
+- Notification Counts
+- Data Usages 
+- QS Header Images
+- Island Notifications 
+- Landscape Notifications 
+- Nextflix Spoof
+- Json based Game Spoof
+- Android 16 QPR1 Pixel Launcher Design In Mist Launcher
+- Fixed Battery Drain Issue 
+- Fixed High DPi crash
+- Fixed Notification Gitter
+- & More
