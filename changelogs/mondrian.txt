@@ -4,6 +4,14 @@ Device: Mondrian
 Device maintainer: Xenogenesys
 
 =====================
+21-09-2025
+=====================
+Device:
+•Initial A16 build
+•Includes MIUI Camera, Xiaomi Dolby
+•KSU-Next included
+
+=====================
 15-03-2025
 =====================
 Device:
@@ -11,6 +19,7 @@ Device:
 •SEPolicy denials fix
 •Performance improvements on UI
 •Import Xiaomi Parts
+
 =====================
 01-03-25
 =====================

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Xenogenesys",
+			"oem": "Xiaomi",
+			"device": "Redmi K60/POCO F5 Pro",
+			"filename": "MistOS-4.1-Mizzle-16.0-GAPPS-20250919-mondrian-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/mondrian/MistOS-4.1-Mizzle-16.0-GAPPS-20250919-mondrian-OFFICIAL.zip/download",
+			"timestamp": 1758243532,
+			"md5": "3a2bc87c993ff26b0323f5b0b93f90eb",
+			"sha256": "580b7814e49774bbd905b5c2e83ac367b92c7575f5ef03809d854a7e018b69aa",
+			"size": 3180671049,
+			"version": "4.1-Mizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/xenogenesys?country.x=ES&locale.x=en_US",
+			"telegram": "https://t.me/xenotests"
+		}
+	]
+}
