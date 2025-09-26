@@ -11,3 +11,18 @@ Device :
 - Switched to XiaomiDolby 
 - Fixed speakers issue
 - Added parts (some things like touch improvement/mi sound enhancer etc.)
+
+=====================
+26-09-2025
+=====================
+Device :
+- Added some popular games to sched_lib_name so that they can utilise gpu fully.
+- Disabled proximity sensor usage during doze.
+Conserves battery*
+- Clear cache on early boot so all changes(mostly ui changes in rom) take place.
+- Bluetooth will be turned off by default, do some work yourself🥸
+- Gpu will help rendering hdr10 from now on
+- Increased volume steps from 15 to 25
+- Enabled lock screen rotation by default
+- Rotated boot animation by 90 degree
+Now boot animation will be shown in landscape instead of portrait
