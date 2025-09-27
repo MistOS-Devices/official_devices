@@ -4,12 +4,12 @@ Device: Pixel 9 Pro XL (komodo)
 Device maintainer: GamerBoy1234294
 
 :=======================:
-:= 6th September, 2025 =:
+:= 27th September, 2025 =:
 :=======================:
 -------------------------
 Device:
-- Initial Android 16 Release
 - August security patch update
+- Improved some powerhint optimizations yielding slightly higher performance
 
 Sources:
 - Initial A16 QPR1 release
