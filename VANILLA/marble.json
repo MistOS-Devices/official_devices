@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "AndroidME77_x_Dhanush",
+			"oem": "Xiaomi",
+			"device": "marble",
+			"filename": "MistOS-4.2-Fizzle-16.0-VANILLA-20251021-marble-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/marble/MistOS-4.2-Fizzle-16.0-VANILLA-20251021-marble-OFFICIAL.zip/download",
+			"timestamp": 1761051602,
+			"md5": "08b43d9dfed8d04afa34fe2fb4160e6b",
+			"sha256": "8c6beb7e66f7fca13cc34d7988eb42f3e3367ae39676bbbece5588e794f4df17",
+			"size": 2166443085,
+			"version": "4.2-Fizzle",
+			"buildtype": "user",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/Bancol1922",
+			"telegram": "@Androidme77"
+		}
+	]
+}

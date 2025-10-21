@@ -4,6 +4,20 @@ Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
 
 =====================
+21-10-2025
+=====================
+- Update blobs from OS2.0.209.0.VMRMIXM
+- Enable get_module_version for hotword sound model config
+- Include app debloater
+- reduce window animations to 0.5x
+- marble: libinit: Drop fingerprint override
+- marble: Set sensors logging level to warn
+- marble:meme camera repo updated!
+- marble: rootdir: Disable eSE power manager service in Indian SKU
+- marble: Fix black glowing at DCI-P3 and others
+
+
+=====================
 25-07-2025
 =====================
 Device :
