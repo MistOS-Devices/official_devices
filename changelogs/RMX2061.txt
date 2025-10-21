@@ -1,0 +1,10 @@
+Device-specific changelog:
+Build type: Official
+Device: Realme 6 Pro (RMX2061)
+Device maintainer: Shahid Shamim
+
+=====================
+21-10-2025
+=====================
+Device:
+- Initial Official build for RMX2061
