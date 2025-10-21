@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "JNWSG",
-                        "oem": "Motorola",
-                        "device": "fogos",
-                        "filename": "MistOS-4.1-Mizzle-16.0-GAPPS-20250908-fogos-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/MistOS-4.1-Mizzle-16.0-GAPPS-20250908-fogos-OFFICIAL.zip/download",
-                        "timestamp": 1757301007,
-                        "md5": "c9ca0dbf5a72835976f190656507b772",
-                        "sha256": "643d2e0c1d857cb467b40239419830e817f629aef59b1bce8bac2df69e87c92a",
-                        "size": 2509892468,
-                        "version": "4.1-Mizzle",
-                        "buildtype": "",
-                        "forum": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "https://t.me/JNW_HUB"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "JNWSG",
+			"oem": "Motorola",
+			"device": "fogos",
+			"filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251021-fogos-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/fogos/MistOS-4.2-Fizzle-16.0-GAPPS-20251021-fogos-OFFICIAL.zip/download",
+			"timestamp": 1761044599,
+			"md5": "708576831015c902bf0d6c81157e6326",
+			"sha256": "c7c24934ce9f9e72553b017307928ae42a38299aff5e6a4b7e3a495c9fd2ee4a",
+			"size": 2701686202,
+			"version": "4.2-Fizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/JNW_HUB"
+		}
+	]
 }
