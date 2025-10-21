@@ -7,7 +7,7 @@ Device maintainer: JNWSG (JINWOO)
 21-10-2025
 =====================
 - synced latest rom source
-- October Security Patch
+- September Security Patch
 - fixed whatsapp call mic issue
 - Kernel is upstreamed to 5.4.300
 
