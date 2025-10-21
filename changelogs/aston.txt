@@ -1,0 +1,16 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Aston
+Device maintainer: Weaponmasterjax
+
+=====================
+22-10-25
+=====================
+Device:
+Initial A16 and MistOS-4.2 Build
+With Los Kernel and KSU-Next Support by default
+Ships OPlusExtras
+Synced with latest changes
+Fixed UDFPS iilluminating with AOD off
+Fixed statusbar padding
+More under-the-hood optimizations and fixes
