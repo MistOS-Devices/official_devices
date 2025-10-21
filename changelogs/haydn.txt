@@ -4,6 +4,12 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+21-10-25
+=====================
+Device:
+- No device side changes
+
+=====================
 12-09-25
 =====================
 Device:
