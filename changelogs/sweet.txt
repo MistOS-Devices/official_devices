@@ -1,9 +1,21 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
-Device: sweet
-Device maintainer: sweet_builds
+Device: Redmi Note 10 Pro (sweet)
+Device maintainer: Javi
 
 =====================
-07-09-25
+      26-10-25
+=====================
+- September security patch
+- Dolby included
+- Leica included
+- Fix visual glitches
+- Drop torch control
+- Ksu Next support
+- Integrity strong pass default
+- OTA support
+
+=====================
+      07-09-25
 =====================
 - Initial build
