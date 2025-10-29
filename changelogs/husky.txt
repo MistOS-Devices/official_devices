@@ -4,7 +4,7 @@ Device: Husky
 Device maintainer: Libra420T
 
 =====================
-28th October,2025
+29th October,2025
 =====================
 Device:
 - built Pixel_kernel-6.1.134
@@ -16,7 +16,7 @@ Source:
 - Bump Version 4.2
 - September Security Patch
 - Synced with Latest Changes
--  https://t.me/MistOSDiscussion/26170
+- https://t.me/MistOSDiscussion/26170
 
 =====================
 6th August,2025
