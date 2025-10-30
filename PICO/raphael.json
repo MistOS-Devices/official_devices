@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Zabuka",
+			"oem": "Xiaomi",
+			"device": "Redmi K20 Pro",
+			"filename": "MistOS-4.2-Fizzle-16.0-PICO-20251030-raphael-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/raphael/MistOS-4.2-Fizzle-16.0-PICO-20251030-raphael-OFFICIAL.zip/download",
+			"timestamp": 1761809093,
+			"md5": "676032e5ab4071314acfdcf7f5ea7174",
+			"sha256": "07c8f746dd4835a32bc8f9708aeff235f7379c265f182a3ce136d2f9908ba884",
+			"size": 2767691118,
+			"version": "4.2-Fizzle",
+			"buildtype": "Stable-PICO",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
