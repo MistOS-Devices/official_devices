@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Libra420T",
+			"oem": "Google",
+			"device": "Pixel 8",
+			"filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251029-shiba-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/shiba/MistOS-4.2-Fizzle-16.0-GAPPS-20251029-shiba-OFFICIAL.zip/download",
+			"timestamp": 1761749139,
+			"md5": "74d30b6921e480648a9948c9c3b046f4",
+			"sha256": "89bc84656229c99cfcf33a39f0e31a5b0b9068e9db90b9a3030224c30fe1adbc",
+			"size": 3123911562,
+			"version": "4.2-Fizzle",
+			"buildtype": "user",
+			"forum": "",
+			"recovery": "boot, dtbo, vendor_boot, vendor_kernel_boot",
+			"paypal": "https://paypal.me/ryantf420",
+			"telegram": "https://t.me/LibraAlch3my"
+		}
+	]
+}
