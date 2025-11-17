@@ -2,12 +2,13 @@ Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: redwood
 Device maintainer: Mayur_U
-
 =====================
-23-07-2025
+18-10-2025
 =====================
-Device:
-- Initial Official build for redwood
+-scarlet x kernel
+-updated blobs
+-sony dolby
+-fixed dt2w
 
 =====================
 26-07-2025
@@ -16,3 +17,11 @@ Device:
 -Non Ksu
 -Mi cam included
 -Dolby updated
+
+=====================
+23-07-2025
+=====================
+Device:
+- Initial Official build for redwood
+
+

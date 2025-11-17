@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Mufasa",
+			"oem": "xiaomi",
+			"device": "Xiaomi Pad 6",
+			"filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251108-pipa-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/pipa/MistOS-4.2-Fizzle-16.0-GAPPS-20251108-pipa-OFFICIAL.zip/download",
+			"timestamp": 1762567576,
+			"md5": "05a18a8f5a4d2be7397f5ce19c72c2a0",
+			"sha256": "f8630c30eb9b64fd7d6fd4a78c60c6a2bf5b51fc5581b13747d09be6b23f7b98",
+			"size": 2473290999,
+			"version": "4.2-Fizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/sheoranpranshu",
+			"telegram": "https://t.me/the_usual_suspects_777"
+		}
+	]
+}

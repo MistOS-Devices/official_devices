@@ -4,6 +4,21 @@ Device: Shiba
 Device maintainer: Libra420T
 
 =====================
+29th October,2025
+=====================
+Device:
+- built Pixel_kernel-6.1.134
+- Generated Shiba Vendor
+- Generated Shiba Overlays
+- Still FP 2025-08-05
+
+Source:
+- Bump Version 4.2
+- September Security Patch
+- Synced with Latest Changes
+- https://t.me/MistOSDiscussion/26170
+
+=====================
 6th August,2025
 =====================
 Device:

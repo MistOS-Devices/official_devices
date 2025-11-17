@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="device_xiaomi_surya" />
+  <project name="device_xiaomi_lisa" />
   <project name="device_nothing_Pong" />
   <project name="device_xiaomi_raphael" />
   <project name="device_google_akita" />

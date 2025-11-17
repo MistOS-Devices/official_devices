@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Libra420T",
+			"oem": "Google",
+			"device": "Pixel 8 Pro",
+			"filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251029-husky-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/husky/MistOS-4.2-Fizzle-16.0-GAPPS-20251029-husky-OFFICIAL.zip/download",
+			"timestamp": 1761738337,
+			"md5": "b0eef95fe0bff05103d9b5be3243703c",
+			"sha256": "99a210f2addb9f7344c467f17d688fafe3eb23560bc505788e32e9f94327bb76",
+			"size": 3139251944,
+			"version": "4.2-Fizzle",
+			"buildtype": "user",
+			"forum": "",
+			"recovery": "boot, dtbo, vendor_boot, vendor_kernel_boot",
+			"paypal": "https://paypal.me/ryantf420",
+			"telegram": "https://t.me/LibraAlch3my"
+		}
+	]
+}

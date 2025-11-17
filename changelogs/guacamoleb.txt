@@ -4,39 +4,15 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-13th September,2025
+15 November,2025
 =====================
 Device:
-- [HOT FIX]Add back Dolby
-- [VOIP]Fix call audio not working in apps like whatsapp and telegram
-- Update Oplus charger AIDL
-- Fix Alertslider default values being inverted
-- Improve Alertslider handling code and major cleanup from YAAP
-- Improved frame update responsiveness and display performance by adjusting frame timing, reducing stuttering in games
-- Enabled composition caching for better UI performance and lower power consumption [Tested on 8gb and above Ram devices, feedback needed from 6gb Ram devices]
-- Improved Bluetooth connectivity for multiple simultaneous BLE devices
+- Fix a bug where large file transfers via USB cable cancel mid-transfer
+- Revert a prop which was impacting display responsiveness
+- Fix some sepolicy denials
+- Sync kernel with LineageOS-23.0
+- Enable fbeV2 for f2fs data
+- Align fstab erofs props with the standard from AOSP
 - Misc. Improvements and fixes.....
 
-Sources:
-- August Patch
-- Nav Bar Icons
-- AOD wallpapers
-- Media Cover Art
-- Pulse
-- Keyguard Afforedance Single Tap
-- Battery Bar
-- Custom Background Chip
-- Custom Colour option In Logo
-- Coloured Icons
-- Notification Counts
-- Data Usages 
-- QS Header Images
-- Island Notifications 
-- Landscape Notifications 
-- Nextflix Spoof
-- Json based Game Spoof
-- Android 16 QPR1 Pixel Launcher Design In Mist Launcher
-- Fixed Battery Drain Issue 
-- Fixed High DPi crash
-- Fixed Notification Gitter
-- & More
+Notes: Clean Flash Mandatory

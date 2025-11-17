@@ -1,0 +1,11 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Lisa
+Device maintainer: lazydev_ak
+
+=====================
+17-11-25
+=====================
+Device:
+- Initial Build
+- Miui cam Included

@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Mayur_U",
+                        "oem": "Poco",
+                        "device": "Poco X5 Pro 5G",
+                        "filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251018-redwood-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/redwood/MistOS-4.2-Fizzle-16.0-GAPPS-20251018-redwood-OFFICIAL.zip/download",
+                        "timestamp": 1760779064,
+                        "md5": "79f3f2b0e7264c4c9aa80f4feed5a48d",
+                        "sha256": "01c1ca73b9e617373c830eceb4f9314e7708c265f52002f26f608019c57dee82",
+                        "size": 2866202590,
+                        "version": "4.2-Fizzle",
+                        "buildtype": "",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.com/paypalme/MayurU779?country.x=IN&locale.x=en_GB",
+                        "telegram": "https://t.me/Mayurbuilds"
+                }
+        ]
+}

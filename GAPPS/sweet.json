@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "sweet_builds",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 10 Pro",
-                        "filename": "MistOS-4.1-Mizzle-16.0-GAPPS-20250908-sweet-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/sweet/MistOS-4.1-Mizzle-16.0-GAPPS-20250908-sweet-OFFICIAL.zip/download",
-                        "timestamp": 1757341397,
-                        "md5": "f0f7d4937942b2328d22382bdc4953af",
-                        "sha256": "7efe81e844c4459e1d6092749442afdc744c41674b570724b3a3407a76748841",
-                        "size": 3036975423,
-                        "version": "4.1-Mizzle",
-                        "buildtype": "",
-                        "forum": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Javi",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10 Pro",
+			"filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251026-sweet-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/sweet/MistOS-4.2-Fizzle-16.0-GAPPS-20251026-sweet-OFFICIAL.zip/download",
+			"timestamp": 1761487366,
+			"md5": "c990b001ffd04a7c3fb09c2a169ee7d8",
+			"sha256": "5c046ca346c49feaa4d0bdad8932b94a4f1d802ade07fb1b4d232f405ca086d5",
+			"size": 3247428570,
+			"version": "4.2-Fizzle",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/RedmiNote10ProCHAT"
+		}
+	]
 }

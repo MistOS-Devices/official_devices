@@ -26,3 +26,19 @@ Conserves battery*
 - Enabled lock screen rotation by default
 - Rotated boot animation by 90 degree
 Now boot animation will be shown in landscape instead of portrait
+
+=====================
+08-11-2025
+=====================
+- Update stylus mode to use only 60 or 120hz if turned on.
+- Boost GPU freq during interaction
+- Update firm from 2.0.8.0 Global
+- Some unofficial chargers should now do fast charging
+- Will show turbo charging instead of charging rapidly. Enjoy🤓
+- Will primarily use 24 bit audio playback
+- added hardware midi support, don't know if it works tho😂
+- Turned off some intensive ui effects to get less ram usage and smoother experience while using rom
+- Added colour modes as in stock
+- Added display saturation, open from qs for now
+- Boosted the GPU for smooth high-radius blurs.
+

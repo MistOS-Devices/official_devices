@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Weaponmasterjax",
+                        "oem": "OnePlus",
+                        "device": "aston",
+                        "filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251021-aston-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/aston/MistOS-4.2-Fizzle-16.0-GAPPS-20251021-aston-OFFICIAL.zip/download",
+                        "timestamp": 1761061615,
+                        "md5": "e349c168197880b2571501e7711cade6",
+                        "sha256": "4a77b36687298848eaac32aee5757f706a3346b7fb558fd92d837fdf4ea58f68",
+                        "size": 3510116703,
+                        "version": "4.2-Fizzle",
+                        "buildtype": "user",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/project-mistos/files/Android16/aston/images/",
+                        "paypal": "",
+                        "telegram": "https://t.me/jaxotakuhouse"
+                }
+        ]
+}
