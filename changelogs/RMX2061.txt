@@ -4,6 +4,15 @@ Device: Realme 6 Pro (RMX2061)
 Device maintainer: Shahid Shamim
 
 =====================
+17-11-2025
+=====================
+- Merged November security patch for improved device security
+- Enhanced system performance for faster and smoother operations
+- Battery optimizations to extend usage and reduce idle drain
+- Improved network stability and signal handling
+- Refined UI animations and touch response for a smoother experience
+
+=====================
 21-10-2025
 =====================
 Device:

@@ -1,22 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "Shahid Shamim",
-                        "oem": "Realme",
-                        "device": "6 Pro",
-                        "filename": "MistOS-4.2-Fizzle-16.0-GAPPS-20251021-RMX2061-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/RMX2061/MistOS-4.2-Fizzle-16.0-GAPPS-20251021-RMX2061-OFFICIAL.zip/download",
-                        "timestamp": 1761046140,
-                        "md5": "78216d2ab192809590616201ba1c200c",
-                        "sha256": "1f57ed01a4a8b8e5534bdc107877b7365e736c67a4fc7d4f1d51ca42319c9a73",
-                        "size": 3064747897,
-                        "version": "4.2-Fizzle",
-                        "buildtype": "stable",
-                        "forum": "",
-                        "recovery": "https://sourceforge.net/projects/rmx2061/files/Recovery/",
-                        "paypal": "https://paypal.me/shaenix",
-                        "telegram": "https://t.me/thenoah77"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Shahid Shamim",
+			"oem": "Realme",
+			"device": "6 Pro",
+			"filename": "MistOS-4.3-Rime-16.0-GAPPS-20251117-RMX2061-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/RMX2061/MistOS-4.3-Rime-16.0-GAPPS-20251117-RMX2061-OFFICIAL.zip/download",
+			"timestamp": 1763385272,
+			"md5": "c451d3f6a10e55bf7255e440d4de8db8",
+			"sha256": "7f0705a007904ea7e7d3535e7bb8e643b46af88617f76fd7bb48049de6fc9f8e",
+			"size": 3025555930,
+			"version": "4.3-Rime",
+			"buildtype": "Stable",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/rmx2061/files/Recovery/",
+			"paypal": "https://paypal.me/shaenix",
+			"telegram": "https://t.me/thenoah77"
+		}
+	]
 }
-
