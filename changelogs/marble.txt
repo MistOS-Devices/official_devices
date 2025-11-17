@@ -4,6 +4,13 @@ Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
 
 =====================
+18-11-2025
+=====================
+- marble: migrate to soong config set camera
+- marble: Decommonize vendor security patch level
+- marble: Update blobs from OS2.0.209.0.VMRMIXM
+
+=====================
 21-10-2025
 =====================
 - Update blobs from OS2.0.209.0.VMRMIXM
