@@ -4,6 +4,13 @@ Device: Marble
 Device maintainer: AndroidME77_x_Dhanush
 
 =====================
+- marble: Decommonize vendor security patch level
+- marble: Update blobs from OS2.0.209.0.VMRMIXM
+- marble: migrate to soong config set camera
+- marble: audio: Enable get_module_version for hotword sound model config
+- marble: Fix cpu temperature display
+
+=====================
 21-10-2025
 =====================
 - Update blobs from OS2.0.209.0.VMRMIXM
