@@ -4,6 +4,14 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+18-11-2025
+=====================
+- November security update
+- Drop QTI perfd blobs
+- Switched to power-libperfmgr over QTI Perf
+- Improved UI and transitions
+
+=====================
 21-10-2025
 =====================
 - synced latest rom source
