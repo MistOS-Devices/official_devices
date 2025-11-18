@@ -4,18 +4,18 @@
 			"maintainer": "AndroidME77_x_Dhanush",
 			"oem": "Xiaomi",
 			"device": "marble",
-			"filename": "MistOS-4.2-Fizzle-16.0-MINI-20251021-marble-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/marble/MistOS-4.2-Fizzle-16.0-MINI-20251021-marble-OFFICIAL.zip/download",
-			"timestamp": 1761056304,
-			"md5": "bb34d51d1aaf5a1194c0cffe92bfc0bd",
-			"sha256": "e44d7a2ebd745de2626c07e73089fe9fedb623c8f10149c5da431be477a68109",
-			"size": 2792797593,
-			"version": "4.2-Fizzle",
+			"filename": "MistOS-4.3-Rime-16.0-MINI-20251117-marble-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/marble/MistOS-4.3-Rime-16.0-MINI-20251117-marble-OFFICIAL.zip/download",
+			"timestamp": 1763400998,
+			"md5": "12116a2ded31a9bc0aa38ad279d28690",
+			"sha256": "3a8a09ac583e8a886d2a6cef309f92277216e48d3ff7f6e5dd427fd1b6ae97b8",
+			"size": 3023529729,
+			"version": "4.3-Rime",
 			"buildtype": "user",
 			"forum": "",
 			"recovery": "",
 			"paypal": "https://www.paypal.com/paypalme/Bancol1922",
-			"telegram": "t.me/Androidme77"
+			"telegram": "t.me/androidme77"
 		}
 	]
 }
