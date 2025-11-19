@@ -4,6 +4,18 @@ Device: Aston
 Device maintainer: Weaponmasterjax
 
 =====================
+20-11-2025
+=====================
+Merged November security patch
+Refined UI animations and touch response for a smoother experience
+Added options in extras for controlling HBM and AOD brightness
+Fixed Anti flicker
+Fixed charging status on lockscreen
+Added Smart Pixels
+ESIM support for NA model
+Fixed Tencent apps crashing due to changes in ART
+
+=====================
 22-10-25
 =====================
 Device:
