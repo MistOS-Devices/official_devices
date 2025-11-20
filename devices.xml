@@ -19,5 +19,6 @@
   <project name="device_motorola_fogos" />
   <project name="device_realme_RMX2061" />
   <project name="device_oneplus_aston" />
+  <project name="device_xiaomi_onyx" />
 </manifest>
 
