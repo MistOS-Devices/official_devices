@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zabuka_Zuzu",
+                        "oem": "Xiaomi",
+                        "device": "Redmi K20 Pro",
+                        "filename": "MistOS-4.3-Rime-16.0-GAPPS-20251117-raphael-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android16/raphael/MistOS-4.3-Rime-16.0-GAPPS-20251117-raphael-OFFICIAL.zip/download",
+                        "timestamp": 1763394649,
+                        "md5": "f1b23823fb70fd4b55b606de0434d728",
+                        "sha256": "f7d4fe5211aa93d291d476ff74485e301405edc73664f46b1a2ff64d344da438",
+                        "size": 3403167713,
+                        "version": "4.3-Rime",
+                        "buildtype": "",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}
