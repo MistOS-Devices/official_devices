@@ -1,21 +1,21 @@
 {
         "response": [
                 {
-                        "maintainer": "Zabuka",
+                        "maintainer": "Zabuka_Zuzu",
                         "oem": "Xiaomi",
                         "device": "Poco X3",
                         "filename": "MistOS-4.3-Rime-16.0-PICO-20251120-surya-OFFICIAL.zip",
                         "download": "https://sourceforge.net/projects/project-mistos/files/Android16/surya/MistOS-4.3-Rime-16.0-PICO-20251120-surya-OFFICIAL.zip/download",
-                        "timestamp": 1763668784,
-                        "md5": "5abca696af4aac7fcc279cd98e9ce008",
-                        "sha256": "2331fb80a2e380eee11d7bf472b5ed9a4020faae3f0ba671092285f3e1ed3f1f",
-                        "size": 2600273497,
+                        "timestamp": 1763672377,
+                        "md5": "d4a8ba5a2392739968a492161973e7cf",
+                        "sha256": "f923f8be611d8c557e89ce87c3d2bfe021dc4c96971b1b40af5fc52b8872ebd8",
+                        "size": 2644411315,
                         "version": "4.3-Rime",
                         "buildtype": "PICO",
                         "forum": "",
                         "recovery": "",
-                        "paypal": "",
-                        "telegram": ""
+                        "paypal": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
+                        "telegram": "https://t.me/MistOSDiscussion/"
                 }
         ]
 }
