@@ -1,0 +1,18 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco f7 (Onyx)
+Device maintainer: franlop77
+
+Highlights & Device Specific Changes:
+
+=====================================
+
+
+--------# 20 November 2025 #------------
+
+- Initial A16 build
+- Fix DT2W
+- Added Google Camera Go 
+- Added HBM
+- Added Gamebar
+- Added Thermal Profiles
