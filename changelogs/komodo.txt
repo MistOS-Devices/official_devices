@@ -3,14 +3,14 @@ Build type: Official
 Device: Pixel 9 Pro XL (komodo)
 Device maintainer: GamerBoy1234294
 
-:========================:
-:=  18th October, 2025  =:
-:========================:
--------------------------
+:=========================:
+:=  20th November, 2025  =:
+:=========================:
+---------------------------
 Device:
-- September security patch update
+- October security patch update
 
 Sources:
-- Bump to version 4.2
-- September security patch update
+- Bump to version 4.3
+- October security patch update
 - Synced with latest changes
