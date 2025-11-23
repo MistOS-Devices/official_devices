@@ -4,6 +4,14 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: Javi
 
 =====================
+      23-11-25
+=====================
+- November security patch
+- Torch control added
+- Ksu Next support
+- Added OSS AOSPA Dolby & OnePlus Dolby Blobs,CREDITS: https://github.com/frost-testzone/vendor_oneplus_dolby
+
+=====================
       26-10-25
 =====================
 - September security patch
