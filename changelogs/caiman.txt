@@ -4,11 +4,12 @@ Device: Pixel 9 Pro (caiman)
 Device maintainer: GamerBoy1234294
 
 :=========================:
-:=  20th November, 2025  =:
+:=  6th  December, 2025  =:
 :=========================:
 ---------------------------
 Device:
 - November security patch update
+- Official Mist boot animation now replaces the AOSP generic fallback; fixes boot animation.
 
 Sources:
 - Bump to version 4.3
