@@ -1,0 +1,20 @@
+{
+  "defaults": {
+    "build_type": "userdebug",
+    "storage_option": "2",
+    "menu_action": "full_build_and_both_ota"
+  },
+  "devices": [
+    {
+      "codename": "lisa",
+      "repo": "MistOS-Devices/device_xiaomi_lisa",
+      "enabled": true
+    },
+    {
+      "codename": "sweet",
+      "repo": "MistOS-Devices/device_xiaomi_sweet",
+      "enabled": true,
+      "build_type": "user"
+    }
+  ]
+}
