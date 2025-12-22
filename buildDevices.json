@@ -1,7 +1,7 @@
 {
   "defaults": {
     "build_type": "userdebug",
-    "storage_option": "2",
+    "storage_option": "2", //Not to override in below JSON
     "menu_action": "full_build_and_both_ota"
   },
   "devices": [
