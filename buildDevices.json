@@ -1,7 +1,8 @@
 {
   "defaults": {
     "build_type": "userdebug",
-    "storage_option": "2", //Not to override in below JSON
+    "storage_option": "2",
+    "_comment_storage_option": "Do not override this value at device level",
     "menu_action": "full_build_and_both_ota"
   },
   "devices": [
