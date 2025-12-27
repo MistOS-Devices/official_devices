@@ -10,12 +10,6 @@
       "codename": "lisa",
       "repo": "MistOS-Devices/device_xiaomi_lisa",
       "enabled": true
-    },
-    {
-      "codename": "sweet",
-      "repo": "MistOS-Devices/device_xiaomi_sweet",
-      "enabled": true,
-      "build_type": "user"
     }
   ]
 }
