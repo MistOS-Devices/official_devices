@@ -10,6 +10,12 @@
       "codename": "lisa",
       "repo": "MistOS-Devices/device_xiaomi_lisa",
       "enabled": true
+    },
+    {
+      "codename": "RMX2061",
+      "repo": "MistOS-Devices/device_realme_RMX2061",
+      "enabled": true,
+      "build_type": "user"
     }
   ]
 }
