@@ -12,6 +12,12 @@
       "enabled": true
     },
     {
+      "codename": "surya",
+      "repo": "MistOS-Devices/device_xiaomi_surya",
+      "enabled": true,
+      "build_type": "user"
+    },
+    {
       "codename": "RMX2061",
       "repo": "MistOS-Devices/device_realme_RMX2061",
       "enabled": true,
