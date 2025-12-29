@@ -20,17 +20,17 @@
     {
       "codename": "komodo",
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": true
+      "enabled": false
     },
     {
       "codename": "caiman",
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": true
+      "enabled": false
     },
     {
       "codename": "tokay",
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
