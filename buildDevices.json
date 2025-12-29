@@ -16,6 +16,21 @@
       "repo": "MistOS-Devices/device_realme_RMX2061",
       "enabled": true,
       "build_type": "user"
+    },
+    {
+      "codename": "komodo",
+      "repo": "MistOS-Devices/device_google_caimito",
+      "enabled": true
+    },
+    {
+      "codename": "caiman",
+      "repo": "MistOS-Devices/device_google_caimito",
+      "enabled": true
+    },
+    {
+      "codename": "tokay",
+      "repo": "MistOS-Devices/device_google_caimito",
+      "enabled": true
     }
   ]
 }
