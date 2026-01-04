@@ -1,11 +1,32 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco f7 (Onyx)
-Device maintainer: franlop77
+Device maintainer: stahed
 
 Highlights & Device Specific Changes:
 
-=====================================
+=====================
+      04-01-26
+=====================
+- Last sync sources
+- January security patch (qpr0)
+- Switch to Lunaris Dolby (Thanks ghosuto)
+- Fix calls VoIp
+- Add wired headset mic source for voip_tx
+- Enable VoLTE and VoWIFI for all carriers
+- Fix HDR, some users reported unnecessary brightness
+- Define OEM fast charge sysfs node (fix visual charge bug)
+- Address some sepolicy denials (camera and thermals log spam)
+- Relax RSSI thresholds,WifiScoringParams: Invalid frequency(-1), using 5G as default rssi array
+- Expose aux cameras to com.android.camera and Aperture
+- Update XiaomiParts
+- Add support refresh rate per app Supports 60/90/120hz refresh rate
+- Add thermal profiles in battery section
+- Add automatic HBM support
+- Add clear speaker
+- Add display saturation colors control
+- Add GameBar 4.0 support
+- Enable AOSP surfaceflinger
 
 
 --------# 20 November 2025 #------------

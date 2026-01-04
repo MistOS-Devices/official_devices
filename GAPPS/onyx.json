@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "stahed",
+			"oem": "POCO",
+			"device": "Poco F7",
+			"filename": "MistOS-4.4-Zephyr-16.0-GAPPS-20260104-1656-onyx-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/onyx/MistOS-4.4-Zephyr-16.0-GAPPS-20260104-1656-onyx-OFFICIAL.zip/download",
+			"timestamp": 1767542066,
+			"md5": "1a2ac355dc66a848b9091b85f6b5a0ad",
+			"sha256": "f632642d117cfc30ea8bece3d033bb0e9084fca1205a1a7f254519e056ac1e40",
+			"size": 4177508985,
+			"version": "4.4-Zephyr",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "t.me/OnyxAospfranlop77"
+		}
+	]
+}
