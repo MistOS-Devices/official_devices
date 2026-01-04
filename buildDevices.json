@@ -36,7 +36,7 @@
     {
       "codename": "tokay",
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
