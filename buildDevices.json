@@ -3,40 +3,117 @@
     "build_type": "userdebug",
     "storage_option": "2",
     "_comment_storage_option": "Do not override this value at device level",
-    "menu_action": "full_build_and_both_ota"
+    "menu_action": "full_build_and_both_ota",
+    "gappsbuild": true,
+    "picobuild": false,
+    "minibuild": false,
+    "vanillaBuild": false
   },
   "devices": [
     {
+      "OEM": "Xiaomi",
+      "deviceName": "11 Lite Ne 5g",
       "codename": "lisa",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_lisa",
-      "enabled": true
+      "build_type": "userdebug",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": false
     },
     {
+      "OEM": "Xiaomi",
+      "deviceName": "Poco X3",
       "codename": "surya",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_surya",
-      "enabled": true,
-      "build_type": "user"
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": true,
+      "minibuild": true,
+      "vanillaBuild": false
     },
     {
+      "OEM": "Realme",
+      "deviceName": "Realme 7 Pro",
       "codename": "RMX2061",
-      "repo": "MistOS-Devices/device_realme_RMX2061",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
       "enabled": true,
-      "build_type": "user"
+      "repo": "MistOS-Devices/device_realme_RMX2061",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     },
     {
+      "OEM": "Google",
+      "deviceName": "Pixel 8 Pro",
       "codename": "komodo",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": false,
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": false
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     },
     {
+      "OEM": "Google",
+      "deviceName": "Pixel 8",
       "codename": "caiman",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": true,
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": true
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     },
     {
+      "OEM": "Google",
+      "deviceName": "Pixel 8a",
       "codename": "tokay",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": true,
       "repo": "MistOS-Devices/device_google_caimito",
-      "enabled": true
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Poco F5",
+      "codename": "marble",
+      "maintainer": "",
+      "telegram": "",
+      "donate": "",
+      "enabled": true,
+      "repo": "reponame",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }
