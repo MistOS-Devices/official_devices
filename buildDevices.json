@@ -99,6 +99,12 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
+    },
+    {
+      "codename": "fogos",
+      "repo": "MistOS-Devices/device_motorola_fogos",
+      "enabled": true,
+      "build_type": "user"
     }
   ]
 }
