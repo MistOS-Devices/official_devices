@@ -144,6 +144,21 @@
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
+    },
+    {
+      "OEM": "OnePlus",
+      "deviceName": "OnePlus 7",
+      "codename": "guacamoleb",
+      "maintainer": "HARISH",
+      "telegram": "https://t.me/OnePlus7Development",
+      "donate": "https://paypal.me/Harish263",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_oneplus_guacamoleb",
+      "build_type": "user",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": false
     }
   ]
 }
