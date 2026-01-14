@@ -174,6 +174,21 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
+    },
+    {
+      "OEM": "Motorola",
+      "deviceName": "Moto G73 5G",
+      "codename": "devonf",
+      "maintainer": "user@linux",
+      "telegram": "https://t.me/genzimplore",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_motorola_devonf",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
     }
   ]
 }
