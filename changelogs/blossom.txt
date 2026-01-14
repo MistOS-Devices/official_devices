@@ -1,0 +1,34 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Blossom series
+Device maintainer: HaiKito
+Devices Included In Blossom:
+
+ + Redmi 9A
+ + Redmi 9I
+ + Redmi 9AT
+ + Redmi 10A
+ + Redmi 9A sport
+ + Redmi 9I Sport
+ + Poco C3
+ + Poco C31
+ + Redmi 9C
+ + Redmi 9C NFC
+ + Redmi 9 India
+ + Redmi 9 Active
+
+
+Highlights & Device Specific Changes:
+
+=====================================
+
+--------# 23 December 2025 #---------
+- Initial A16 build
+- Fix volte for codename angelicain
+- Decommonize lmkd props
+- Added MiuiCamera 4.5 by default
+- Switch to niigo kernel by default
+
+Bugs:
+- NFC may not working
+- Stock kernel not working, please dont falsh it if you dont wanna face with bootloop

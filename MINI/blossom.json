@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "HaiKito",
+			"oem": "Xiaomi",
+			"device": "Blossom-series",
+			"filename": "MistOS-4.4-Zephyr-16.0-MINI-20260114-0631-blossom-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/blossom/MistOS-4.4-Zephyr-16.0-MINI-20260114-0631-blossom-OFFICIAL.zip/download",
+			"timestamp": 1768372186,
+			"md5": "d895f4433f257a89f5dc08a99596cb8f",
+			"sha256": "81912e96a95f13fc705a07e673acae6da2983e3162bf0175243c786ee7f0a8c2",
+			"size": 2339613705,
+			"version": "4.4-Zephyr",
+			"buildtype": "MINI",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/haikitoroom"
+		}
+	]
+}
