@@ -159,6 +159,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": false
+    },
+    {
+      "OEM": "Huawei",
+      "deviceName": "Huawei P20",
+      "codename": "emily",
+      "maintainer": "GamerBoy1234294",
+      "telegram": "https://t.me/GamerBoy1234294",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_huawei_emily",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }
