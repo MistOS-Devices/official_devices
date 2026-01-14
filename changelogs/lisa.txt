@@ -2,6 +2,13 @@ Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Lisa
 Device maintainer: lazydev_ak
+
+=====================
+29-12-25
+=====================
+Device:
+- no changes just update
+
 =====================
 29-12-25
 =====================
