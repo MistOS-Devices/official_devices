@@ -1,0 +1,13 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: breeze
+Device maintainer: Niyush
+
+=====================
+13-01-26
+=====================
+Device:
+- Synced With Latest Sources
+- Revert back to QTI-perf service
+- Updated from OS2.0.204.0.VNUINXM
+- Minor cleanup
