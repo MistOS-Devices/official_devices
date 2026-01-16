@@ -189,6 +189,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "OnePlus",
+      "deviceName": "OnePlus 12R/Ace 3",
+      "codename": "aston",
+      "maintainer": "weaponmasterjax",
+      "telegram": "https://t.me/jaxrombot",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_oneplus_aston",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
     }
   ]
 }
