@@ -4,9 +4,50 @@ Device: Devonf
 Device maintainer: user@linux
 
 =====================
-23rd July,2025
+16-01-26
 =====================
-Device:
+• Initial Android 16 (A16) build
+• Added MistOS support
+• Automatically patch GBA
+• Added more IMS patches
+• Enabled vAB compression
+• Patched audio and PQ blobs using libtinyxml2-bp2a from A16 QPR0
+• Switched to shared libraries for MediaTek frameworks
+• Tracked MediaTek GbaService implementation
+• Powerhint: End INTERACTION hint on EXPENSIVE_RENDERING
+• Improved biometric prompt and status bar padding
+• Added additional proprietary blobs
+• Adjusted status bar padding
+• Set biometric dialog corner size to 95px
+• Dropped /sdcard symlink
+• Removed perfmgr and dramboost writes
+• Stopped creating unused folders in /data/vendor
+• Dropped vold property actions
+• Stopped setting permissions for non-existent files and folders
+• Stopped starting non-existent services
+• Removed trace_marker writes for fstab mount stage
+• Stopped waiting for hwservicemanager.ready
+• Removed MediaTek gauge and power-on property actions
+• Removed meta initialization
+• Stopped mmstat tracing
+• Stopped modifying dirty_writeback_centisecs with MediaTek values
+• Removed leftover debugging connectivity services
+• Removed usbotg actions from init.project.rc
+• Downscaled task snapshots to 70%
+• Disabled SurfaceFlinger EGL image tracking
+• Updated Skia tracing properties
+• Disabled Skia tracing by default
+• Removed unused audio codecs
+• Switched HWUI to use HintManager
+• Removed noflush_merge option from userdata fstab
+• Set readahead_size_kb to 128 for system, vendor, product, system_ext, and data partitions
+• Decreased reserve_root value to 32768
+• Switched to AIDL Bluetooth service
+& more
+
+=====================
+23-07-25
+=====================
 • Moto Camera: Video Mode Fixed
 • BesLoudness added
 • Update to U1TNS34.82-12-7-8
@@ -46,29 +87,4 @@ Device:
 • Drop atcid service
 • Drop batt_health service completely
 • Switch to AOSP’s default renderengine
-
-Sources:
-• Updated base to AOSP Android 16
-• Latest security patches and stability improvements
-• Added Notifications - Power & Progress bar Styles
-• Added Custom Lock - Unlock Sound
-• Redesign MistUi
-• Added System Fonts
-• Added System Icons
-• Added Signal Icons
-• Added Wi-Fi Icons
-• Added Custom Boot Animations 
-• Added Monet Settings 
-• Keybox XML Spoof
-• Added Game Space
-• Added Sidebar
-• Added HDR Display
-• Added Battery Styles
-• Added Progress Status Bar
-• Refined UI with a modern, polished look
-• & More
-
-Credits:
-Thanks to RisingOS, CrDroid, Derpfest, LMODroid, and other for their contribution.
-
-As always, we appreciate your support and feedback, we hope you enjoy this update!
+& more
