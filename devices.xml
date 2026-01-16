@@ -21,5 +21,6 @@
   <project name="device_oneplus_aston" />
   <project name="device_xiaomi_onyx" />
   <project name="device_xiaomi_blossom" />
+  <project name="device_motorola_devonf" />
 </manifest>
 
