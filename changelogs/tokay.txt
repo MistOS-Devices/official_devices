@@ -15,3 +15,14 @@ Sources:
 - Bump to version 4.3
 - November security patch update
 - Synced with latest changes
+
+:=========================:
+:=  20th  January, 2025  =:
+:=========================:
+---------------------------
+Device:
+- No device side changes
+
+Sources:
+- Bump to version 4.4
+- Synced with latest changes
