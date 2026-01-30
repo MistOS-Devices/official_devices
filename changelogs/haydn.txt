@@ -4,6 +4,12 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+30-01-26
+=====================
+- Kernel BPF Patches included 
+- Added Updated GameBar
+
+=====================
 21-10-25
 =====================
 - Enable automatic channel selection
