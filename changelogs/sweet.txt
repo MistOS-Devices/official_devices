@@ -1,7 +1,20 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Redmi Note 10 Pro (sweet)
-Device maintainer: Javi
+Device maintainer: stahed
+
+=====================
+      02-02-25
+=====================
+- January security patch
+- Switch to erofs
+- Add KProfiles
+- Switch spiteful kernel
+- Switch to LunarisDolby
+- Swtich to miuicamera stock
+
+NOTES:
+MANDATORY CLEAN INSTALL
 
 =====================
       23-11-25
