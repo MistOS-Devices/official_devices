@@ -3,6 +3,13 @@ Build type: OFFICIAL (Monthly)
 Device: Devonf
 Device maintainer: user@linux
 
+
+=====================
+02-02-26
+=====================
+• Fix IMS
+• Fix BT
+
 =====================
 02-02-26
 =====================
