@@ -4,6 +4,21 @@ Device: Devonf
 Device maintainer: user@linux
 
 =====================
+02-02-26
+=====================
+• Converted Lineage Touch HAL to AIDL and completed full Touch HAL implementation
+• Implemented DT2W and fixed single-tap gesture support with proper permissions
+• Added Lineage Touch HAL VINTF declarations and build integration
+• Imported Lunaris Dolby support
+• Migrated sensors to Android 2.x MultiHAL with proxy service
+• Built and integrated android.hardware.sensors@2.1-service.devonf-multihal
+• Added required hals.conf prebuilts and avoided target name conflicts
+• Skipped Motorola-specific double/single tap sensors
+• Updated SELinux policies for Touch HAL, Sensors MultiHAL, and audio HAL socket access
+• Fixed thermal HAL NaN handling
+• Updated sensors licensing to Android-Apache-2.0
+
+=====================
 16-01-26
 =====================
 • Initial Android 16 (A16) build

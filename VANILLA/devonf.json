@@ -1,21 +1,21 @@
 {
-  "response": [
-    {
-      "maintainer": "user@linux",
-      "oem": "Motorola",
-      "device": "Moto G73 5G",
-      "filename": "MistOS-4.4-Zephyr-16.0-VANILLA-20260116-0327-devonf-OFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/project-mistos/files/Android16/devonf/MistOS-4.4-Zephyr-16.0-VANILLA-20260116-0327-devonf-OFFICIAL.zip/download",
-      "timestamp": 1768533928,
-      "md5": "e53b83ccdce0518a054d1b7ddc50241f",
-      "sha256": "0fb929c1f2f4bb6c1051916dd8397c856c91e4419a8039ffd9ca0abcf0703c3d",
-      "size": 1721024099,
-      "version": "4.4-Zephyr",
-      "buildtype": "VANILLA",
-      "forum": "",
-      "recovery": "",
-      "paypal": "",
-      "telegram": "https://t.me/genzimplore"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "user@linux",
+			"oem": "Motorola",
+			"device": "Moto G73 5G",
+			"filename": "MistOS-4.4-Zephyr-16.0-VANILLA-20260202-0245-devonf-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/devonf/MistOS-4.4-Zephyr-16.0-VANILLA-20260202-0245-devonf-OFFICIAL.zip/download",
+			"timestamp": 1770000221,
+			"md5": "4d09b75de61a1fc20a9b870ada847fa5",
+			"sha256": "4fd54e7a9aa85e560c4f47b221abe5c0ae944257601d1f2c93242b0a2872e3bd",
+			"size": 1723534419,
+			"version": "4.4-Zephyr",
+			"buildtype": "VANILLA",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/genzimplore"
+		}
+	]
 }
