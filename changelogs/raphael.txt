@@ -1,11 +1,34 @@
-this is the test of the changelog options 
-1 - MistOS !!
-2 - MistOS !!
-3 - MistOS !!
-4 - MistOS !!
-5 - MistOS !!
-6 - MistOS !!
-7 - MistOS !!
-8 - MistOS !!
-9 - MistOS !!
-10 - MistOS !!
+╔══════════════════════════════════════╗
+           MISTOS CHANGELOG
+           Version 4.5
+           Codename: Velour
+╚══════════════════════════════════════╝
+
+📱 Device : raphael (Redmi K20 Pro)
+👨‍💻 Maintainer : Zabuka_Zuzu
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Added MistOS UI improvements
+• Added new system animations
+• Added new QS customization
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Improvements
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Improved performance
+• Better battery optimization
+• System stability improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🐞 Fixes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Fixed UI lag issues
+• Fixed minor bugs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 Notes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Clean flash recommended
+• Report bugs with logs
