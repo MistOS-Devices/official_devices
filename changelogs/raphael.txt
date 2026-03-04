@@ -1,8 +1,8 @@
-╔══════════════════════════════════════╗
-           MISTOS CHANGELOG
-           Version 4.5
-           Codename: Velour
-╚══════════════════════════════════════╝
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 4.5
+  Codename: Velour
+╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
 👨‍💻 Maintainer : Zabuka_Zuzu
