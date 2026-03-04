@@ -13,22 +13,3 @@
 • Added MistOS UI improvements
 • Added new system animations
 • Added new QS customization
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚡ Improvements
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Improved performance
-• Better battery optimization
-• System stability improvements
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🐞 Fixes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Fixed UI lag issues
-• Fixed minor bugs
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 Notes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Clean flash recommended
-• Report bugs with logs
