@@ -1,4 +1,4 @@
-this is the test of the changelog options 
+this is the test of the changelog options testing with long text ...........hello.....hi....
 1 - MistOS !!
 2 - MistOS !!
 3 - MistOS !!
