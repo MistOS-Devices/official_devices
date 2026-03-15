@@ -7,6 +7,12 @@ Device maintainer: lazydev_ak
 29-12-25
 =====================
 Device:
+- Adapted trees for Qpr2
+
+=====================
+29-12-25
+=====================
+Device:
 - no changes just update
 
 =====================
