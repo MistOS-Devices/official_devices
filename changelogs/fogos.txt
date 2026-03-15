@@ -4,6 +4,15 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+03-02-2026
+=====================
+- Synce Latest Source
+- January Security Patch
+- Kernel is upstreamed to 5.4.302
+- Powerhint: Minor Interaction Decrease
+- Powerhint: Drop Game Power
+
+=====================
 18-11-2025
 =====================
 - November security update
