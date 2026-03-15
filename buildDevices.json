@@ -24,6 +24,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "Motorola",
+      "deviceName": "Motorola G34 5G",
+      "codename": "fogos",
+      "maintainer": "JNWSG_(JINWOO)",
+      "telegram": "https://t.me/JNW_SG",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_motorola_fogos",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
     }
   ]
 }
