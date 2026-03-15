@@ -36,9 +36,9 @@
       "repo": "MistOS-Devices/device_motorola_fogos",
       "build_type": "user",
       "gappsbuild": true,
-      "picobuild": true,
+      "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     }
   ]
 }
