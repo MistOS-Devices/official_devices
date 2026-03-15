@@ -32,3 +32,20 @@ Highlights & Device Specific Changes:
 Bugs:
 - NFC may not working
 - Stock kernel not working, please dont falsh it if you dont wanna face with bootloop
+
+--------# 15 March 2026 #---------
+- Sync Android 16 QPR2, MistOs v4.5 velour latest source
+- Sign build with lineage private key
+- Reduce blur radius
+- Disable high perf transitions, blossom is low
+- Fixup thermal config
+- Set lmk stall_limit_critical threshold
+- Remove some unused google apps in gapps build
+- Force use niigo kernel to fix hotspot issue
+
+Bugs:
+- NFC not working
+- Stock kernel may not working, flash this can make your phone brick and kill hotspot
+- Slow charge in some device
+- Blur laggy even i reduce it, turn it off may better for your experience
+- In gapps build, first bootanimation may get stuck, dont worry, just hold power button until it reboot, then it fine
