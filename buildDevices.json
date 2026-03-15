@@ -23,7 +23,7 @@
       "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
-      "vanillaBuild": false
+      "vanillaBuild": true
     }
   ]
 }
