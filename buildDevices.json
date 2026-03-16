@@ -69,6 +69,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi Note 10 Pro",
+      "codename": "sweet",
+      "maintainer": "Javi",
+      "telegram": "https://t.me/RedmiNote10ProCHAT",
+      "donate": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_sweet",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }
