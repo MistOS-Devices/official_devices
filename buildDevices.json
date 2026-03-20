@@ -129,6 +129,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-    }
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "11 Lite Ne 5g",
+      "codename": "lisa",
+      "maintainer": "LazyDevAk",
+      "telegram": "https://t.me/LazyDev_ak",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_lisa",
+      "build_type": "userdebug",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
   ]
 }
