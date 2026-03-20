@@ -26,6 +26,21 @@
       "vanillaBuild": true
     },
     {
+      "OEM": "Xiaomi",
+      "deviceName": "Mi 11X Pro / Mi 11i / Redmi K40 Pro+",
+      "codename": "haydn",
+      "maintainer": "Hexdare",
+      "telegram": "https://t.me/Hexdare",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_haydn",
+      "build_type": "userdebug",
+      "gappsbuild": false,
+      "picobuild": true,
+      "minibuild": false,
+      "vanillaBuild": false
+    },
+    {
       "OEM": "Motorola",
       "deviceName": "Motorola G34 5G",
       "codename": "fogos",
