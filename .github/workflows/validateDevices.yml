@@ -1,0 +1,45 @@
+name: Validate Device Dependencies
+
+on:
+  pull_request:
+    paths:
+      - 'buildDevices.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y jq git xmlstarlet
+
+      - name: Clone Manifest
+        run: |
+          git clone https://github.com/Project-Mist-OS/manifest.git manifest
+
+      - name: Extract remotes
+        run: |
+          echo "{}" > remotes.json
+
+          for file in manifest/default.xml manifest/snippets/*.xml; do
+            [ -f "$file" ] || continue
+
+            xmlstarlet sel -t -m "//remote" \
+              -v "@name" -o "=" -v "@fetch" -n "$file"
+          done > remotes.txt
+
+          jq -Rn '
+            [inputs | split("=") | { (.[0]): .[1] }] | add
+          ' remotes.txt > remotes.json
+
+          echo "==== REMOTES ===="
+          cat remotes.json
+
+      - name: Run validation (recursive lineage.dependencies)
+        run: |
+          bash ./scripts/validate.sh
