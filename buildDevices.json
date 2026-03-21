@@ -115,7 +115,7 @@
       "minibuild": false,
       "vanillaBuild": false
     },
-     {
+    {
       "OEM": "Xiaomi",
       "deviceName": "Redmi 9A/9I/9AT/10A/9C",
       "codename": "blossom",
@@ -128,6 +128,51 @@
       "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
+      "vanillaBuild": true
+    },
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 9 Pro XL",
+      "codename": "komodo",
+      "maintainer": "GamerBoy1234294",
+      "telegram": "https://t.me/Pixel9SeriesChat",
+      "donate": "https://t.me/GamerBoy1234294",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_google_caimito",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 9 Pro",
+      "codename": "caiman",
+      "maintainer": "GamerBoy1234294",
+      "telegram": "https://t.me/Pixel9SeriesChat",
+      "donate": "https://t.me/GamerBoy1234294",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_google_caimito",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 9",
+      "codename": "tokay",
+      "maintainer": "GamerBoy1234294",
+      "telegram": "https://t.me/Pixel9SeriesChat",
+      "donate": "https://t.me/GamerBoy1234294",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_google_caimito",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
       "vanillaBuild": true
     }
   ]
