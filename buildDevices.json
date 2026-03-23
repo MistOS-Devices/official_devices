@@ -189,6 +189,21 @@
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Poco F5 / Redmi Note12 Turbo ",
+      "codename": "marble",
+      "maintainer": "Dhanush",
+      "telegram": "https://t.me/solocaptainblaze",
+      "donate": "https://buymeacoffee.com/dhanushvozj",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_marble",
+      "build_type": "user",
+      "gappsbuild": false,
+      "picobuild": true,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }
