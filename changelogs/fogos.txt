@@ -4,6 +4,19 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+22-03-2026
+=====================
+- Update Firmware V1UGS35H.75-14-3-6
+- Switched To Sedona Kernel
+- Droped Lineage LiveDisplay
+- Fixed Black Screen issue with Fingerprint Unlocking
+- Implement DeviceAsWebcam
+- March Security Patch
+- Fixed Double Tap To Wake
+- Set CPU UP_Rate_Limit To 0 For INTERACTIVE
+- Minor improvement & Lag Free
+
+=====================
 18-11-2025
 =====================
 - November security update
