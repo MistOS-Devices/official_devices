@@ -4,18 +4,17 @@
 			"maintainer": "Hexdare",
 			"oem": "Xiaomi",
 			"device": "Mi 11X Pro / Mi 11i / Redmi K40 Pro +",
-			"filename": "MistOS-4.4-Zephyr-16.0-PICO-20260126-1750-haydn-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/haydn/MistOS-4.4-Zephyr-16.0-PICO-20260126-1750-haydn-OFFICIAL.zip/download",
-			"timestamp": 1769449733,
-			"md5": "b941b06a5992e88bc525ae687e449c97",
-			"sha256": "e68b6c98ca254a81a98c5be465be970193de1a420ff149cd79b1a8060402e679",
-			"size": 2596457818,
-			"version": "4.4-Zephyr",
+			"filename": "MistOS-4.5-Velour-16.0-PICO-20260322-0729-haydn-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/haydn/MistOS-4.5-Velour-16.0-PICO-20260322-0729-haydn-OFFICIAL.zip/download",
+			"timestamp": 1774164447,
+			"md5": "c1c60908a7614d98c844943eec9a55f9",
+			"sha256": "abf3696f250fa0fd83695a963ae2fb5fe489979a0f575836a43621b5fc31b3e4",
+			"size": 2657595744,
+			"version": "4.5-Velour",
 			"buildtype": "PICO",
 			"forum": "",
 			"recovery": "",
 			"paypal": "https://linktr.ee/Hexdare",
 			"telegram": "t.me/Hexdare"
-		}
 	]
 }

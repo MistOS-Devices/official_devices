@@ -4,34 +4,18 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+24-03-26
+=====================
+- Add Lunaris Dolby Ui
+- Fixed Snapchat Lens issue (Macro as 2x-10x)
+- Revert "Expose aux cameras to com.snapchat.android"
+- Shim WFD with libinput_shim
+- Patch some blobs to depend on libtinyxml2-v34.so
+- overlay-lineage: Disable blurs by default
+- overlay: Reduce blur radius
+
+=====================
 30-01-26
 =====================
 - Kernel BPF Patches included 
 - Added Updated GameBar
-
-=====================
-21-10-25
-=====================
-- Enable automatic channel selection
-- Enable support for IEEE80211AC
-- Enable support for IEEE80211AX
-- CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
-- prop: Disable HWC for VDS except wfd.
-- Use MIUI poweroff charging animation
-- Remove obsolete SurfaceFlinger properties
-- Set debug.sf.auto_latch_unsignaled to 0
-- Drop debug.sf.disable_client_composition_cache
-- Remove debug.mdpcomp.logs
-
-=====================
-21-10-25
-=====================
-Device:
-- No device side changes
-
-=====================
-12-09-25
-=====================
-Device:
-Initial A16 Build
-With Los Kernel and KSU-Next Support by default
