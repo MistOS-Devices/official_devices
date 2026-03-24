@@ -4,6 +4,16 @@ Device: breeze
 Device maintainer: Niyush
 
 =====================
+23-03-26
+=====================
+Device:
+- Fix fingerprint location (useful in ripple effect)
+- Disable blurs by default
+- Reduce blur radius
+- Remove unused Adreno fw
+- Upstreamed GKI kernel
+
+=====================
 13-01-26
 =====================
 Device:
