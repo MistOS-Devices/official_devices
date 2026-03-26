@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "stahed",
-			"oem": "POCO",
-			"device": "Poco F7",
-			"filename": "MistOS-4.4-Zephyr-16.0-GAPPS-20260104-1656-onyx-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/onyx/MistOS-4.4-Zephyr-16.0-GAPPS-20260104-1656-onyx-OFFICIAL.zip/download",
-			"timestamp": 1767542066,
-			"md5": "1a2ac355dc66a848b9091b85f6b5a0ad",
-			"sha256": "f632642d117cfc30ea8bece3d033bb0e9084fca1205a1a7f254519e056ac1e40",
-			"size": 4177508985,
-			"version": "4.4-Zephyr",
+			"maintainer": "Kaveer",
+			"oem": "Xiaomi",
+			"device": "POCO F7 / Redmi Turbo 4 Pro",
+			"filename": "MistOS-4.5-Velour-16.0-GAPPS-20260324-1739-onyx-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/onyx/MistOS-4.5-Velour-16.0-GAPPS-20260324-1739-onyx-OFFICIAL.zip/download",
+			"timestamp": 1774373873,
+			"md5": "b4de08e25b017fc5129e7a2df6022292",
+			"sha256": "af470be74df9e719450a94a420696a0534ba38605e5afb0a332197c84a3c6075",
+			"size": 4657714823,
+			"version": "4.5-Velour",
 			"buildtype": "GAPPS",
 			"forum": "",
 			"recovery": "",
-			"paypal": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
-			"telegram": "t.me/OnyxAospfranlop77"
+			"paypal": "",
+			"telegram": "https://t.me/KaveerRomFactorySupport"
 		}
 	]
 }
