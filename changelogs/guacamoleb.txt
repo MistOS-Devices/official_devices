@@ -4,15 +4,16 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-15 November,2025
+27 March,2026
 =====================
 Device:
-- Fix a bug where large file transfers via USB cable cancel mid-transfer
-- Revert a prop which was impacting display responsiveness
-- Fix some sepolicy denials
-- Sync kernel with LineageOS-23.0
-- Enable fbeV2 for f2fs data
-- Align fstab erofs props with the standard from AOSP
-- Misc. Improvements and fixes.....
+• Ship OOSCamera and OOSGallery fully functional
+• Added 757MHz freq to GPU
+• Restored reserve partition ueventd rules for current OOS blobs
+• Updated AlertSlider Icons and added sepolicy fixes for fingerprint vendor data creation/ioctl access plus ro.oplusupgrade.alpha.version labeling.
+• More Memory Management tweaks
+• Added CVP and OmxVpp camera blobs (device and vendor, 32+64 bit)
+• Added new sensor mappings for Thermal HAL and disabled excessive thermal logging 
+• Vendor: allowed gettid in wfdhdcphalservice seccomp policy to avoid Android 16 seccomp filter failures
 
 Notes: Clean Flash Mandatory
