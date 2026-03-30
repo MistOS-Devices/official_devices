@@ -234,6 +234,36 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 6",
+      "codename": "oriole",
+      "maintainer": "srly8",
+      "telegram": "https://t.me/dlogoxceha",
+      "donate": "",
+      "enabled": true,
+      "repo": "Mendokoe/android_device_google_raviole",
+      "build_type": "user",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 6 Pro",
+      "codename": "raven",
+      "maintainer": "srly8",
+      "telegram": "https://t.me/dlogoxceha",
+      "donate": "",
+      "enabled": true,
+      "repo": "Mendokoe/android_device_google_raviole",
+      "build_type": "user",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
     }
   ]
 }
