@@ -5,7 +5,7 @@
 ╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
-👨‍💻 Maintainer : Zabuka_Zuzu
+👨‍💻 Maintainer : BULLA
 ✅ Security : March 2026 (QPR2)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -35,3 +35,10 @@
 - Added Changing animations
 - Added Charging Ripple Animations 
 - & More bug fixes & improvements
+
+--------# 1 APRIL 2026 #---------
+- Added face detection libs.
+- Added Leica camera.
+- Fixed portrait camera.
+- Added BCR.
+- some other misc changes.
