@@ -23,5 +23,6 @@
   <project name="device_xiaomi_onyx" />
   <project name="device_xiaomi_blossom" />
   <project name="device_motorola_devonf" />
+  <project name="device_xiaomi_raphael" />
 </manifest>
 
