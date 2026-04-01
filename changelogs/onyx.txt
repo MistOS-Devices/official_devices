@@ -6,6 +6,14 @@ Device maintainer: Kaveer (@kaveerrana)
 Highlights & Device Specific Changes:
 
 =====================
+      31-03-26
+=====================
+- Fixed FP in apps with more than two fingerprints registered
+- Added Toggle for HTSR
+- Bumped default TSR
+- Switched to MIUI color profiles
+
+=====================
       24-03-26
 =====================
 - Initial build
