@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: OFFICIAL (Monthly)
+Device: Oriole
+Device maintainer: srly8
+
+Highlights & Device Specific Changes:
+
+=====================
+      31-03-26
+=====================
+- Initial release
