@@ -77,7 +77,7 @@
       "maintainer": "BULLA",
       "telegram": "https://t.me/Bulla03x",
       "enabled": true,
-      "repo": "MistOS-Devices/device_xiaomi_raphael_bulla",
+      "repo": "MistOS-Devices/device_xiaomi_raphael",
       "build_type": "user",
       "gappsbuild": false,
       "picobuild": false,
