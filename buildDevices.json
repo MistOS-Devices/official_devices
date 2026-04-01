@@ -263,6 +263,36 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-    }
+      },
+      {
+      "OEM": "OnePlus",
+      "deviceName": "OnePlus 13R",
+      "codename": "giulia",
+      "maintainer": "ShivaOPP",
+      "telegram": "https://t.me/itzshivaopp",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_oneplus_giulia",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+      },
+      {
+      "OEM": "OnePlus",
+      "deviceName": "OnePlus Ace 5",
+      "codename": "giuliac",
+      "maintainer": "ShivaOPP",
+      "telegram": "https://t.me/itzshivaopp",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_oneplus_giuliac",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
+      },
   ]
 }
