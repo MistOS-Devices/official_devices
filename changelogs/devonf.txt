@@ -4,7 +4,12 @@ Device: Devonf
 Device maintainer: user@linux
 
 =====================
-02-02-26
+01-04-26
+=====================
+• Enable MotoActions
+
+=====================
+26-03-26
 =====================
 • Enable Blurs
 • Added 
