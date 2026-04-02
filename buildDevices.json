@@ -293,6 +293,6 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
-      },
+      }
   ]
 }
