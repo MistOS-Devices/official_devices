@@ -4,6 +4,12 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: stahed
 
 =====================
+      03-04-26
+=====================
+- Bump version 4.5
+- March security patch
+
+=====================
       02-02-25
 =====================
 - January security patch
