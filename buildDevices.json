@@ -293,6 +293,21 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
-      }
+      },
+          {
+      "OEM": "Realme",
+      "deviceName": "6 Pro",
+      "codename": "RMX2061",
+      "maintainer": "Shahid Shamim",
+      "telegram": "https://t.me/thenoah77",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_realme_RMX2061",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    }
   ]
 }
