@@ -27,8 +27,8 @@
     },
     {
       "OEM": "Genric",
-      "deviceName": "GENERIC SYSTEM IMAGE",
-      "codename": "GSI",
+      "deviceName": "SYSTEM IMAGE",
+      "codename": "gsi",
       "maintainer": "Dozee_off",
       "telegram": "https://t.me/Dozee_off",
       "donate": "",
