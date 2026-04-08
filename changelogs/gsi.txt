@@ -1,0 +1,9 @@
+Device-specific changelog:
+Build type: Official
+Device: GSI trebledroid
+Device maintainer: Doze-off
+
+=====================
+04-04-2026
+=====================
+Initial Official build for RMX2061
