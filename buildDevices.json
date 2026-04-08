@@ -26,6 +26,21 @@
       "vanillaBuild": true
     },
     {
+      "OEM": "Genric",
+      "deviceName": "GENERIC SYSTEM IMAGE",
+      "codename": "GSI",
+      "maintainer": "Dozee_off",
+      "telegram": "https://t.me/Dozee_off",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_gsi",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": flase,
+      "vanillaBuild": true
+    },
+    {
       "OEM": "Xiaomi",
       "deviceName": "Mi 11X Pro / Mi 11i / Redmi K40 Pro+",
       "codename": "haydn",
