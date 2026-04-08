@@ -25,6 +25,22 @@
       "minibuild": true,
       "vanillaBuild": true
     },
+    "devices": [
+    {
+      "OEM": "Google",
+      "deviceName": "Pixel 6a",
+      "codename": "bluejay",
+      "maintainer": "Zabuka_Zuzu",
+      "telegram": "https://t.me/MistOSDiscussion",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_google_bluejay",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
     {
       "OEM": "Genric",
       "deviceName": "SYSTEM IMAGE",
