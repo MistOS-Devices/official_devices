@@ -233,8 +233,8 @@
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
-      },
-      {
+    },
+    {
       "OEM": "Nothing",
       "deviceName": "Nothing Phone 2",
       "codename": "Pong",
@@ -248,8 +248,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "Google",
       "deviceName": "Pixel 6",
       "codename": "oriole",
@@ -263,8 +263,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "Google",
       "deviceName": "Pixel 6 Pro",
       "codename": "raven",
@@ -278,8 +278,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "OnePlus",
       "deviceName": "OnePlus 13R",
       "codename": "giulia",
@@ -293,8 +293,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "OnePlus",
       "deviceName": "OnePlus Ace 5",
       "codename": "giuliac",
@@ -308,8 +308,8 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
-      },
-          {
+    },
+    {
       "OEM": "Realme",
       "deviceName": "6 Pro",
       "codename": "RMX2061",
