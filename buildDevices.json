@@ -50,8 +50,8 @@
       "enabled": true,
       "repo": "MistOS-Devices/device_gsi",
       "build_type": "userdebug",
-      "gappsbuild": true,
-      "picobuild": false,
+      "gappsbuild": false,
+      "picobuild": true,
       "minibuild": false,
       "vanillaBuild": true
     },
