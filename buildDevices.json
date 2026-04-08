@@ -25,7 +25,6 @@
       "minibuild": true,
       "vanillaBuild": true
     },
-    "devices": [
     {
       "OEM": "Google",
       "deviceName": "Pixel 6a",
