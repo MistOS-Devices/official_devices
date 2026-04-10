@@ -6,6 +6,11 @@ Device maintainer: Kaveer (@kaveerrana)
 Highlights & Device Specific Changes:
 
 =====================
+      10-04-26
+=====================
+- Improved Smart Night power handling
+
+=====================
       31-03-26
 =====================
 - Fixed FP in apps with more than two fingerprints registered
