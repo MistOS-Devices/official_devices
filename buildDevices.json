@@ -26,6 +26,36 @@
       "vanillaBuild": true
     },
     {
+      "OEM": "Google",
+      "deviceName": "Pixel 6a",
+      "codename": "bluejay",
+      "maintainer": "Zabuka_Zuzu",
+      "telegram": "https://t.me/MistOSDiscussion",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_google_bluejay",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
+    {
+      "OEM": "Genric",
+      "deviceName": "SYSTEM IMAGE Trebledroid",
+      "codename": "gsi",
+      "maintainer": "Dozee_off",
+      "telegram": "https://t.me/Dozee_off",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_gsi",
+      "build_type": "User",
+      "gappsbuild": false,
+      "picobuild": true,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
+    {
       "OEM": "Xiaomi",
       "deviceName": "Mi 11X Pro / Mi 11i / Redmi K40 Pro+",
       "codename": "haydn",
@@ -218,8 +248,8 @@
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
-      },
-      {
+    },
+    {
       "OEM": "Nothing",
       "deviceName": "Nothing Phone 2",
       "codename": "Pong",
@@ -233,8 +263,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "Google",
       "deviceName": "Pixel 6",
       "codename": "oriole",
@@ -242,14 +272,14 @@
       "telegram": "https://t.me/dlogoxceha",
       "donate": "",
       "enabled": true,
-      "repo": "Mist-Devices/android_device_google_raviole",
+      "repo": "MistOS-Devices/device_google_raviole",
       "build_type": "user",
       "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "Google",
       "deviceName": "Pixel 6 Pro",
       "codename": "raven",
@@ -257,14 +287,14 @@
       "telegram": "https://t.me/dlogoxceha",
       "donate": "",
       "enabled": true,
-      "repo": "Mist-Devices/android_device_google_raviole",
+      "repo": "MistOS-Devices/device_google_raviole",
       "build_type": "user",
       "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "OnePlus",
       "deviceName": "OnePlus 13R",
       "codename": "giulia",
@@ -278,8 +308,8 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-      },
-      {
+    },
+    {
       "OEM": "OnePlus",
       "deviceName": "OnePlus Ace 5",
       "codename": "giuliac",
@@ -293,8 +323,8 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
-      },
-          {
+    },
+    {
       "OEM": "Realme",
       "deviceName": "6 Pro",
       "codename": "RMX2061",

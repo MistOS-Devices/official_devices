@@ -4,6 +4,12 @@ Device: Realme 6 Pro (RMX2061)
 Device maintainer: Shahid Shamim
 
 =====================
+08-04-26
+=====================
+Device:
+- Adapted trees for Qpr2
+
+=====================
 05-01-2026
 =====================
 - Merged January security patch for improved device security

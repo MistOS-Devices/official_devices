@@ -1,4 +1,3 @@
-
 ╔═════════════════════╗
   MISTOS CHANGELOG
   Version 4.6
@@ -13,7 +12,24 @@
 ✨ New Features
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔧 Changelog :-
-- QPR2 April Security Patch
+- QPR2 April Patch
+- Gradient Customisation 
+- Added QS pannel styles
+- Legacy Status bar icons
+- More Clock Style
+- Fixup DepthWallpaper Overlapping With QS
+- Fixup MediaArt Clock not showing
+- Fixup Smartspace not hiding sometimes 
+- Fixup QuickSwitch Overlays for AutoToggle
+- IOS Like MistifyVolume Styles
+- IOS Like Quick Settings Pannel
+- Added App Drawer Styles
+- BottomSheet PackageInstaller Like On GlassEffect
+- & More bug fixes & improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- QPR2 March Security Patch
 - Added Monet Settings 
 - Added Now playing 
 - Added Depth Wallpaper
@@ -36,10 +52,3 @@
 - Added Changing animations
 - Added Charging Ripple Animations 
 - & More bug fixes & improvements
-
---------# 1 APRIL 2026 #---------
-- Added face detection libs.
-- Added Leica camera.
-- Fixed portrait camera.
-- Added BCR.
-- some other misc changes.
