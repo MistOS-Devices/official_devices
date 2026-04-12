@@ -4,6 +4,14 @@ Device: GSI trebledroid
 Device maintainer: Doze-off
 
 =====================
+12-04-2026
+=====================
+init: fix build error in SELinux pre-4.9 fallback patch
+fix MTK display init: use full power-off path instead of bypassing scheduler
+avoid BLAST recursive mutex deadlock at boot @cawilliamson
+Added blur Kawase2_fix_aliasing in app treble
+
+=====================
 04-04-2026
 =====================
-Initial Official build for RMX2061
+Initial Official build for GSI
