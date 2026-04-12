@@ -1,0 +1,28 @@
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 4.6
+  Codename: Lucent
+╚═════════════════════╝
+
+📱 Device : Cheetah (Pixel 7 Pro)
+👨‍💻 Maintainer : Javi
+✅ Security : April 2026 (QPR2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- QPR2 April Patch
+- Gradient Customisation 
+- Added QS pannel styles
+- Legacy Status bar icons
+- More Clock Style
+- Fixup DepthWallpaper Overlapping With QS
+- Fixup MediaArt Clock not showing
+- Fixup Smartspace not hiding sometimes 
+- Fixup QuickSwitch Overlays for AutoToggle
+- IOS Like MistifyVolume Styles
+- IOS Like Quick Settings Pannel
+- Added App Drawer Styles
+- BottomSheet PackageInstaller Like On GlassEffect
+- & More bug fixes & improvements
