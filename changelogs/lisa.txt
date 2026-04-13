@@ -4,6 +4,15 @@ Device: Lisa
 Device maintainer: lazydev_ak
 
 =====================
+13-04-26
+=====================
+Device:
+- Ksun next added (But its bit old version)
+- Some more kernel configs added
+- kernel name changed to ByteRift V1.0
+- No more stock los kernel
+
+=====================
 29-12-25
 =====================
 Device:
