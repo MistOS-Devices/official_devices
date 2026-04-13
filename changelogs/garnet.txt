@@ -1,0 +1,23 @@
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 4.6.1
+  Codename: Lucent
+╚═════════════════════╝
+
+📱 Device : Garnet (Xiaomi Redmi Note 13 Pro 5G)
+👨‍💻 Maintainer : franlop77
+✅ Security : April 2026 (QPR2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 Changelog :-
+
+- Initial Release
+- Included MiuiCamera (@kleidione)
+- Included LunarisDolby (@Ghosutox)
+- Add LMKD properties (Optimized for smoother performance and improved system stability)
+- wifi: tune bmps listening interval (power savings during wifi)
+- wifi: increase Wi-Fi scan interval (reduces the frequency of background network scans)
+- Tune Doze mode constants for better idle drain
