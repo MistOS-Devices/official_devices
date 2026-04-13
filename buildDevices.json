@@ -353,6 +353,21 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Xiaomi Redmi Note 13 Pro 5G",
+      "codename": "garnet",
+      "maintainer": "franlop77",
+      "telegram": "https://t.me/MistOSDiscussion",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_garnet",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }

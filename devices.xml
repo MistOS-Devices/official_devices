@@ -25,5 +25,6 @@
   <project name="device_motorola_devonf" />
   <project name="device_xiaomi_raphael" />
   <project name="device_google_pantah" />
+  <project name="device_xiaomi_garnet" />
 </manifest>
 
