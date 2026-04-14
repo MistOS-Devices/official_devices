@@ -1,24 +1,28 @@
-Highlights & Device Specific Changes:
-Build type: OFFICIAL (Monthly)
-Device: POCO F7 / Redmi Turbo 4 Pro
-Device maintainer: Kaveer (@kaveerrana)
+📱 Device: POCO F7 / Redmi Turbo 4 Pro  
+🛠 Maintainer: Kaveer (@kaveerrana)  
+🚀 Build Type: OFFICIAL (Monthly)  
 
-Highlights & Device Specific Changes:
+════════════════════════════
+        📜 CHANGELOG
+════════════════════════════
 
-=====================
-      10-04-26
-=====================
-- Improved Smart Night power handling
+📅 13-04-2026
+✨ Sync with the latest source
 
-=====================
-      31-03-26
-=====================
-- Fixed FP in apps with more than two fingerprints registered
-- Added Toggle for HTSR
-- Bumped default TSR
-- Switched to MIUI color profiles
+────────────────────────────
 
-=====================
-      24-03-26
-=====================
-- Initial build
+📅 10-04-2026
+🌙 Improved Smart Night power handling
+
+────────────────────────────
+
+📅 31-03-2026
+🔐 Fixed fingerprint issue in apps with more than two fingerprints registered  
+⚡ Added toggle for High Touch Sampling Rate (HTSR)  
+📈 Increased default Touch Sampling Rate (TSR)  
+🎨 Switched to MIUI color profiles  
+
+────────────────────────────
+
+📅 24-03-2026
+🎉 Initial build
