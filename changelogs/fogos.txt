@@ -4,6 +4,15 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+13-04-2026
+=====================
+- Rebase Device Tree Sources
+- Switched Back To Lineage Kernel
+- Again Add Lineage LiveDisplay
+- Adapt powerhint values for holi
+- Added ViPER4AndroidFX
+
+=====================
 22-03-2026
 =====================
 - Update Firmware V1UGS35H.75-14-3-6
