@@ -1,40 +1,13 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 4.5
-  Codename: Velour
+  Version 4.6.1
+  Codename: Lucent-HotFix
 ╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
 👨‍💻 Maintainer : BULLA
-✅ Security : March 2026 (QPR2)
+✅ Security : April 2026 (QPR2)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ New Features
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔧 Changelog :-
-- QPR2 March Security Patch
-- Added Monet Settings 
-- Added Now playing 
-- Added Depth Wallpaper
-- Added Wallpaper Glymps
-- Added Volume Styles
-- Added Smart Pixels
-- Added Cutout Progress Ring
-- Added Status Bar Action Chip
-- Added Lockscreen Custom Clock
-- Added Lockscreen Widget 
-- Added Custom AOD 
-- Added Shake Gestures 
-- Added QS tiles Shapes
-- Added Custom Recent Pannel On Launcher3 / Aka - Mistify Launcher
-- Added Single tone QS
-- Added QS pannel Scrims
-- Added Edge Light
-- Added Sensor block
-- Added Custom font & prebuild fonts
-- Added Changing animations
-- Added Charging Ripple Animations 
-- & More bug fixes & improvements
 
 --------# 1 APRIL 2026 #---------
 - Added face detection libs.
@@ -42,3 +15,7 @@
 - Fixed portrait camera.
 - Added BCR.
 - some other misc changes.
+
+--------# 17 APRIL 2026 #---------
+- Synced with latest source.
+- Added haptic feedback.
