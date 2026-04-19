@@ -20,7 +20,7 @@
       "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_lisa",
       "build_type": "userdebug",
-      "gappsbuild": false,
+      "gappsbuild": true,
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
