@@ -4,6 +4,12 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+24-04-26
+=====================
+- Kernel updated
+- KernelSU-Next v3.1.0 with SUSFS 
+
+=====================
 24-03-26
 =====================
 - Add Lunaris Dolby Ui
