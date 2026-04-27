@@ -369,5 +369,20 @@
       "minibuild": false,
       "vanillaBuild": false
     }
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi Note 9S,Redmi Note 9 Pro,Redmi Note 9 Pro Max,POCO M2 Pro",
+      "codename": "miatoll",
+      "maintainer": "KimChi",
+      "telegram": "https://t.me/Labsdiscussion009",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_miatoll",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    }
   ]
 }
