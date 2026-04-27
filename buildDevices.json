@@ -369,5 +369,20 @@
       "minibuild": false,
       "vanillaBuild": false
     }
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Pocox3/NFC",
+      "codename": "Surya/Karna",
+      "maintainer": "KimChi",
+      "telegram": "https://t.me/RandomDiscussions69",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_surya",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
   ]
 }
