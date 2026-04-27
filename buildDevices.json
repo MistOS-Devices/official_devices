@@ -384,5 +384,20 @@
       "minibuild": true,
       "vanillaBuild": true
     },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi Note 9 series",
+      "codename": "Miatoll",
+      "maintainer": "KimChi",
+      "telegram": "https://t.me/Labsdiscussion009",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_miatoll",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
   ]
 }
