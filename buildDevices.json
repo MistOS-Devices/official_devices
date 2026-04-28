@@ -353,7 +353,7 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": true
-    }, 
+    },
     {
       "OEM": "Xiaomi",
       "deviceName": "Xiaomi Redmi Note 13 Pro 5G",
@@ -368,7 +368,7 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": false
-    }
+    },
     {
       "OEM": "Xiaomi",
       "deviceName": "Poco x3",
