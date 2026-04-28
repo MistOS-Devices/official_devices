@@ -398,6 +398,6 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-    },
+    }
   ]
 }
