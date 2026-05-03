@@ -1,0 +1,9 @@
+Device Specific Changelogs
+Build type: OFFICIAL
+Device: Xiaomi Redmi Note 9 series (miatoll)
+Device maintainer : KimChi
+
+====================
+     03-05-2026
+====================
+-Initial build for miatoll
