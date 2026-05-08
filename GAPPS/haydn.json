@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Hexdare",
+			"oem": "Xiaomi",
+			"device": "Mi 11X Pro / Mi 11i / Redmi K40 Pro +",
+			"filename": "MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260420-2124-haydn-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/haydn/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260420-2124-haydn-OFFICIAL.zip/download",
+			"timestamp": 1776720112,
+			"md5": "8bd0052f97f3d6cd95841627295972e6",
+			"sha256": "6e7573b62dfa0888649d2f8d954eba7526ba1f144f59281c2442f0e583257b3c",
+			"size": 3130558107,
+			"version": "4.6.1-Lucent-HotFix",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://linktr.ee/Hexdare",
+			"telegram": "t.me/Hexdare"
+		}
+	]
+}

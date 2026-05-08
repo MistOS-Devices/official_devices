@@ -1,7 +1,38 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Redmi Note 10 Pro (sweet)
-Device maintainer: stahed
+Device maintainer: Javi
+
+====================
+     19-04-2026
+====================
+- April security patch
+- Miuicamera stock
+- XiaomiDolby
+- Perf kernel KsuNext support and susfs
+- Define OEM fast charge sysfs node
+- Add Dolby Vision support
+- Enable anti_flicker
+- Add DeviceAsWebcam support
+- Drop soundtrigger HIDL impl (ok google voice fix)
+- Disable high performance transitions
+- Reduce blur radius
+- Update XiaomiParts
+- Enable charging control bypass mode
+- Implement torch control
+- Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+- NO EROFS BUILD
+- OTA SUPPORT
+
+Credits:
+- aryannn999,neobuddy89 and Lineageos Team for continuing to support this fantastic device
+- Team MistOS
+
+=====================
+      03-04-26
+=====================
+- Bump version 4.5
+- March security patch
 
 =====================
       02-02-25

@@ -3,6 +3,20 @@ Build type: OFFICIAL (Monthly)
 Device: Devonf
 Device maintainer: user@linux
 
+=====================
+01-04-26
+=====================
+• Enable MotoActions
+
+=====================
+26-03-26
+=====================
+• Enable Blurs
+• Added 
+• Added BCR module
+• Dropped PowerOffAlarm
+• Add com.android.bluetooth context to seapp_contexts
+• Add ViPER4AndroidFX module
 
 =====================
 02-02-26

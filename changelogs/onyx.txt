@@ -1,39 +1,28 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Poco f7 (Onyx)
-Device maintainer: stahed
+📱 Device: POCO F7 / Redmi Turbo 4 Pro  
+🛠 Maintainer: Kaveer (@kaveerrana)  
+🚀 Build Type: OFFICIAL (Monthly)  
 
-Highlights & Device Specific Changes:
+════════════════════════════
+        📜 CHANGELOG
+════════════════════════════
 
-=====================
-      04-01-26
-=====================
-- Last sync sources
-- January security patch (qpr0)
-- Switch to Lunaris Dolby (Thanks ghosuto)
-- Fix calls VoIp
-- Add wired headset mic source for voip_tx
-- Enable VoLTE and VoWIFI for all carriers
-- Fix HDR, some users reported unnecessary brightness
-- Define OEM fast charge sysfs node (fix visual charge bug)
-- Address some sepolicy denials (camera and thermals log spam)
-- Relax RSSI thresholds,WifiScoringParams: Invalid frequency(-1), using 5G as default rssi array
-- Expose aux cameras to com.android.camera and Aperture
-- Update XiaomiParts
-- Add support refresh rate per app Supports 60/90/120hz refresh rate
-- Add thermal profiles in battery section
-- Add automatic HBM support
-- Add clear speaker
-- Add display saturation colors control
-- Add GameBar 4.0 support
-- Enable AOSP surfaceflinger
+📅 13-04-2026
+✨ Sync with the latest source
 
+────────────────────────────
 
---------# 20 November 2025 #------------
+📅 10-04-2026
+🌙 Improved Smart Night power handling
 
-- Initial A16 build
-- Fix DT2W
-- Added Google Camera Go 
-- Added HBM
-- Added Gamebar
-- Added Thermal Profiles
+────────────────────────────
+
+📅 31-03-2026
+🔐 Fixed fingerprint issue in apps with more than two fingerprints registered  
+⚡ Added toggle for High Touch Sampling Rate (HTSR)  
+📈 Increased default Touch Sampling Rate (TSR)  
+🎨 Switched to MIUI color profiles  
+
+────────────────────────────
+
+📅 24-03-2026
+🎉 Initial build

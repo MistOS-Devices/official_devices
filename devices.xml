@@ -23,5 +23,9 @@
   <project name="device_xiaomi_onyx" />
   <project name="device_xiaomi_blossom" />
   <project name="device_motorola_devonf" />
+  <project name="device_xiaomi_raphael" />
+  <project name="device_google_pantah" />
+  <project name="device_xiaomi_garnet" />
+  <project name="device_xiaomi_miatoll" />
 </manifest>
 

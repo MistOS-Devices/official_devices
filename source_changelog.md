@@ -3,6 +3,126 @@
 <img src="https://i.imgur.com/placeholder.png" alt="MistOS Banner" width="100%"/>
 
 
+<h1>4.6 — Lucent</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Android-16%20QPR2-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Patch-April%202025-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Custom%20ROM-blueviolet?style=for-the-badge"/>
+</p>
+
+<p><i>Clear as light. Refined to the core. Luminously yours.</i></p>
+
+---
+
+</div>
+
+## ✨ What is MistOS?
+
+**MistOS** is a feature-rich custom Android ROM built on top of AOSP, designed to give you full control over your Android experience — from the deepest system tweaks to the finest visual details. Version **4.6 "Lucent"** builds on Velour with the April security patch, polished UI styles, and a wave of quality-of-life fixes.
+
+---
+
+## 🚀 What's New in 4.6 Lucent
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Personalization
+- **Gradient Customisation** — Apply gradients across system UI elements
+- **QS Panel Styles** — Fresh new styles for your Quick Settings panel
+- **iOS-Like Quick Settings** — Clean, minimal QS layout inspired by iOS
+- **App Drawer Styles** — Customize your app drawer look and feel
+- **More Clock Styles** — Even more lockscreen clock options to choose from
+- **Legacy Status Bar Icons** — Bring back classic status bar icon styles
+
+</td>
+<td width="50%">
+
+### � Volume & Media
+- **iOS-Like MistifyVolume Styles** — Sleek, iOS-inspired volume UI redesign
+- **BottomSheet PackageInstaller** — Glass-effect bottom sheet for app installs
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### �️ Bug Fixes
+- **Fixup DepthWallpaper** — Resolved overlapping with QS panel
+- **Fixup MediaArt Clock** — Fixed not showing media artwork on clock
+- **Fixup Smartspace** — Fixed intermittent hiding issue
+
+</td>
+<td width="50%">
+
+### ⚙️ System & Performance
+- **QPR2 April Patch** — Latest Android 16 security update
+- **Fixup QuickSwitch Overlays** — Corrected AutoToggle overlay behavior
+- **Bug Fixes & Improvements** — More under-the-hood refinements
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📸 Screenshots
+
+> 📷 **[View Screenshots Here](#)** — See MistOS 4.6 Lucent in action
+
+---
+
+## 📦 Downloads & Source
+
+| Resource | Link |
+|----------|------|
+| 📂 **Manifest** | [GitHub →](#) |
+| 📸 **Screenshots** | [Gallery →](#) |
+| 🐛 **Bug Reports** | [Issues →](#) |
+| 💬 **Telegram** | [Community →](#) |
+
+---
+
+## 💖 Support the Project
+
+If MistOS brings joy to your daily driver, consider supporting the work behind it:
+
+<div align="center">
+
+| Method | Details |
+|--------|---------|
+| 🇮🇳 **UPI** | `zabukazuzu@ybl` |
+| 💳 **PayPal / Others** | [linktr.ee/Zabuka](https://linktr.ee/Zabuka) |
+
+*Every contribution — big or small — keeps MistOS alive and growing. Thank you.* 🙏
+
+</div>
+
+---
+
+
+<div align="center">
+
+<sub>Made with ❤️ by the MistOS Team · Android 16 QPR2 · April 2025</sub>
+
+<br/>
+
+```
+"Where mist meets mastery."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.imgur.com/placeholder.png" alt="MistOS Banner" width="100%"/>
+
+
 <h1>4.5 — Velour</h1>
 
 <p>
@@ -54,7 +174,7 @@
 <tr>
 <td width="50%">
 
-### 🖼️ Visuals & Wallpaper
+### �️ Visuals & Wallpaper
 - **Depth Wallpaper** — Parallax depth effect for wallpapers
 - **Wallpaper Glimpse** — Peek at your wallpaper from anywhere
 - **Edge Light** — Notification glow on screen edges

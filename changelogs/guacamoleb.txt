@@ -4,15 +4,14 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-15 November,2025
+23 April,2026
 =====================
-Device:
-- Fix a bug where large file transfers via USB cable cancel mid-transfer
-- Revert a prop which was impacting display responsiveness
-- Fix some sepolicy denials
-- Sync kernel with LineageOS-23.0
-- Enable fbeV2 for f2fs data
-- Align fstab erofs props with the standard from AOSP
-- Misc. Improvements and fixes.....
 
-Notes: Clean Flash Mandatory
+• Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
+• Enabled BBRv2 with fq as the default TCP stack on SM8150
+• Backported the vmscan critical-process throttle bypass so direct reclaim no longer stalls system-critical tasks, including binder-spawned workers that inherit a critical oom_score_adj
+• Brought up the NXP eSE / NFC off-host stack, shipped the matching OOS eSE config and added the required HAL cross-lookup SELinux rules
+• Audio/Dolby: restored offload policy profiles, fixed profile-specific GEQ preset storage and restored session-scoped playback effects
+• Bumped vendor.oplus.hardware.subsys_interface.subsys_radio to V9
+• Adjust statusbar paddings to visually improve compatibility with dynamic notification bar in statusbar
+• Misc. improvements..

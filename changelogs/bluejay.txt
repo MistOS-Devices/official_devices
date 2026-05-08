@@ -1,0 +1,54 @@
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 4.6
+  Codename: Lucent
+╚═════════════════════╝
+
+📱 Device : Bluejay (Pixel 6a)
+👨‍💻 Maintainer : Zabuka_Zuzu
+✅ Security : April 2026 (QPR2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- QPR2 April Patch
+- Gradient Customisation 
+- Added QS pannel styles
+- Legacy Status bar icons
+- More Clock Style
+- Fixup DepthWallpaper Overlapping With QS
+- Fixup MediaArt Clock not showing
+- Fixup Smartspace not hiding sometimes 
+- Fixup QuickSwitch Overlays for AutoToggle
+- IOS Like MistifyVolume Styles
+- IOS Like Quick Settings Pannel
+- Added App Drawer Styles
+- BottomSheet PackageInstaller Like On GlassEffect
+- & More bug fixes & improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- QPR2 March Security Patch
+- Added Monet Settings 
+- Added Now playing 
+- Added Depth Wallpaper
+- Added Wallpaper Glymps
+- Added Volume Styles
+- Added Smart Pixels
+- Added Cutout Progress Ring
+- Added Status Bar Action Chip
+- Added Lockscreen Custom Clock
+- Added Lockscreen Widget 
+- Added Custom AOD 
+- Added Shake Gestures 
+- Added QS tiles Shapes
+- Added Custom Recent Pannel On Launcher3 / Aka - Mistify Launcher
+- Added Single tone QS
+- Added QS pannel Scrims
+- Added Edge Light
+- Added Sensor block
+- Added Custom font & prebuild fonts
+- Added Changing animations
+- Added Charging Ripple Animations 
+- & More bug fixes & improvements
