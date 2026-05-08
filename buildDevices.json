@@ -399,5 +399,19 @@
       "minibuild": true,
       "vanillaBuild": true
     }
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi 9A/9C/10A",
+      "codename": "blossom",
+      "maintainer": "HaiKito",
+      "telegram": "https://t.me/HaiKitoo",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_blossom",
+      "build_type": "user",
+      "gappsbuild": false,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": true
+    },
   ]
 }
