@@ -1,15 +1,28 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 4.6
-  Codename: Lucent
+  Version 4.7
+  Codename: Aether
 ╚═════════════════════╝
 
 📱 Device : Bluejay (Pixel 6a)
 👨‍💻 Maintainer : Zabuka_Zuzu
-✅ Security : April 2026 (QPR2)
+✅ Security : May 2026 (QPR2)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- Added IOS qs pannel with Tiles & music
+- Added Expandable Brightness slider
+- Revamp Mistify Ui
+- Introduce Mist hub 
+- Introduce Model Based Depth Wallpaper
+- More Custom Clock 
+- Added Essential Notification 
+- Added OnePlus Volume Style
+- Added Tricky store
+- Bug Fixes & Improvement
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔧 Changelog :-
 - QPR2 April Patch
