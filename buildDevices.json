@@ -92,7 +92,7 @@
       "maintainer": "Kaveer",
       "telegram": "https://t.me/kaveerrana",
       "donate": "",
-      "enabled": true,
+      "enabled": false,
       "repo": "MistOS-Devices/device_xiaomi_onyx",
       "build_type": "userdebug",
       "gappsbuild": true,
