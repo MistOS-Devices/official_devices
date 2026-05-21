@@ -4,6 +4,13 @@ Device: Lisa
 Device maintainer: lazydev_ak
 
 =====================
+21-05-26
+=====================
+Device:
+- Ksun next removed
+- No logs No support 
+
+=====================
 13-04-26
 =====================
 Device:
