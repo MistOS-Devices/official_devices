@@ -6,6 +6,33 @@
   },
   "versions": [
     {
+      "version": "4.7",
+      "codename": "Aether",
+      "android": "16 QPR2",
+      "patch": "May 2025",
+      "status": "Stable",
+      "tagline": "Lighter. Smarter. Floating beyond limits.",
+      "changelog": {
+        "UI & Personalization": [
+          "Added IOS QS Panel with Tiles & Music",
+          "Added Expandable Brightness Slider",
+          "Revamp Mistify UI",
+          "Added More Custom Clock Styles",
+          "Added OnePlus Volume Style"
+        ],
+        "Features": [
+          "Introduce Mist Hub",
+          "Introduce Model Based Depth Wallpaper",
+          "Added Essential Notification",
+          "Added Tricky Store"
+        ],
+        "System & Performance": [
+          "QPR2 May Patch — Latest Android 16 security update",
+          "Bug Fixes & Improvements"
+        ]
+      }
+    },
+    {
       "version": "4.6",
       "codename": "Lucent",
       "android": "16 QPR2",
