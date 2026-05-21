@@ -4,6 +4,15 @@ Device: Xiaomi Redmi Note 9 series (miatoll)
 Device maintainer : KimChi
 
 ====================
+     21-05-2026
+====================
+-Merged with latest source -May patch (AETHER)
+-Switched to Sony dolby atmos
+-Swtiched to latest BlackHole-v2.1 kernel
+-Droped timekeep and swtiched back to time_daemon
+-Bug fixes
+
+====================
      03-05-2026
 ====================
 -Initial build for miatoll
