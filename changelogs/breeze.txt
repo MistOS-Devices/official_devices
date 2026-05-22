@@ -4,6 +4,13 @@ Device: breeze
 Device maintainer: Niyush
 
 =====================
+22-05-26
+=====================
+Device:
+- Upstream platform updates
+- Synced with OS3.0.10.0.WNUINXM
+
+=====================
 23-03-26
 =====================
 Device:
