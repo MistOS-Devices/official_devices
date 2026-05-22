@@ -1,0 +1,12 @@
+Device Specific Changelogs
+Build type: OFFICIAL
+Device: Xiaomi Poco X3 (surya)
+Device maintainer : KimChi
+
+====================
+22-05-2026
+====================
+-Merged with latest source -May patch (AETHER)
+-Switched to Sony dolby atmos
+-Swtiched to Beast kernel
+-Bug fixes
