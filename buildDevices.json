@@ -398,6 +398,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-    }
+    },
+    {
+      "OEM": "gsi",
+      "deviceName": "gsi trebledroid",
+      "codename": "gsi",
+      "maintainer": "Doze-off",
+      "telegram": "https://t.me/acgsi_chat",
+      "donate": "",
+      "enabled": true,
+      "repo": "",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
   ]
 }
