@@ -1,9 +1,40 @@
-Device-specific changelog:
+changelog:
 Build type: Official
 Device: GSI trebledroid
 Device maintainer: Doze-off
 
 =====================
+24-05-2026
+=====================
+
+**Changelog**:
+- Fixed firewall(no internet) issue on kernels mtk, snap, exynos globaly.
+- Added patch for FOD( fingerprint on Display) on oppo devices. thanks @n-bilinskyi
+- Fixed Status bar adjust in treble app
+- Fixed boot on 3.8, 4.4, 4.9, 4.14, 4.19, 5.10 kernels
+- Fixed Bluetooth 
+
+
+**Bug**
+- hotspot wifi
+- traffic indicator on some old devices 
+
+**Note** 
+- I managed to significantly reduce the image size without removing important features.
+- The first boot may take a while due to the mechanism for reducing the file size.
+- for fix storage enable (treble app ->misc -> prefer hardware codecs)
+- for fix hotspot use [this](https://t.me/acgsi_chat/191036) 
+- use this module to define specs in about page link [here](https://t.me/ac_files/267) | [guide](https://t.me/acgsi_chat/137911)
+
+=====================
+12-04-2026
+=====================
+init: fix build error in SELinux pre-4.9 fallback patch
+fix MTK display init: use full power-off path instead of bypassing scheduler
+avoid BLAST recursive mutex deadlock at boot @cawilliamson
+Added blur Kawase2_fix_aliasing in app treble
+
+=====================
 04-04-2026
 =====================
-Initial Official build for RMX2061
+Initial Official build for GSI

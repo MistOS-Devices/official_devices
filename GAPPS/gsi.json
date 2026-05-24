@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "Doze-off",
+      "oem": "gsi",
+      "device": "GSI trebledroid",
+      "filename": "MistOS-4.7_GSI_treble_arm64-ab_GAPPS-Official-20260524.img.xz",
+      "download": "https://sourceforge.net/projects/project-mistos/files/Android16/gsi/4.7-2026-05-25_01-52/MistOS-4.7_GSI_treble_arm64-ab_GAPPS-Official-20260524.img.xz/download",
+      "timestamp": 1774266800,
+      "md5": "2a3484a0989a21aa43baad849d7f0ab9",
+      "sha256": "6472ec18e57dd42d2a033764527bf7e9672fa6263bd270a29e0406c1f5efd370",
+      "size": 1736617688,
+      "version": "4.7-Aether",
+      "buildtype": "GAPPS",
+      "forum": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/acgsi_chat"
+    }
+  ]
+}
