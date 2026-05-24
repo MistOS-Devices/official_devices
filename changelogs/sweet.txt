@@ -4,6 +4,29 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: Javi
 
 ====================
+     24-05-2026
+====================
+- Bump version 4.7 Aether
+- May security patch
+- Switch to leicacamera
+- Switch to OnePlus dolbyUI sony dolby blobs
+- Add ViperFX
+- Add Dolby Vision support
+- Add GameBar support
+- Update perf kernel to 4.14.357
+- Update support ksuNext and susfs last version
+- Update bcr Basic Call Recorder
+- Enable anti_flicker by default
+- Bump kernel BPF version override to 5.10.239
+- Enable animation override for perf
+- Update swappiness and watermark threshold
+
+Credits:
+- aryannn999,neobuddy89 and Lineageos Team for continuing to support this fantastic device
+- @Andrei_1024 for fantastic test
+- Team MistOS
+
+====================
      19-04-2026
 ====================
 - April security patch
