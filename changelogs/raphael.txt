@@ -1,13 +1,28 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 4.6.1
-  Codename: Lucent-HotFix
+  Version 4.7
+  Codename: Aether
 ╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
 👨‍💻 Maintainer : BULLA
-✅ Security : April 2026 (QPR2)
+✅ Security : May 2026 (QPR2)
 
+
+--------# 25 MAY 2026 #---------
+- Synced with latest source.
+- Implement torch light control.
+- Implemented smoothness related stufs.
+- Animation override for perf.
+- Add dolby effects and spatial audio.
+- Added Lunaris Dolby.
+- Fixed broken smart pixel.
+- Disable Smart Pixels on UDFPS.
+- Add HBM tile.
+- Livedisplay: Change dc_enable to dc_dim.
+- Inclueded latest bcr related changes.
+- Removed unused entries.
+- some other small changes.
 
 --------# 1 APRIL 2026 #---------
 - Added face detection libs.
