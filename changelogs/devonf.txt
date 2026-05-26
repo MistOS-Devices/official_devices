@@ -4,6 +4,11 @@ Device: Devonf
 Device maintainer: user@linux
 
 =====================
+25-05-26
+=====================
+• Updated to v4.7
+
+=====================
 01-04-26
 =====================
 • Enable MotoActions
