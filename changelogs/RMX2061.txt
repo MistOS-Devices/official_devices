@@ -4,6 +4,12 @@ Device: Realme 6 Pro (RMX2061)
 Device maintainer: Shahid Shamim
 
 =====================
+27-05-2026
+=====================
+Device:
+- Updated to MistOS 4.7
+
+=====================
 13-04-26
 =====================
 Device:
