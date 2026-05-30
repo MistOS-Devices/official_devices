@@ -27,5 +27,6 @@
   <project name="device_google_pantah" />
   <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_miatoll" />
+  <project name="device_xiaomi_fuxi" />
 </manifest>
 

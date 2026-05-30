@@ -398,6 +398,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
-    }
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "13",
+      "codename": "fuxi",
+      "maintainer": "🔻Zinger🔻",
+      "telegram": "https://t.me/nerual0x",
+      "donate": "https://paypal.me/mnitpro",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_fuxi",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": false
+     }    
   ]
 }
