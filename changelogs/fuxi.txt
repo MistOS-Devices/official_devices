@@ -1,0 +1,44 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: fuxi
+Device maintainer: 🔻Zinger🔻
+
+=====================
+28 May,2026
+=====================
+Device:
+📅 May 26, 2026
+
+🔧 System & Stability
+    Completely rewritten system configuration for improved reliability and cleanliness
+    Reworked kernel boot parameters (KERNEL_CMDLINE / BOOTCONFIG) for better boot behaviour
+    Refined kernel image build settings and cleaned up unused variables
+    Reworked init scripts for a cleaner and more reliable startup sequence
+    Updated vendor security patch level to February 2026
+
+📳 Hardware & Input
+    Improved haptic feedback — vibrator now uses effect stream mode for more accurate vibration patterns
+    Added high-touch polling path config for the Xiaomi touch service, improving touch responsiveness
+
+🔐 Security & SELinux
+    Fixed SELinux policies for Bluetooth, eSIM switcher app, and sensor HAL
+    Corrected SEPolicy directory structure and sensor HAL configuration path
+    Added proper permissions for OpenGL and Vulkan DEQP compliance levels
+    Enabled GSI AVB key relocation to vendor boot for better verified boot support
+
+📡 Connectivity
+    Synced eSIM (eUICC) changes across device and common trees
+    Dropped bundled EuiccPolicy in favour of source-built version
+
+🎬 Media & Audio
+    Fixed compatibility matrix issues for Dolby (IComponentStore) and DMS interfaces
+    Removed redundant audio configuration and refreshed audio policy files
+
+📷 Camera
+    Fixed config path for camera extensions
+
+⚙️ Under the Hood
+    Updated vendor blobs to MIUI OS 3.0.2.0.WMCCNXM (latest Xiaomi firmware base)
+    Refactored library fixups with improved regex patterns for blob patching
+    Added ueventd configuration files to product packages
+    Updated camera and vibrator configuration to use proper boolean values
