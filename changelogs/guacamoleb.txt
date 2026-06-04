@@ -4,14 +4,15 @@ Device: guacamoleb
 Device maintainer: HARISH
 
 =====================
-23 April,2026
+04 June,2026
 =====================
 
-• Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
-• Enabled BBRv2 with fq as the default TCP stack on SM8150
-• Backported the vmscan critical-process throttle bypass so direct reclaim no longer stalls system-critical tasks, including binder-spawned workers that inherit a critical oom_score_adj
-• Brought up the NXP eSE / NFC off-host stack, shipped the matching OOS eSE config and added the required HAL cross-lookup SELinux rules
-• Audio/Dolby: restored offload policy profiles, fixed profile-specific GEQ preset storage and restored session-scoped playback effects
-• Bumped vendor.oplus.hardware.subsys_interface.subsys_radio to V9
-• Adjust statusbar paddings to visually improve compatibility with dynamic notification bar in statusbar
+• [WIP] Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
+• Fix camera hal crash caused by [jemalloc] dual allocator support (jemalloc default + Scudo fallback) by patching bionic
+• Switched from Xiaomi Dolby to Lunaris Dolby
+• Synced with the crDroid kernel and LOS kernel changes
+• Backported QCA_NL80211_VENDOR_SUBCMD_USABLE_CHANNELS (198) to the SM8150 Wi-Fi kernel stack
+• Switched EROFS compression from LZ4 to LZ4HC with level 12.
+• Sepolicy: fixed Wi-Fi tombstone access; allowed thermal HAL to report stats
+• Exempted OnePlus camera service from cached app freezer
 • Misc. improvements..
