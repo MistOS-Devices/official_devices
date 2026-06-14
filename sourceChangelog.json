@@ -6,6 +6,33 @@
   },
   "versions": [
     {
+      "version": "4.8",
+      "codename": "OPALINE",
+      "android": "16 QPR2",
+      "patch": "June 2025",
+      "status": "Stable",
+      "tagline": "Infinite possibilities. Refined experience. Beyond the stars.",
+      "changelog": {
+        "Features": [
+          "Introducing CanvasAOD — A new customizable Always-On Display experience"
+        ],
+        "Launcher & UI": [
+          "Fixup Lens Search integration in Mistify Launcher",
+          "Fixup Mistify Launcher hotseat dock becoming invisible after unlock",
+          "Fixup PackageInstaller blur intensity for a more consistent visual experience"
+        ],
+        "Wallpaper & Visuals": [
+          "Fixup Depth Wallpaper glitch during screen orientation changes",
+          "Fixup Depth Wallpaper compatibility with Pixel Launcher"
+        ],
+        "System & Stability": [
+          "June Security Patch — Latest Android 16 security update",
+          "Fixup Dynamic Bar events not being cleared properly",
+          "Additional bug fixes and performance improvements"
+        ]
+      }
+    },
+    {
       "version": "4.7",
       "codename": "Aether",
       "android": "16 QPR2",
