@@ -19,7 +19,10 @@
         "Launcher & UI": [
           "Fixup Lens Search integration in Mistify Launcher",
           "Fixup Mistify Launcher hotseat dock becoming invisible after unlock",
-          "Fixup PackageInstaller blur intensity for a more consistent visual experience"
+          "Fixup PackageInstaller blur intensity for a more consistent visual experience",
+          "Fixup gamma handling on the vertical brightness slider",
+          "Fixup long-press expand behavior for the brightness slider",
+          "Fixup dismiss notification action in iOS-style Quick Settings panel"
         ],
         "Wallpaper & Visuals": [
           "Fixup Depth Wallpaper glitch during screen orientation changes",
@@ -28,6 +31,8 @@
         "System & Stability": [
           "June Security Patch — Latest Android 16 security update",
           "Fixup Dynamic Bar events not being cleared properly",
+          "Fixup Sandbox App Lock functionality",
+          "Fixup Sandbox Vault functionality",
           "Additional bug fixes and performance improvements"
         ]
       }
