@@ -62,7 +62,7 @@
       "maintainer": "Dozee_off",
       "telegram": "https://t.me/Dozee_off",
       "donate": "",
-      "enabled": true,
+      "enabled": false,
       "repo": "MistOS-Devices/device_gsi",
       "build_type": "User",
       "gappsbuild": false,
