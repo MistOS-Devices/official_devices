@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+      "maintainer": "LazyDev-Ak",
+      "oem": "Xiaomi",
+      "device": "11 Lite Ne 5G",
+			"filename": "MistOS-4.8-Opaline-16.0-VANILLA-20260619-0947-lisa-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/lisa/MistOS-4.8-Opaline-16.0-VANILLA-20260619-0947-lisa-OFFICIAL.zip/download",
+			"timestamp": 1781862369,
+			"md5": "4692ce2efacd448c2c9dcc9160b90135",
+			"sha256": "b8ba53a66bdeed4ca2de2d2fb2ea182609e9549a1c98f65457361c68e249cb1a",
+			"size": 2041539418,
+			"version": "4.8-Opaline",
+			"buildtype": "VANILLA",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/LazyDev_ak"
+		}
+	]
+}
