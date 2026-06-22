@@ -4,6 +4,15 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+22-06-2026
+=====================
+- Update Firmware V1UGS35H.75-14-3-8
+- Import powerhint from coral
+- Allow games to use 120fps
+- Set ZRAM size to 25%
+- Switch to input current limit node for charge control
+
+=====================
 13-04-2026
 =====================
 - Rebase Device Tree Sources
