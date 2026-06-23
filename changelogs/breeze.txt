@@ -4,6 +4,12 @@ Device: breeze
 Device maintainer: Niyush
 
 =====================
+23-06-26
+=====================
+Device:
+- Upstream platform updates
+
+=====================
 22-05-26
 =====================
 Device:
