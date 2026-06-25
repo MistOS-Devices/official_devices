@@ -4,6 +4,18 @@ Device: Xiaomi Poco X3 (surya)
 Device maintainer : KimChi
 
 ====================
+25-06-2026
+====================
+-Merged with latest source -June patch (Opaline)
+-Switched to Moto dolby atmos
+-Swtiched to Shinigami kernel
+-Swtiched to Gcam
+-Fixed Camera not working issue in Diffrent apps
+-Bump Bpf 5.10.239
+-Added DeviceAs WebCam support
+-Bug fixes
+
+====================
 22-05-2026
 ====================
 -Merged with latest source -May patch (AETHER)
