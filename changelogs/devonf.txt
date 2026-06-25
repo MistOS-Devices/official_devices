@@ -4,6 +4,11 @@ Device: Devonf
 Device maintainer: user@linux
 
 =====================
+25-06-26
+=====================
+• Updated to v4.8
+
+=====================
 25-05-26
 =====================
 • Updated to v4.7
