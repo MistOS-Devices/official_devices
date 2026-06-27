@@ -4,6 +4,32 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: Javi
 
 ====================
+     27-06-2026
+====================
+- Bump version 4.8 Opaline
+- June Security Patch — Latest Android 16 security update
+- Ksu Next support
+- Switch to XiaomiDolby
+- Add ViperFX
+- Introducing CanvasAOD
+- Fixup Dynamic Bar events not being cleared properly
+- Fixup Sandbox App Lock functionality
+- Fixup Sandbox Vault functionality
+- Fixup Lens Search integration in Mistify Launcher
+- Fixup Mistify Launcher hotseat dock becoming invisible after unlock
+- Fixup PackageInstaller blur intensity for a more consistent visual experience
+- Fixup gamma handling on the vertical brightness slider
+- Fixup long-press expand behavior for the brightness slider
+- Fixup dismiss notification action in iOS-style Quick Settings panel
+- Fixup Depth Wallpaper glitch during screen orientation changes
+- Fixup Depth Wallpaper compatibility with Pixel Launcher
+
+Credits:
+- aryannn999,neobuddy89 and Lineageos Team for continuing to support this fantastic device
+- @Andrei_1024 for fantastic test
+- Team MistOS
+
+====================
      24-05-2026
 ====================
 - Bump version 4.7 Aether
