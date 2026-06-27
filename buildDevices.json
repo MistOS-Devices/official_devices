@@ -202,7 +202,7 @@
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": true
+      "vanillaBuild": false
     },
     {
       "OEM": "Google",
@@ -217,7 +217,7 @@
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": true
+      "vanillaBuild": false
     },
     {
       "OEM": "Google",
@@ -232,7 +232,7 @@
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": true
+      "vanillaBuild": false
     },
     {
       "OEM": "Xiaomi",

@@ -53,3 +53,15 @@ Sources:
 - Bump to version 4.7 | Aether
 - May 1, 2026 security patch update
 - Synced with latest changes
+
+:=========================:
+:=  21st   June,   2026  =:
+:=========================:
+---------------------------
+Device:
+- June 1, 2026 security patch update
+
+Sources:
+- Bump to version 4.8 | Opaline
+- June 1, 2026 security patch update
+- Synced with latest changes
