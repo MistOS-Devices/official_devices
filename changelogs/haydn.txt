@@ -4,6 +4,23 @@ Device: Haydn
 Device maintainer: Hexdare
 
 =====================
+28-06-26
+=====================
+- Kernel Updated with KSUN 3.2.0 and SUSFS 2.1.0
+- Audio: update volume configs from OOS 16
+- Convert overlays to RROs
+- Beautify RRO overlays
+- Add SPDX copyright headers
+- Pin home app and set default pin amount
+- Remove deprecated mobile TCP buffer configs
+- Drop MMS user-agent overlays
+- Remove sw372dp dimens overlay
+- Move Wi-Fi overlay to vendor
+- Rename and simplify RRO usage
+- Some changes in Dolby
+- Drop Xiaomi Parts
+
+=====================
 24-04-26
 =====================
 - Kernel updated
