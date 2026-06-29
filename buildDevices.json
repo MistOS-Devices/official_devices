@@ -80,7 +80,7 @@
       "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_haydn",
       "build_type": "userdebug",
-      "gappsbuild": false,
+      "gappsbuild": true,
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
