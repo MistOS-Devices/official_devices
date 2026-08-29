@@ -6,6 +6,87 @@
   },
   "versions": [
     {
+      "version": "5.0",
+      "codename": "Android 17",
+      "android": "17",
+      "patch": "August 2026",
+      "status": "Alpha",
+      "tagline": "Infinite possibilities. Refined experience. Beyond the stars.",
+      "changelog": {
+        "Personalization": [
+          "Added Monet Settings",
+          "Added Font Styles",
+          "Added Emoji Styles",
+          "Added Icon Shape",
+          "Added Custom Clock",
+          "Added Clock Customize Setting",
+          "Added Battery Style",
+          "Added Status Bar Logo",
+          "Added Status Bar Padding Setting",
+          "Added QS Header Images",
+          "Added QS Header Clock Styles",
+          "Added Blur Setting",
+          "Added Vibration Pattern"
+        ],
+        "Lock Screen & AOD": [
+          "Added Lockscreen Widgets",
+          "Added Custom AOD Image",
+          "Added Model Based Depth Wallpaper",
+          "Added Now Playing",
+          "Added Edge Light",
+          "Added Media Cover Art",
+          "Added Pulse Visualizer",
+          "Added Wallpaper Glimpse",
+          "Added Wallpaper Blur",
+          "Added Display Cutout Progress"
+        ],
+        "Status Bar & Dynamic Bar": [
+          "Added Status Bar Lyrics",
+          "Added Dynamic Bar",
+          "Added Network Traffic Monitor",
+          "Added Background Clock Chip"
+        ],
+        "Quick Settings & Brightness": [
+          "Port Brightness Slider",
+          "Added Expanded Brightness Slider",
+          "Added iOS Panel Widgets",
+          "Added Waveform Seekbar",
+          "Added Compact Media Player"
+        ],
+        "System & Gestures": [
+          "Added DT2W & Sleep",
+          "Added Three Finger Gesture",
+          "Added Shake Gesture",
+          "Added Back Gesture Haptic",
+          "Added Navigation Hint",
+          "Added Show IME Button Space",
+          "Added Vehicle Motion Cues"
+        ],
+        "System Features": [
+          "Added UFPS Icon & Animations",
+          "Added Smart Pixel",
+          "Added App Downgrade",
+          "Added Block PairIP Licence",
+          "Added Screenshot & Recording Detection",
+          "Added Spoofing",
+          "Added Sandbox",
+          "Added FreeForm Sidebar",
+          "Added Per App Volume",
+          "Added Circle To Search",
+          "Added Bottom Sheet USB Configuration",
+          "Added GameSpace"
+        ],
+        "Power Menu & UI": [
+          "Redesigned Power Menu",
+          "Added Advanced Restart",
+          "Revamped Collapsing Toolbar"
+        ],
+        "Weather": [
+          "Added Weather Settings"
+        ]
+      }
+    },
+    {
       "version": "4.8",
       "codename": "OPALINE",
       "android": "16 QPR2",
