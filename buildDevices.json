@@ -106,13 +106,13 @@
       "codename": "raphael",
       "maintainer": "BULLA",
       "telegram": "https://t.me/Bulla03x",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_raphael",
       "build_type": "user",
-      "gappsbuild": false,
+      "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": true
+      "vanillaBuild": false
     },
     {
       "OEM": "Motorola",
