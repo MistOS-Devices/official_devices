@@ -86,21 +86,6 @@
       "vanillaBuild": false
     },
     {
-      "OEM": "Xiaomi",
-      "deviceName": "POCO F7 / Redmi Turbo 4 Pro",
-      "codename": "onyx",
-      "maintainer": "Kaveer",
-      "telegram": "https://t.me/kaveerrana",
-      "donate": "",
-      "enabled": false,
-      "repo": "MistOS-Devices/device_xiaomi_onyx",
-      "build_type": "userdebug",
-      "gappsbuild": true,
-      "picobuild": false,
-      "minibuild": false,
-      "vanillaBuild": true
-    },
-    {
       "OEM": "Motorola",
       "deviceName": "Motorola G34 5G",
       "codename": "fogos",
@@ -416,3 +401,18 @@
      }    
   ]
 }
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "POCO F7 / Redmi Turbo 4 Pro",
+      "codename": "onyx",
+      "maintainer": "SharmagRit",
+      "telegram": "https://t.me/SharmagRit",
+      "donate": "https://www.paypal.me/RiteshKrSharma",
+      "enabled": true,
+      "repo": "MistOS-Devices/android_device_xiaomi_onyx",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
