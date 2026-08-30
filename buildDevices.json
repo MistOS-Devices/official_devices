@@ -121,7 +121,7 @@
       "maintainer": "user@linux",
       "telegram": "https://t.me/genzimplore",
       "donate": "",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_motorola_devonf",
       "build_type": "userdebug",
       "gappsbuild": true,
