@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "MistOS-5.0-Alpha-17.0-VANILLA-20260831-1258-fuxi-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/fuxi/MistOS-5.0-Alpha-17.0-VANILLA-20260831-1258-fuxi-OFFICIAL.zip/download",
+			"timestamp": 1788170207,
+			"md5": "8c9849732daf4f6da58dad292d711cce",
+			"sha256": "3abc55e53f17ba0b7befb5edc8742383553abd215bb3a6bc1305c04bcde5f9aa",
+			"size": 2944692961,
+			"version": "5.0-Alpha",
+			"buildtype": "VANILLA",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
