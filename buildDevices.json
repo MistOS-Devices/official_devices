@@ -112,7 +112,7 @@
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     },
     {
       "OEM": "Motorola",
