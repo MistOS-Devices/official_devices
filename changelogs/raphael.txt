@@ -1,13 +1,23 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 4.8
-  Codename: Opaline
+  Version 5.0
+  Codename: Alpha
 ╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
 👨‍💻 Maintainer : BULLA
-✅ Security : June 2026 (QPR2)
+✅ Security : August 2026 (QPR0)
 
+
+--------# 03 SEPTEMBER 2026 #---------
+- Initial A17 build.
+- Opt into legacy UDFPS enroll UI.
+- Configure Android Auto audio settings.
+- Add AOD brightness controls.
+- Audio: Add fallback SW A2DP routes.
+- Added BCR.
+- Added Leica Cam v6.
+- Added Lunaris Dolby.
 
 --------# 27 JUNE 2026 #---------
 - Synced with latest source.
