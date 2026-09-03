@@ -181,13 +181,13 @@
       "maintainer": "GamerBoy1234294",
       "telegram": "https://t.me/Pixel9SeriesChat",
       "donate": "https://t.me/GamerBoy1234294",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_google_caimito",
       "build_type": "userdebug",
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     },
     {
       "OEM": "Google",
@@ -196,13 +196,13 @@
       "maintainer": "GamerBoy1234294",
       "telegram": "https://t.me/Pixel9SeriesChat",
       "donate": "https://t.me/GamerBoy1234294",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_google_caimito",
       "build_type": "userdebug",
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     },
     {
       "OEM": "Google",
@@ -211,13 +211,13 @@
       "maintainer": "GamerBoy1234294",
       "telegram": "https://t.me/Pixel9SeriesChat",
       "donate": "https://t.me/GamerBoy1234294",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_google_caimito",
       "build_type": "userdebug",
       "gappsbuild": true,
       "picobuild": false,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     },
     {
       "OEM": "Xiaomi",
