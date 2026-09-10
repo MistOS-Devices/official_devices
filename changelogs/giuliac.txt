@@ -1,0 +1,18 @@
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 5.0
+  Codename: Alpha
+╚═════════════════════╝
+
+📱 Device : giuliac (OnePLus Ace5)
+👨‍💻 Maintainer : ShivaOP
+✅ Security : August 2026 (QPR0)
+
+
+--------# 09 SEPTEMBER 2026 #---------
+- Initial A17 build.
+- Add AOD brightness controls.
+- Added GameBar.
+- Added Lunaris Dolby.
+- Adeed IR Remote
+- August Patch
