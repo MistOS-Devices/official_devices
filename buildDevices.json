@@ -301,7 +301,7 @@
       "maintainer": "ShivaOPP",
       "telegram": "https://t.me/itzshivaopp",
       "donate": "",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_oneplus_giulia",
       "build_type": "user",
       "gappsbuild": true,

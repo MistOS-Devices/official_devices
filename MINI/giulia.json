@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "ShivaOP",
+                        "oem": "OnePlus",
+                        "device": "giulia",
+                        "filename": "MistOS-5.0-Alpha-17.0-MINI-20260908-1848-giulia-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android17/giulia/MistOS-5.0-Alpha-17.0-MINI-20260908-1848-giulia-OFFICIAL.zip/download",
+                        "timestamp": 1788893176,
+                        "md5": "1312469d004f619c9e3a1fcf85807531",
+                        "sha256": "5bbd5435e87d74b57f9420e38809c673f0e0b3eec7b4855e67402a37b9054557",
+                        "size": 4186061294,
+                        "version": "5.0-Alpha",
+                        "buildtype": "MINI",
+                        "forum": "",
+                        "recovery": "https://drive.google.com/drive/folders/1llLk2MX7x8p6OL7jDkezIcmIJPy2y3Nq?usp=drive_link",
+                        "paypal": "",
+                        "telegram": "http://t.me/shivaromhub"
+                }
+        ]
+}
