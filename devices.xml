@@ -28,5 +28,6 @@
   <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_miatoll" />
   <project name="device_xiaomi_fuxi" />
+  <project name="device_oneplus_lexus" />
 </manifest>
 
