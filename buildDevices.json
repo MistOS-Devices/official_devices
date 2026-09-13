@@ -41,19 +41,19 @@
       "vanillaBuild": true
     },
     {
-      "OEM": "Google",
-      "deviceName": "Pixel 7 Pro",
-      "codename": "cheetah",
-      "maintainer": "Javi",
-      "telegram": "https://t.me/MistOSDiscussion",
-      "donate": "",
+      "OEM": "Oneplus",
+      "deviceName": "Nord 5",
+      "codename": "lexus",
+      "maintainer": "stahed",
+      "telegram": "https://t.me/stahed_builds_lexus",
+      "donate": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
       "enabled": false,
-      "repo": "MistOS-Devices/device_google_pantah",
+      "repo": "MistOS-Devices/device_oneplus_lexus",
       "build_type": "userdebug",
       "gappsbuild": true,
-      "picobuild": false,
+      "picobuild": true,
       "minibuild": false,
-      "vanillaBuild": false
+      "vanillaBuild": true
     },
     {
       "OEM": "Genric",
