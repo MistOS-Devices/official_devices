@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "stahed",
+			"oem": "Oneplus",
+			"device": "Nord 5",
+			"filename": "MistOS-5.0-Alpha-17.0-PICO-20260913-0938-lexus-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/lexus/MistOS-5.0-Alpha-17.0-PICO-20260913-0938-lexus-OFFICIAL.zip/download",
+			"timestamp": 1789292159,
+			"md5": "05daee8a558b1385f83d9644eaef8cea",
+			"sha256": "22ff873bf1414cf2ade9991c705c3e3df3a6fb3087f977813b0cf4c2f359f173",
+			"size": 4049935950,
+			"version": "5.0-Alpha",
+			"buildtype": "PICO",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/stahed_builds_lexus"
+		}
+	]
+}
