@@ -424,7 +424,7 @@
       "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_mondrian",
       "build_type": "user",
-      "gappsbuild": true,
+      "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": false
