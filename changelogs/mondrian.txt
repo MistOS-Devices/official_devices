@@ -1,32 +1,32 @@
-Device Specific Changelogs:
-Build type: OFFICIAL (Monthly)
-Device: Mondrian
-Device maintainer: Xenogenesys
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 5.0
+  Codename: Alpha
+╚═════════════════════╝
 
-=====================
-21-09-2025
-=====================
-Device:
-•Initial A16 build
-•Includes MIUI Camera, Xiaomi Dolby
-•KSU-Next included
+📱 Device : Poco F5 Pro / K60 (mondrian)
+👨‍💻 Maintainer : LF5
+✅ Security : August 2026 (QPR0)
 
-=====================
-15-03-2025
-=====================
-Device:
-•Updated MIUI Camera from OS2.0.3.0.VMNMIXM
-•SEPolicy denials fix
-•Performance improvements on UI
-•Import Xiaomi Parts
-
-=====================
-01-03-25
-=====================
-Device:
-•Initial Official Build
-•Gapps Build
-•KSU-next Build
-•MIUI Camera Included
-•Merged Latest Source
-•Settings > Mistify > Spoofing > Update PIF to pass integrity
+--------# 14 SEPTEMBER 2026 #---------
+- Initial official Android 17 release for POCO F5 Pro / Redmi K60 (mondrian)
+- Added native display resolution switching between WQHD+ (3200×1440) and FHD+ (2400×1080)
+- Added recoverable resolution handling with density preservation, preview, rollback and reset support
+- Added a dedicated display resolution option in system settings with proper search integration
+- Fixed BootAnimation positioning and scaling after logical display resolution changes
+- Fixed MIUICamera UI geometry and density after changing display resolution
+- Reworked MIUICamera logical display handling to use current Android window metrics instead of stale MIUI resolution properties
+- Added a new adaptive Leica camera icon
+- Implemented Haptic Engine support with additional vibration effects and improved feedback closer to HyperOS
+- Added full LHDC support
+- Updated and improved Dolby integration
+- Added full Dolby Vision support with verified format detection and Dolby decoder usage during playback
+- Added additional audio stack improvements for proper Dolby and LHDC functionality
+- Fixed a rare UDFPS issue where the fingerprint illumination circle could remain visible after unlocking
+- Fixed ghost touch issues and further improved touchscreen driver stability
+- Improved screen recording stability and fixed issues related to saving recordings
+- Reworked auto-brightness configuration for smoother transitions and fixed brightness slider freezing
+- Completely reworked powerhint configuration for a better balance between performance and battery life
+- Enabled Sustained Performance Mode for more stable frame rates and thermal behavior under prolonged heavy workloads
+- Fixed Wi-Fi 6 (802.11ax) connection drops and improved WPA3 transitional mode compatibility
+- Retained all previous Android 16 device-tree features and optimizations in the Android 17 tree
