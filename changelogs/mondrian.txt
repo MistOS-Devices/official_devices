@@ -30,3 +30,36 @@
 - Enabled Sustained Performance Mode for more stable frame rates and thermal behavior under prolonged heavy workloads
 - Fixed Wi-Fi 6 (802.11ax) connection drops and improved WPA3 transitional mode compatibility
 - Retained all previous Android 16 device-tree features and optimizations in the Android 17 tree
+
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Mondrian
+Device maintainer: Xenogenesys
+
+=====================
+21-09-2025
+=====================
+Device:
+•Initial A16 build
+•Includes MIUI Camera, Xiaomi Dolby
+•KSU-Next included
+
+=====================
+15-03-2025
+=====================
+Device:
+•Updated MIUI Camera from OS2.0.3.0.VMNMIXM
+•SEPolicy denials fix
+•Performance improvements on UI
+•Import Xiaomi Parts
+
+=====================
+01-03-25
+=====================
+Device:
+•Initial Official Build
+•Gapps Build
+•KSU-next Build
+•MIUI Camera Included
+•Merged Latest Source
+•Settings > Mistify > Spoofing > Update PIF to pass integrity
