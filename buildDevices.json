@@ -413,6 +413,21 @@
       "picobuild": false,
       "minibuild": false,
       "vanillaBuild": true
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "POCO F5 Pro",
+      "codename": "mondrian",
+      "maintainer": "LF5",
+      "telegram": "https://t.me/LF52406",
+      "donate": "https://www.paypal.me/LF52406",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_mondrian",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": true,
+      "vanillaBuild": false
     }
   ]
 }

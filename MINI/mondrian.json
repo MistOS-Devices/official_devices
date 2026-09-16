@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "LF5",
+      "oem": "Xiaomi",
+      "device": "POCO F5 Pro",
+      "filename": "MistOS-5.0-Alpha-17.0-MINI-20260914-0732-mondrian-OFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/project-mistos/files/Android17/mondrian/MistOS-5.0-Alpha-17.0-MINI-20260914-0732-mondrian-OFFICIAL.zip/download",
+      "timestamp": 1789370682,
+      "md5": "0db4107f1cf670fa39c28114807ada40",
+      "sha256": "59f2e6f6e5cd1c817c4bf73d61560f5f93d823d17eda6841880eb6c0d1b9b6b0",
+      "size": 3535827913,
+      "version": "5.0-Alpha",
+      "buildtype": "MINI",
+      "forum": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.me/LF52406",
+      "telegram": "https://t.me/LF52406"
+    }
+  ]
+}
