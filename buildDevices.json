@@ -331,7 +331,7 @@
       "maintainer": "thenoah77 ",
       "telegram": "https://t.me/thenoah77",
       "donate": "",
-      "enabled": false,
+      "enabled": true,
       "repo": "MistOS-Devices/device_realme_RMX2061",
       "build_type": "user",
       "gappsbuild": true,
