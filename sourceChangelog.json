@@ -6,6 +6,42 @@
   },
   "versions": [
     {
+      "version": "5.1",
+      "codename": "Beta",
+      "android": "16 QPR2",
+      "patch": "October 2026",
+      "status": "Beta",
+      "tagline": "Fluid by design. Spatial by nature. A new era of Mist.",
+      "changelog": {
+        "Features": [
+          "Added Dynamic Island",
+          "Added Quick Switch",
+          "Added Copy to Clipboard",
+          "Added Screenshot Flash",
+          "Added Mist Fluid Animations"
+        ],
+        "Launcher & UI": [
+          "Added Axion QS Style",
+          "Separated QS Customisation Settings",
+          "Added Multi Recent Styles",
+          "Added iOS App Library",
+          "Added Memory Info on Launcher",
+          "Added Pixel QSB"
+        ],
+        "Wallpaper & Visuals": [
+          "Added 3D Spatial Effect on lockscreen wallpaper",
+          "Fixup Depth Wallpaper Z-Order",
+          "Fixup Depth Wallpaper QS not visible"
+        ],
+        "System & Stability": [
+          "October Security Patch — Latest Android 16 security update",
+          "Refactor Spoofing",
+          "Fixup Now Playing",
+          "Many more fixes and improvements"
+        ]
+      }
+    },
+    {
       "version": "5.0",
       "codename": "Android 17",
       "android": "17",
