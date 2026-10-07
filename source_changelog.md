@@ -12,6 +12,126 @@
 
 <img src="https://i.imgur.com/placeholder.png" alt="MistOS Banner" width="100%"/>
 
+<h1>5.1 — Beta</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Android-16%20QPR2-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Patch-October%202026-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Custom%20ROM-blueviolet?style=for-the-badge"/>
+</p>
+
+<p><i>Fluid by design. Spatial by nature. A new era of Mist.</i></p>
+
+---
+
+</div>
+
+## 🚀 What's New in 5.1 Beta
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 New Features
+
+* **Dynamic Island** — Live, interactive pill for ongoing activities
+* **Quick Switch** — Use your preferred launcher as the recents provider
+* **Copy to Clipboard** — Quickly copy content straight to the clipboard
+* **Screenshot Flash** — Visual flash feedback when taking a screenshot
+* **Mist Fluid Animations** — Smoother, more fluid system-wide animations
+
+</td>
+<td width="50%">
+
+### 🎨 Launcher & UI
+
+* **Axion QS Style** — A fresh new Quick Settings style
+* **Separated QS Customisation Settings** — QS options now live in their own section
+* **Multi Recent Styles** — Choose from multiple recents layouts
+* **iOS App Library** — iOS-style app library for your launcher
+* **Memory Info on Launcher** — See memory usage right from recents
+* **Pixel QSB** — Pixel-style Quick Search Bar
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖼️ Wallpaper & Visuals
+
+* **3D Spatial Effect** — Spatial depth effect on the lockscreen wallpaper
+* **Fixup Depth Wallpaper Z-Order** — Fixed layering of the depth wallpaper
+* **Fixup Depth Wallpaper QS Visibility** — Fixed Quick Settings not being visible with depth wallpaper
+
+</td>
+<td width="50%">
+
+### ⚙️ System & Performance
+
+* **October Security Patch** — Latest Android 16 security update
+* **Refactor Spoofing** — Reworked spoofing implementation
+* **Fixup Now Playing** — Restored Now Playing functionality
+* **Bug Fixes & Improvements** — And many more fixes & improvements
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📸 Screenshots
+
+> 📷 **[View Screenshots Here](#)** — See MistOS 5.1 Beta in action
+
+---
+
+## 📦 Downloads & Source
+
+| Resource           | Link             |
+| ------------------ | ---------------- |
+| 📂 **Manifest**    | [GitHub →](#)    |
+| 📸 **Screenshots** | [Gallery →](#)   |
+| 🐛 **Bug Reports** | [Issues →](#)    |
+| 💬 **Telegram**    | [Community →](#) |
+
+---
+
+## 💖 Support the Project
+
+If MistOS brings joy to your daily driver, consider supporting the work behind it:
+
+<div align="center">
+
+| Method                 | Details                                      |
+| ---------------------- | -------------------------------------------- |
+| 🇮🇳 **UPI**           | `zabukazuzu@ybl`                             |
+| 💳 **PayPal / Others** | [linktr.ee/Zabuka](https://linktr.ee/Zabuka) |
+
+*Every contribution — big or small — keeps MistOS alive and growing. Thank you.* 🙏
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with ❤️ by the MistOS Team · Android 16 QPR2 · October 2026</sub>
+
+<br/>
+
+```
+"Where mist meets mastery."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.imgur.com/placeholder.png" alt="MistOS Banner" width="100%"/>
+
 <h1>4.8 — Nebula</h1>
 
 <p>
