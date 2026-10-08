@@ -7,6 +7,14 @@ Device maintainer: lazydev_ak
 30-08-26
 =====================
 Device:
+- Beta build for android 17
+- Clean flash only
+- No Mi Camera
+
+=====================
+30-08-26
+=====================
+Device:
 - Inital build for android 17
 - Clean flash only
 - No Mi Camera
