@@ -1,5 +1,37 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
+  Version 5.1
+  Codename: Beta
+╚═════════════════════╝
+
+📱 Device : POCO F5 Pro / Redmi K60 (mondrian)
+👨‍💻 Maintainer : LF5
+✅ Security : October 2026 (QPR0)
+
+--------# 11 OCTOBER 2026 #---------
+
+- Completely redesigned the Screen Resolution settings with a refreshed interface and interactive FHD+ and WQHD+ selection cards.
+- Optimized runtime display resolution switching.
+- Implemented hardware Partial Update (ROI) support.
+- Expanded native Haptic Engine integration with enhanced haptic feedback across system interactions.
+- Fixed flashlight functionality, including power control and brightness adjustment.
+- Added GAPPS build compatibility to Mist Launcher.
+- Expanded Mist Launcher language support and refined existing translations.
+- Improved iOS-style Recents with smoother animations, scrolling, and task card transitions.
+- Added persistent app locking in Recents, preventing pinned apps from being dismissed by swipe gestures or Clear All.
+- Improved UDFPS illumination handling and synchronization.
+- Fixed memory leaks in the camera kernel driver.
+- Updated Dolby Audio integration with stock HyperOS sound tuning and improved audio processing.
+- Added experimental Miracast compatibility fixes (pending real-device verification).
+- Updated the Linux kernel to version 5.10.269.
+- Refined system dialog and popup menu corner radii.
+- Added Qualcomm DIAG support for release builds.
+- Signed the build with release keys.
+
+════════ PREVIOUS CHANGELOG ════════
+
+╔═════════════════════╗
+  MISTOS CHANGELOG
   Version 5.0
   Codename: Alpha
 ╚═════════════════════╝
