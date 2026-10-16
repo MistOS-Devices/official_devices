@@ -221,17 +221,17 @@
     },
     {
       "OEM": "Xiaomi",
-      "deviceName": "Poco M6 Plus 5G / Redmi 13 5G ",
-      "codename": "breeze",
+      "deviceName": "Poco M7 5G / Redmi 14C 5G ",
+      "codename": "flame",
       "maintainer": "Niyush",
       "telegram": "https://t.me/niyush_04",
       "donate": "",
-      "enabled": false,
-      "repo": "MistOS-Devices/device_xiaomi_breeze",
+      "enabled": true,
+      "repo": "MistOS-Devices/android_device_xiaomi_flame",
       "build_type": "userdebug",
       "gappsbuild": true,
-      "picobuild": true,
-      "minibuild": false,
+      "picobuild": false,
+      "minibuild": true,
       "vanillaBuild": false
     },
     {
