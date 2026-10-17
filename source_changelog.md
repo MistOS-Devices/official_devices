@@ -4,7 +4,7 @@
 
 ## ✨ What is MistOS?
 
-**MistOS** is a feature-rich custom Android ROM built on top of AOSP, designed to give you full control over your Android experience — from the deepest system tweaks to the finest visual details. Version **4.6 "Lucent"** builds on Velour with the April security patch, polished UI styles, and a wave of quality-of-life fixes.
+**MistOS** is a feature-rich custom Android ROM built on top of AOSP, designed to give you full control over your Android experience — from the deepest system tweaks to the finest visual details. Version **5.1 "Android 17 - Beta"** builds on a Latest security patch, polished UI styles, and a wave of quality-of-life fixes.
 
 
 <div align="center">
@@ -68,7 +68,7 @@
 
 ### ⚙️ System & Performance
 
-* **October Security Patch** — Latest Android 16 security update
+* **October Security Patch** — Latest Android 17 security update
 * **Refactor Spoofing** — Reworked spoofing implementation
 * **Fixup Now Playing** — Restored Now Playing functionality
 * **Bug Fixes & Improvements** — And many more fixes & improvements
