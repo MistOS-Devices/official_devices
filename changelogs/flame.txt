@@ -1,0 +1,10 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: flame
+Device maintainer: Niyush
+
+=====================
+17-10-26
+=====================
+Device:
+- Initial release
