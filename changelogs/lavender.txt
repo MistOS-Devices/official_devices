@@ -1,0 +1,25 @@
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 5.1
+  Codename: Beta
+╚═════════════════════╝
+
+📱 Device : lavender (Redmi Note 7/7S)
+👨‍💻 Maintainer : BULLA
+✅ Security : October 2026 (QPR0)
+
+
+--------# 18 OCTOBER 2026 #---------
+- First Official release for lavender.
+- Inclueded OEM Dolby.
+- Dolby: fixed crackling sound while using bluetooth speaker.
+- Added BCR.
+- Fixed GCAM greenish-pinkish photo output.
+- Fixed play store app not available problem.
+- Adapted powerhint from raphael.
+- partition related changes.
+- Changed device fingerprint to global.
+- Switch to Kawase2 render engine blur algorithm.
+- Upstream backslashxx kernelsu to the latest version (32692).
+- Implemented SUSFS (v1.5.5).
+- other misc related changes.

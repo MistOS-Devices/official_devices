@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Bulla03x",
+			"oem": "xiaomi",
+			"device": "lavender",
+			"filename": "MistOS-5.1-Beta-17.0-VANILLA-20261018-1911-lavender-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/lavender/MistOS-5.1-Beta-17.0-VANILLA-20261018-1911-lavender-OFFICIAL.zip/download",
+			"timestamp": 1792350643,
+			"md5": "cf8e58dc57f36b0a89bc28329963cefe",
+			"sha256": "6e228b15e6feb9fc89eac2f961ad4993c7f082939633c884b95ecef203163f2f",
+			"size": 1932873354,
+			"version": "5.1-Beta",
+			"buildtype": "VANILLA",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Bulla03x"
+		}
+	]
+}

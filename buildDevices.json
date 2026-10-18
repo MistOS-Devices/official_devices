@@ -115,6 +115,20 @@
       "vanillaBuild": true
     },
     {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi Note 7/7S",
+      "codename": "lavender",
+      "maintainer": "BULLA",
+      "telegram": "https://t.me/Bulla03x",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_lavender",
+      "build_type": "user",
+      "gappsbuild": true,
+      "picobuild": false,
+      "minibuild": false,
+      "vanillaBuild": true
+    },
+    {
       "OEM": "Motorola",
       "deviceName": "Motorola G73 5G",
       "codename": "devonf",
