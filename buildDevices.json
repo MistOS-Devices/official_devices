@@ -109,7 +109,7 @@
       "enabled": true,
       "repo": "MistOS-Devices/device_xiaomi_raphael",
       "build_type": "user",
-      "gappsbuild": true,
+      "gappsbuild": false,
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": true
