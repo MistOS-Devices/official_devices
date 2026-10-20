@@ -111,7 +111,7 @@
       "build_type": "user",
       "gappsbuild": true,
       "picobuild": false,
-      "minibuild": false,
+      "minibuild": true,
       "vanillaBuild": true
     },
     {
