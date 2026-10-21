@@ -442,6 +442,21 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": false
+    },
+    {
+      "OEM": "Xiaomi",
+      "deviceName": "Redmi 15 5G / POCO M7 Plus 5G",
+      "codename": "spring",
+      "maintainer": "Suchit",
+      "telegram": "https://t.me/suchit_7x",
+      "donate": "",
+      "enabled": true,
+      "repo": "MistOS-Devices/android_device_xiaomi_spring",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": true,
+      "minibuild": false,
+      "vanillaBuild": false
     }
   ]
 }
