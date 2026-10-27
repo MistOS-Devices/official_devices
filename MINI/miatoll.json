@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "KimChi",
+			"oem": "Xiaomi",
+			"device": "miatoll",
+			"filename": "MistOS-5.1-Beta-17.0-MINI-20261026-1246-miatoll-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/miatoll/MistOS-5.1-Beta-17.0-MINI-20261026-1246-miatoll-OFFICIAL.zip/download",
+			"timestamp": 1793018373,
+			"md5": "ee10f995743e66fc78b261014ae39a8c",
+			"sha256": "05bc2947d7dd8a57f01cea22dffca1f58c390c8b1178bdb49576dc130fbf28d7",
+			"size": 3143137941,
+			"version": "5.1-Beta",
+			"buildtype": "MINI",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Labsdiscussion009"
+		}
+	]
+}
