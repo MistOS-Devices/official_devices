@@ -30,5 +30,6 @@
   <project name="device_xiaomi_fuxi" />
   <project name="device_oneplus_lexus" />
   <project name="device_xiaomi_lavender" />
+  <project name="device_xiaomi_sweet" />
 </manifest>
 
