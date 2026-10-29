@@ -65,3 +65,15 @@ Sources:
 - Bump to version 4.8 | Opaline
 - June 1, 2026 security patch update
 - Synced with latest changes
+
+:=========================:
+:=  23rd  October, 2026  =:
+:=========================:
+---------------------------
+Device:
+- October 1, 2026 security patch update
+
+Sources:
+- Bump to version 5.1 | Beta
+- October 1, 2026 security patch update
+- Synced with latest changes
