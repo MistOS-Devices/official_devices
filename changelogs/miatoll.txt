@@ -4,6 +4,14 @@ Device: Xiaomi Redmi Note 9 series (miatoll)
 Device maintainer : KimChi
 
 ====================
+    26-10-2026
+====================
+-Merged·with·latest·source OCT patch[A17] (5.1-BETA)
+-Switched·to SONY dolby·atmos
+-Temporary Swtiched to Nitro kernel
+-Bug·fixes
+
+====================
      23-06-2026
 ====================
 -Merged with latest source -JUNE patch (OPALINE)

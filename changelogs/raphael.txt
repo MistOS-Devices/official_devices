@@ -1,13 +1,65 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 5.0
-  Codename: Alpha
+  Version 5.1
+  Codename: Beta
 ╚═════════════════════╝
 
 📱 Device : raphael (Redmi K20 Pro)
 👨‍💻 Maintainer : BULLA
-✅ Security : August 2026 (QPR0)
+✅ Security : October 2026 (QPR0)
 
+
+--------# 17 OCTOBER 2026 #---------
+- Integrated Leica MIUI Camera 5.0 port with required libraries, fonts, and filter thumbnails.
+- Added raphael-specific libmialgoengine and libswregistrationalgo for camera post-processing.
+- Fixed MIUI Camera JNI library loading and sepolicy denials.
+- Remapped camera IDs to Xiaomi role IDs and padded ArcSoft portrait allocations.
+- Matched camera framework HFR batches to CamX and capped slow motion at 240 FPS.
+- Added bypass charging support integrated with ROM Charging Control.
+- Fixed pop-up camera LED light.
+- Added power-off alarm support for clock apps.
+- Restored CPU cgroup task profiles.
+- Switched to OSS audio stack and sm8150 audio HAL headers.
+- Updated auto-brightness to use non-wakeup light sensor.
+- Updated display blob stack and imported Snapdragon Color Manager.
+- Updated OEM Crypto and Codec2 blobs.
+- Updated hvdcp_opti charging blobs and allowed kernel logging.
+- Loaded UDFPS sensor alongside SSC sensor and set ADSP library path.
+- Dropped unused vppservice and legacy WiFi display stack.
+- Quieted noisy system log tags and disabled SystemUI scene container.
+- Switched to backlashxx-KernelSU with manual hooks and sys_reboot hook.
+- Improved battery capacity learning cycles and USB-PD PPS charging handling.
+- Stopped charge pump before VBAT reaches float voltage.
+- Upstream memory management fix for userfaultfd.
+- Upstream bcr to the latest update.
+- Import media_codecs.xml.
+- Implement torch light control.
+- Add fallback SW A2DP routes.
+- Disable collective Device administrators GMS components.
+- Switch to Kawase2 render engine blur algorithm.
+- Limit max brightness for "green" & "blue" leds.
+- Disable FRP.
+- Add SystemUI restart in restart advanced menu.
+- Sm8150-tavil-snd-card: label more volume up/down keys.
+- Drop TARGET_DISABLED_UBWC.
+- Optimize native executables for Cortex-A76 CPU.
+- Switch to dot product CPU variant.
+- Fix TARGET_2ND_ARCH_VARIANT.
+- Restore kryo385 arch setup.
+- Disable redir_party_num.
+- Configure Android Auto audio settings.
+- Enable crdroid doze features.
+- Add icons for popup settings.
+- Opt into legacy UDFPS enroll UI.
+- Lots of powerhint related changes.
+- Quiet the noisiest log tags.
+- Disable default framerate for games.
+- Use the new auto network selection UI.
+- Tuning UFS clock scaling during boot time.
+- Removing unused setprop persist.camera.gyro.disable.
+- Simplify FM2 section.
+- Removed unused components.
+- Other various misc changes.
 
 --------# 03 SEPTEMBER 2026 #---------
 - Initial A17 build.

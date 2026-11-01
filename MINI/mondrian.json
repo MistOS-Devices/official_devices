@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "LF5",
+      "oem": "Xiaomi",
+      "device": "POCO F5 Pro",
+      "filename": "MistOS-5.1-Beta-17.0-MINI-20261011-1718-mondrian-OFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/project-mistos/files/Android17/mondrian/MistOS-5.1-Beta-17.0-MINI-20261011-1718-mondrian-OFFICIAL.zip/download",
+      "timestamp": 1791738248,
+      "md5": "d4665d69e48878f3c52a828f1b52daf7",
+      "sha256": "91b0505af6f257ee3c5e344c90ed8f90b6cf848d4950b9dd9609a2e2b9d4923f",
+      "size": 3597228291,
+      "version": "5.1-Beta",
+      "buildtype": "MINI",
+      "forum": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.me/LF52406",
+      "telegram": "https://t.me/LF52406"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Bulla03x",
+			"oem": "Xiaomi",
+			"device": "raphael",
+			"filename": "MistOS-5.1-Beta-17.0-MINI-20261017-2054-raphael-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/raphael/MistOS-5.1-Beta-17.0-MINI-20261017-2054-raphael-OFFICIAL.zip/download",
+			"timestamp": 1792249752,
+			"md5": "d3b0ad7b86851e32a7c1a11310f6a4cd",
+			"sha256": "3af96b25d0474861ef7ceeee3728acda48c0a46d446c70bf30e2e74676257dd1",
+			"size": 3374851626,
+			"version": "5.1-Beta",
+			"buildtype": "MINI",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Bulla03x"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Niyush",
+			"oem": "Xiaomi",
+			"device": "Poco M7 5G / Redmi 14C 5G",
+			"filename": "MistOS-5.1-Beta-17.0-MINI-20261017-0706-flame-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/flame/MistOS-5.1-Beta-17.0-MINI-20261017-0706-flame-OFFICIAL.zip/download",
+			"timestamp": 1792220750,
+			"md5": "b1cf225bd7763ba2ada3e2e2dc404238",
+			"sha256": "abca7cb978493dac005762a38909000e711ef66c65d46fc4f8b11223ef6cd791",
+			"size": 2491208510,
+			"version": "5.1-Beta",
+			"buildtype": "MINI",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/niyush_04"
+		}
+	]
+}

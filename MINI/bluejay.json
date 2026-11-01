@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zabuka_Zuzu",
+                        "oem": "Google",
+                        "device": "Pixel 6a",
+                        "filename": "MistOS-5.1-Beta-17.0-MINI-20261017-0914-bluejay-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android17/bluejay/MistOS-5.1-Beta-17.0-MINI-20261017-0914-bluejay-OFFICIAL.zip/download",
+                        "timestamp": 1792228399,
+                        "md5": "226293fda7088eb215718bf325a550ee",
+                        "sha256": "7f6509f807691b70f5df309b3ec9b772e12befd53689d2471afa7e1e1618067b",
+                        "size": 3142916649,
+                        "version": "5.1-Beta",
+                        "buildtype": "MINI",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}

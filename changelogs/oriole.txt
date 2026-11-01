@@ -1,11 +1,105 @@
-Highlights & Device Specific Changes:
-Build type: OFFICIAL (Monthly)
-Device: Oriole
-Device maintainer: srly8
+╔═════════════════════╗
+  MISTOS CHANGELOG
+  Version 5.1
+  Codename: Beta
+╚═════════════════════╝
 
-Highlights & Device Specific Changes:
+📱 Device : Oriole (Pixel 6)
+👨‍💻 Maintainer : Zabuka_Zuzu
+✅ Security : October 2026 (A17)
 
-=====================
-      31-03-26
-=====================
-- Initial release
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ New Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- October Security Patch — Latest Android 17 security update
+- Dynamic Island — Live, interactive pill for ongoing activities
+- Quick Switch — Use your preferred launcher as the recents provider
+- Copy to Clipboard — Quickly copy content straight to the clipboard
+- Screenshot Flash — Visual flash feedback when taking a screenshot
+- Mist Fluid Animations — Smoother, more fluid system-wide animations
+- Axion QS Style — A fresh new Quick Settings style
+- Separated QS Customisation Settings — QS options now live in their own section
+- Multi Recent Styles — Choose from multiple recents layouts
+- IOS App Library — iOS-style app library for your launcher
+- Memory Info on Launcher — See memory usage right from recents
+- Pixel QSB — Pixel-style Quick Search Bar
+- 3D Spatial Effect — Spatial depth effect on the lockscreen wallpaper
+- Fixup Depth Wallpaper Z-Order — Fixed layering of the depth wallpaper
+- Fixup Depth Wallpaper QS Visibility — Fixed Quick Settings not being visible with depth wallpaper
+- Refactor Spoofing — Reworked spoofing implementation
+- Fixup Now Playing — Restored Now Playing functionality
+- Bug Fixes & Improvements — And many more fixes & improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 Changelog :-
+- June Security Patch — Latest Android 16 security update
+- Introducing CanvasAOD
+- Fixup Dynamic Bar events not being cleared properly
+- Fixup Sandbox App Lock functionality
+- Fixup Sandbox Vault functionality
+- Fixup Lens Search integration in Mistify Launcher
+- Fixup Mistify Launcher hotseat dock becoming invisible after unlock
+- Fixup PackageInstaller blur intensity for a more consistent visual experience
+- Fixup gamma handling on the vertical brightness slider
+- Fixup long-press expand behavior for the brightness slider
+- Fixup dismiss notification action in iOS-style Quick Settings panel
+- Fixup Depth Wallpaper glitch during screen orientation changes
+- Fixup Depth Wallpaper compatibility with Pixel Launcher
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :- 4.7
+- Added IOS qs pannel with Tiles & music
+- Added Expandable Brightness slider
+- Revamp Mistify Ui
+- Introduce Mist hub 
+- Introduce Model Based Depth Wallpaper
+- More Custom Clock 
+- Added Essential Notification 
+- Added OnePlus Volume Style
+- Added Tricky store
+- Bug Fixes & Improvement
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :- 4.6
+- QPR2 April Patch
+- Gradient Customisation 
+- Added QS pannel styles
+- Legacy Status bar icons
+- More Clock Style
+- Fixup DepthWallpaper Overlapping With QS
+- Fixup MediaArt Clock not showing
+- Fixup Smartspace not hiding sometimes 
+- Fixup QuickSwitch Overlays for AutoToggle
+- IOS Like MistifyVolume Styles
+- IOS Like Quick Settings Pannel
+- Added App Drawer Styles
+- BottomSheet PackageInstaller Like On GlassEffect
+- & More bug fixes & improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :- 4.5
+- QPR2 March Security Patch
+- Added Monet Settings 
+- Added Now playing 
+- Added Depth Wallpaper
+- Added Wallpaper Glymps
+- Added Volume Styles
+- Added Smart Pixels
+- Added Cutout Progress Ring
+- Added Status Bar Action Chip
+- Added Lockscreen Custom Clock
+- Added Lockscreen Widget 
+- Added Custom AOD 
+- Added Shake Gestures 
+- Added QS tiles Shapes
+- Added Custom Recent Pannel On Launcher3 / Aka - Mistify Launcher
+- Added Single tone QS
+- Added QS pannel Scrims
+- Added Edge Light
+- Added Sensor block
+- Added Custom font & prebuild fonts
+- Added Changing animations
+- Added Charging Ripple Animations 
+- & More bug fixes & improvements

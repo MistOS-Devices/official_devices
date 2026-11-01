@@ -1,16 +1,38 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 4.8
-  Codename: Opaline
+  Version 5.1
+  Codename: Beta
 ╚═════════════════════╝
 
 📱 Device : Bluejay (Pixel 6a)
 👨‍💻 Maintainer : Zabuka_Zuzu
-✅ Security : June 2026 (QPR2)
+✅ Security : October 2026 (A17)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ New Features
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Changelog :-
+- October Security Patch — Latest Android 17 security update
+- Dynamic Island — Live, interactive pill for ongoing activities
+- Quick Switch — Use your preferred launcher as the recents provider
+- Copy to Clipboard — Quickly copy content straight to the clipboard
+- Screenshot Flash — Visual flash feedback when taking a screenshot
+- Mist Fluid Animations — Smoother, more fluid system-wide animations
+- Axion QS Style — A fresh new Quick Settings style
+- Separated QS Customisation Settings — QS options now live in their own section
+- Multi Recent Styles — Choose from multiple recents layouts
+- IOS App Library — iOS-style app library for your launcher
+- Memory Info on Launcher — See memory usage right from recents
+- Pixel QSB — Pixel-style Quick Search Bar
+- 3D Spatial Effect — Spatial depth effect on the lockscreen wallpaper
+- Fixup Depth Wallpaper Z-Order — Fixed layering of the depth wallpaper
+- Fixup Depth Wallpaper QS Visibility — Fixed Quick Settings not being visible with depth wallpaper
+- Refactor Spoofing — Reworked spoofing implementation
+- Fixup Now Playing — Restored Now Playing functionality
+- Bug Fixes & Improvements — And many more fixes & improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔧 Changelog :-
 - June Security Patch — Latest Android 16 security update
 - Introducing CanvasAOD
