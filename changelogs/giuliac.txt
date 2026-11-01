@@ -1,12 +1,12 @@
 ╔═════════════════════╗
   MISTOS CHANGELOG
-  Version 5.0
-  Codename: Alpha
+  Version 5.1
+  Codename: Beta
 ╚═════════════════════╝
 
 📱 Device : giuliac (OnePLus Ace5)
 👨‍💻 Maintainer : ShivaOP
-✅ Security : August 2026 (QPR0)
+✅ Security : Octuber 2026 (QPR0)
 
 
 --------# 09 SEPTEMBER 2026 #---------
@@ -16,3 +16,12 @@
 - Added Lunaris Dolby.
 - Adeed IR Remote
 - August Patch
+
+--------# 01 NOVEMBER 2026 #---------
+- Octuber Patch
+- Updated blobs to 16.0.10.500
+- Updated kernel to 6.1.176
+- Reimplemented dolby vision
+- Added OP gallery
+- Added LTPO support (down to 1hz on idle)
+- Added Bypass Charging
