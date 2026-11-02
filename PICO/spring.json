@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Suchit",
+			"oem": "Xiaomi",
+			"device": "REDMI 15 5G / POCO M7 Plus 5G",
+			"filename": "MistOS-5.1-Beta-17.0-PICO-20261101-2349-spring-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/spring/MistOS-5.1-Beta-17.0-PICO-20261101-2349-spring-OFFICIAL.zip/download",
+			"timestamp": 1793576928,
+			"md5": "09c24a41497b7fe55038c700f34311bc",
+			"sha256": "594daca07acee95149277632b2dbdbe3e621e976d5b95e8b66a98b65225dd55c",
+			"size": 2106692474,
+			"version": "5.1-Beta",
+			"buildtype": "PICO",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/project-mistos/files/Android17/spring/MISTOS5.1-BETA/recovery.img/download",
+			"paypal": "",
+			"telegram": "https://t.me/suchit_7x"
+		}
+	]
+}
