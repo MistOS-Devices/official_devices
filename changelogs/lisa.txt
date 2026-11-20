@@ -4,6 +4,14 @@ Device: Lisa
 Device maintainer: lazydev_ak
 
 =====================
+20-11-26
+=====================
+Device:
+- Stable build for android 17
+- Clean flash only
+- No Mi Camera
+
+=====================
 30-08-26
 =====================
 Device:
