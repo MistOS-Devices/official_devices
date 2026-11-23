@@ -77,3 +77,15 @@ Sources:
 - Bump to version 5.1 | Beta
 - October 1, 2026 security patch update
 - Synced with latest changes
+
+:=========================:
+:=  22nd November, 2026  =:
+:=========================:
+---------------------------
+Device:
+- November 1, 2026 security patch update
+
+Sources:
+- Bump to version 5.2 | Stable
+- November 1, 2026 security patch update
+- Synced with latest changes
