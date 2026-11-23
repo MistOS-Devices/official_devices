@@ -457,6 +457,21 @@
       "picobuild": true,
       "minibuild": false,
       "vanillaBuild": false
+    },
+    {
+        "OEM": "OnePlus",
+        "deviceName": "OnePlus 9R",
+        "codename": "lemonades",
+        "maintainer": "Spidey",
+        "telegram": "https://t.me/spidey_t",
+        "donate": "",
+        "enabled": true,
+        "repo": "MistOS-Devices/device_oneplus_lemonades",
+        "build_type": "userdebug",
+        "gappsbuild": true,
+        "picobuild": false,
+        "minibuild": false,
+        "vanillaBuild": false
     }
   ]
 }
