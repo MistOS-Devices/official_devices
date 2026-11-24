@@ -1,0 +1,22 @@
+{
+        "response": [
+                {
+                        "maintainer": "ShivaOP",
+                        "oem": "OnePlus",
+                        "device": "giulia",
+                        "filename": "MistOS-5.1-Beta-17.0-PICO-20261029-1202-giulia-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android17/giulia/MistOS-5.1-Beta-17.0-PICO-20261029-1202-giulia-OFFICIAL.zip/download",
+                        "timestamp": 1793275320,
+                        "md5": "b1b7f3f15158adfccaffb5187c932c87",
+                        "sha256": "f87ecca9a27011c50c212a531c8e620f8256f9cd3266422b94eb7966e7fcf168",
+                        "size": 4137927486,
+                        "version": "5.1-Beta",
+                        "buildtype": "PICO",
+                        "forum": "",
+                        "recovery": "https://drive.google.com/drive/folders/1Zu-yTj7eFqE1i05uSIuq2bq3fv4a8FnP?usp=drive_link",
+                        "paypal": "",
+                        "telegram": "http://t.me/shivaromhub"
+                }
+        ]
+}
+

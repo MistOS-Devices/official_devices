@@ -1,7 +1,17 @@
 Device Specific Changelogs:
 Build type: OFFICIAL (Monthly)
 Device: Redmi Note 10 Pro (sweet)
-Device maintainer: Javi
+Device maintainer: stahed
+
+====================
+     01-11-2026
+====================
+- Initial stable Android 17
+
+Credits:
+- aryannn999,neobuddy89 and Lineageos Team for continuing to support this fantastic device
+- @Andrei_1024 for fantastic test
+- Team MistOS
 
 ====================
      27-06-2026

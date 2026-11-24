@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zabuka_Zuzu",
+                        "oem": "Google",
+                        "device": "Pixel 6",
+                        "filename": "MistOS-5.1-Beta-17.0-MINI-20261007-0832-oriole-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/project-mistos/files/Android17/oriole/MistOS-5.1-Beta-17.0-MINI-20261007-0832-oriole-OFFICIAL.zip/download",
+                        "timestamp": 1791361812,
+                        "md5": "a61a8b1b9aba328c426130a3e4aa6c11",
+                        "sha256": "39d75f319012070ca1a85f170f459b24001fcdc3abfaa55415d9e62161f5a7a4",
+                        "size": 3151359422,
+                        "version": "5.1-Beta",
+                        "buildtype": "MINI",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}

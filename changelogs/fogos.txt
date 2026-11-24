@@ -4,6 +4,17 @@ Device: Fogos
 Device maintainer: JNWSG (JINWOO)
 
 =====================
+31-10-2026
+=====================
+- Update Firmware V1UGS35H.75-14-9-3-1-4
+- Motorola Sedona Based Tree
+- Implement Flashlight Strength Control 
+- Drop DeviceAsWebcam
+- Drop LiveDisplay
+- Sony Dolby Atmos Added
+- ## Clean Flash Recommended
+
+=====================
 22-06-2026
 =====================
 - Update Firmware V1UGS35H.75-14-3-8

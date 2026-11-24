@@ -3,6 +3,21 @@ Build type: Official
 Device: Realme 6 Pro (RMX2061)
 Device maintainer: Shahid Shamim
 
+
+=====================
+29-10-2026
+=====================
+- Added Oplus Camera as the default camera, replacing Aperture.
+- Included Oplus Photos with its private compatibility libraries and AIUnit service.
+- Added built-in Dolby Atmos with the updated software DAP engine and 64-bit audio HAL.
+- Updated the Astra kernel with MGLRU memory management.
+- Added ZRAM recompression support with LZ4 as the primary compressor and optional ZSTD recompression.
+- Backported Binder fixes for memory handling, locking, and stability.
+- Enabled task-group uclamp and tuned foreground/UI scheduling.
+- Added CPU ADPF support and refined interaction-boost handling.
+- Added manual KProfiles controls in Realme Parts.
+- Fixed DMA-buffer and GPU memory accounting.
+
 =====================
 27-05-2026
 =====================

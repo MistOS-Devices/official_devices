@@ -1,0 +1,11 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: spring
+Device maintainer: Suchit
+
+======================
+   Date: 02-11-2026
+======================
+- Initial android 17 release
+- Double tap to wake has been fixed
+- 1 October 2026 security patch

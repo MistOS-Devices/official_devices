@@ -6,7 +6,7 @@
 
 📱 Device : giulia (OnePLus 13R)
 👨‍💻 Maintainer : ShivaOP
-✅ Security : August 2026 (QPR0)
+✅ Security : Octuber 2026 (QPR0)
 
 
 --------# 03 SEPTEMBER 2026 #---------
@@ -16,3 +16,13 @@
 - Added Lunaris Dolby.
 - Adeed IR Remote
 - August Patch
+
+--------# 01 NOVEMBER 2026 #---------
+- Octuber Patch
+- Updated blobs to 16.0.10.500
+- Updated kernel to 6.1.176
+- Reimplemented dolby vision
+- Added OP gallery 
+- Added LTPO support (down to 1hz on idle)
+- Added Bypass Charging
+
