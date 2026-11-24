@@ -4,6 +4,13 @@ Device: flame
 Device maintainer: Niyush
 
 =====================
+24-11-26
+=====================
+- Update from OS3.0.303.0.WGUINXM
+- Using AGM audio libs from source
+- Fix distored audio in BT (still need work)
+
+=====================
 17-10-26
 =====================
 Device:
