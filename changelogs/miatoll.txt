@@ -4,6 +4,14 @@ Device: Xiaomi Redmi Note 9 series (miatoll)
 Device maintainer : KimChi
 
 ====================
+    24-11-2026
+====================
+-Merged with latest source NOV patch[A17] (5.2-Stable)
+-BlackHole-V5 KSUN with Susfs
+-Performance tweeks and many more
+-Bug fixes
+
+====================
     26-10-2026
 ====================
 -Merged·with·latest·source OCT patch[A17] (5.1-BETA)
