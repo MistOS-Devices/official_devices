@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Spidey",
+			"oem": "Oneplus",
+			"device": "9R",
+			"filename": "MistOS-5.2-Stable-17.0-GAPPS-20261125-1001-lemonades-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android17/lemonades/MistOS-5.2-Stable-17.0-GAPPS-20261125-1001-lemonades-OFFICIAL.zip/download",
+			"timestamp": 1795600681,
+			"md5": "257b5d256c1f49cb6c10372ce39686a1",
+			"sha256": "99c7aeec48cc42f53177052b92e9221d5a5143953e9ddcdda7448db965eb2cda",
+			"size": 3320260942,
+			"version": "5.2-Stable",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/project-mistos/files/Android17/lemonades/flashable_files_2026-11-25_10-47-53",
+			"paypal": "",
+			"telegram": "https://t.me/spidet_t"
+		}
+	]
+}
