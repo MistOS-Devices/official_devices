@@ -9,3 +9,10 @@ Device maintainer: Suchit
 - Initial android 17 release
 - Double tap to wake has been fixed
 - 1 October 2026 security patch
+
+======================
+   Date: 26-11-2026
+======================
+- Update to MistOS 5.2 stable
+- Added Xiaomi Camera
+- 1 November 2026 security patch
