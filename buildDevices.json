@@ -472,6 +472,21 @@
         "picobuild": false,
         "minibuild": false,
         "vanillaBuild": false
+    },
+    {
+        "OEM": "OnePlus",
+        "deviceName": "OnePlus 9",
+        "codename": "lemonade",
+        "maintainer": "Spidey",
+        "telegram": "https://t.me/spidey_t",
+        "donate": "",
+        "enabled": true,
+        "repo": "MistOS-Devices/device_oneplus_lemonade",
+        "build_type": "userdebug",
+        "gappsbuild": true,
+        "picobuild": false,
+        "minibuild": false,
+        "vanillaBuild": false
     }
   ]
 }
